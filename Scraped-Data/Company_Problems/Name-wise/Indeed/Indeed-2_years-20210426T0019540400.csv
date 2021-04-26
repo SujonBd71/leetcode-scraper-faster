@@ -1,0 +1,15 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+23,Merge k Sorted Lists,"Linked List, Divide and Conquer, Heap",43.2%,Hard,1.30526,https://leetcode.com/problems/merge-k-sorted-lists
+68,Text Justification,String,30.4%,Hard,54.1196,https://leetcode.com/problems/text-justification
+85,Maximal Rectangle,"Array, Hash Table, Dynamic Programming, Stack",39.8%,Hard,1.33989,https://leetcode.com/problems/maximal-rectangle
+224,Basic Calculator,"Math, Stack",38.3%,Hard,71.5191,https://leetcode.com/problems/basic-calculator
+227,Basic Calculator II,"String, Stack",38.9%,Medium,1.93904,https://leetcode.com/problems/basic-calculator-ii
+295,Find Median from Data Stream,"Heap, Design",47.6%,Hard,0.571906,https://leetcode.com/problems/find-median-from-data-stream
+346,Moving Average from Data Stream,"Design, Queue",73.8%,Easy,14.0261,https://leetcode.com/problems/moving-average-from-data-stream
+362,Design Hit Counter,Design,65.6%,Medium,8.29387,https://leetcode.com/problems/design-hit-counter
+480,Sliding Window Median,Sliding Window,39.0%,Hard,2.69508,https://leetcode.com/problems/sliding-window-median
+718,Maximum Length of Repeated Subarray,"Array, Hash Table, Binary Search, Dynamic Programming",50.6%,Medium,52.2195,https://leetcode.com/problems/maximum-length-of-repeated-subarray
+770,Basic Calculator IV,"Hash Table, String, Stack",54.4%,Hard,42.507,https://leetcode.com/problems/basic-calculator-iv
+811,Subdomain Visit Count,Hash Table,71.8%,Easy,100.0,https://leetcode.com/problems/subdomain-visit-count
+1143,Longest Common Subsequence,Dynamic Programming,58.7%,Medium,1.61808,https://leetcode.com/problems/longest-common-subsequence
+1197,Minimum Knight Moves,Breadth-first Search,37.6%,Medium,13.9851,https://leetcode.com/problems/minimum-knight-moves

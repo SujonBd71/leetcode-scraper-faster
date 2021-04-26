@@ -1,0 +1,66 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+1,Two Sum,"Array, Hash Table",46.8%,Easy,0.20073,https://leetcode.com/problems/two-sum
+10,Regular Expression Matching,"String, Dynamic Programming, Backtracking",27.5%,Hard,0.186467,https://leetcode.com/problems/regular-expression-matching
+20,Valid Parentheses,"String, Stack",40.0%,Easy,0.0472162,https://leetcode.com/problems/valid-parentheses
+23,Merge k Sorted Lists,"Linked List, Divide and Conquer, Heap",43.2%,Hard,0.952882,https://leetcode.com/problems/merge-k-sorted-lists
+34,Find First and Last Position of Element in Sorted Array,"Array, Binary Search",37.6%,Medium,0.24674,https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array
+42,Trapping Rain Water,"Array, Two Pointers, Dynamic Programming, Stack",51.8%,Hard,0.0883526,https://leetcode.com/problems/trapping-rain-water
+56,Merge Intervals,"Array, Sort",41.5%,Medium,1.32113,https://leetcode.com/problems/merge-intervals
+57,Insert Interval,"Array, Sort",35.4%,Medium,16.6295,https://leetcode.com/problems/insert-interval
+68,Text Justification,String,30.4%,Hard,2.8204,https://leetcode.com/problems/text-justification
+79,Word Search,"Array, Backtracking",37.3%,Medium,0.301264,https://leetcode.com/problems/word-search
+84,Largest Rectangle in Histogram,"Array, Stack",37.5%,Hard,0.243358,https://leetcode.com/problems/largest-rectangle-in-histogram
+101,Symmetric Tree,"Tree, Depth-first Search, Breadth-first Search",48.6%,Easy,0.196867,https://leetcode.com/problems/symmetric-tree
+105,Construct Binary Tree from Preorder and Inorder Traversal,"Array, Tree, Depth-first Search",52.6%,Medium,0.164499,https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal
+128,Longest Consecutive Sequence,"Array, Union Find",46.6%,Hard,0.539865,https://leetcode.com/problems/longest-consecutive-sequence
+133,Clone Graph,"Depth-first Search, Breadth-first Search, Graph",40.1%,Medium,0.737637,https://leetcode.com/problems/clone-graph
+139,Word Break,Dynamic Programming,42.0%,Medium,0.115073,https://leetcode.com/problems/word-break
+146,LRU Cache,Design,36.4%,Medium,0.234236,https://leetcode.com/problems/lru-cache
+155,Min Stack,"Stack, Design",46.9%,Easy,0.129459,https://leetcode.com/problems/min-stack
+161,One Edit Distance,String,33.2%,Medium,0.840823,https://leetcode.com/problems/one-edit-distance
+198,House Robber,Dynamic Programming,43.2%,Medium,0.127234,https://leetcode.com/problems/house-robber
+206,Reverse Linked List,Linked List,65.9%,Easy,0.0500577,https://leetcode.com/problems/reverse-linked-list
+208,Implement Trie (Prefix Tree),"Design, Trie",52.8%,Medium,0.512611,https://leetcode.com/problems/implement-trie-prefix-tree
+210,Course Schedule II,"Depth-first Search, Breadth-first Search, Graph, Topological Sort",43.1%,Medium,0.167292,https://leetcode.com/problems/course-schedule-ii
+212,Word Search II,"Backtracking, Trie",37.6%,Hard,1.05122,https://leetcode.com/problems/word-search-ii
+218,The Skyline Problem,"Divide and Conquer, Heap, Binary Indexed Tree, Segment Tree, Line Sweep",36.7%,Hard,2.3483,https://leetcode.com/problems/the-skyline-problem
+221,Maximal Square,Dynamic Programming,39.7%,Medium,2.88011,https://leetcode.com/problems/maximal-square
+238,Product of Array Except Self,Array,61.4%,Medium,0.0841795,https://leetcode.com/problems/product-of-array-except-self
+239,Sliding Window Maximum,"Heap, Sliding Window, Dequeue",44.8%,Hard,2.16109,https://leetcode.com/problems/sliding-window-maximum
+253,Meeting Rooms II,"Heap, Greedy, Sort",47.2%,Medium,0.337469,https://leetcode.com/problems/meeting-rooms-ii
+256,Paint House,Dynamic Programming,54.1%,Medium,43.9312,https://leetcode.com/problems/paint-house
+269,Alien Dictionary,"Graph, Topological Sort",33.8%,Hard,0.80698,https://leetcode.com/problems/alien-dictionary
+295,Find Median from Data Stream,"Heap, Design",47.6%,Hard,1.64777,https://leetcode.com/problems/find-median-from-data-stream
+300,Longest Increasing Subsequence,"Binary Search, Dynamic Programming",44.7%,Medium,0.117549,https://leetcode.com/problems/longest-increasing-subsequence
+307,Range Sum Query - Mutable,"Binary Indexed Tree, Segment Tree",37.1%,Medium,1.30362,https://leetcode.com/problems/range-sum-query-mutable
+332,Reconstruct Itinerary,"Depth-first Search, Graph",38.3%,Medium,1.37823,https://leetcode.com/problems/reconstruct-itinerary
+340,Longest Substring with At Most K Distinct Characters,"Hash Table, Two Pointers, String, Sliding Window",45.8%,Medium,0.34907,https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters
+341,Flatten Nested List Iterator,"Stack, Design",56.0%,Medium,0.628278,https://leetcode.com/problems/flatten-nested-list-iterator
+380,Insert Delete GetRandom O(1),"Array, Hash Table, Design",49.2%,Medium,9.44014,https://leetcode.com/problems/insert-delete-getrandom-o1
+387,First Unique Character in a String,"Hash Table, String",54.0%,Easy,0.10603,https://leetcode.com/problems/first-unique-character-in-a-string
+496,Next Greater Element I,Stack,66.0%,Easy,0.739837,https://leetcode.com/problems/next-greater-element-i
+528,Random Pick with Weight,"Binary Search, Random",44.8%,Medium,1.1626,https://leetcode.com/problems/random-pick-with-weight
+532,K-diff Pairs in an Array,"Array, Two Pointers",35.6%,Medium,15.0954,https://leetcode.com/problems/k-diff-pairs-in-an-array
+540,Single Element in a Sorted Array,Binary Search,57.9%,Medium,3.27244,https://leetcode.com/problems/single-element-in-a-sorted-array
+547,Number of Provinces,"Depth-first Search, Union Find",60.9%,Medium,5.20903,https://leetcode.com/problems/number-of-provinces
+635,Design Log Storage System,"String, Design",60.2%,Medium,72.6984,https://leetcode.com/problems/design-log-storage-system
+647,Palindromic Substrings,"String, Dynamic Programming",62.8%,Medium,1.04908,https://leetcode.com/problems/palindromic-substrings
+679,24 Game,Depth-first Search,47.3%,Hard,2.09817,https://leetcode.com/problems/24-game
+697,Degree of an Array,Array,54.5%,Easy,0.718968,https://leetcode.com/problems/degree-of-an-array
+706,Design HashMap,"Hash Table, Design",64.0%,Easy,3.98909,https://leetcode.com/problems/design-hashmap
+716,Max Stack,Design,43.2%,Easy,2.94869,https://leetcode.com/problems/max-stack
+721,Accounts Merge,"Depth-first Search, Union Find",52.5%,Medium,1.8993,https://leetcode.com/problems/accounts-merge
+724,Find Pivot Index,Array,46.3%,Easy,1.28428,https://leetcode.com/problems/find-pivot-index
+739,Daily Temperatures,"Hash Table, Stack",64.9%,Medium,0.243147,https://leetcode.com/problems/daily-temperatures
+767,Reorganize String,"String, Heap, Greedy, Sort",50.3%,Medium,0.856611,https://leetcode.com/problems/reorganize-string
+780,Reaching Points,Math,30.5%,Hard,62.9649,https://leetcode.com/problems/reaching-points
+920,Number of Music Playlists,Dynamic Programming,48.2%,Hard,4.86569,https://leetcode.com/problems/number-of-music-playlists
+945,Minimum Increment to Make Array Unique,Array,46.9%,Medium,15.3998,https://leetcode.com/problems/minimum-increment-to-make-array-unique
+981,Time Based Key-Value Store,"Hash Table, Binary Search",54.3%,Medium,2.70015,https://leetcode.com/problems/time-based-key-value-store
+1041,Robot Bounded In Circle,Math,55.1%,Medium,0.209944,https://leetcode.com/problems/robot-bounded-in-circle
+1151,Minimum Swaps to Group All 1's Together,"Array, Sliding Window",58.7%,Medium,0.813025,https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together
+1197,Minimum Knight Moves,Breadth-first Search,37.6%,Medium,0.538526,https://leetcode.com/problems/minimum-knight-moves
+1297,Maximum Number of Occurrences of a Substring,"String, Bit Manipulation",50.9%,Medium,15.6838,https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring
+1326,Minimum Number of Taps to Open to Water a Garden,"Dynamic Programming, Greedy",47.5%,Hard,9.43245,https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden
+1348,Tweet Counts Per Frequency,Design,37.4%,Medium,100.0,https://leetcode.com/problems/tweet-counts-per-frequency
+1492,The kth Factor of n,Math,63.1%,Medium,1.54618,https://leetcode.com/problems/the-kth-factor-of-n

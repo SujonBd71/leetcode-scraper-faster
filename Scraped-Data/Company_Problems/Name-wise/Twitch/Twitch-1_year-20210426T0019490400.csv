@@ -1,0 +1,6 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+65,Valid Number,"Math, String",16.1%,Hard,54.5765,https://leetcode.com/problems/valid-number
+419,Battleships in a Board,,71.3%,Medium,100.0,https://leetcode.com/problems/battleships-in-a-board
+460,LFU Cache,Design,36.6%,Hard,55.7618,https://leetcode.com/problems/lfu-cache
+841,Keys and Rooms,"Depth-first Search, Graph",66.5%,Medium,57.3954,https://leetcode.com/problems/keys-and-rooms
+1136,Parallel Courses,"Dynamic Programming, Depth-first Search, Graph",61.1%,Medium,42.6046,https://leetcode.com/problems/parallel-courses

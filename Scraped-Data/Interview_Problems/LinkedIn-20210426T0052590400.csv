@@ -1,0 +1,50 @@
+ChapterSerial,Chapter,ProblemSerial,Problem,Id,Acceptance,Difficulty,Frequency,Link
+1,Array and Strings,1,Two Sum,1,46.8%,Easy,100.0,https://leetcode.com/problems/two-sum
+1,Array and Strings,2,Valid Number,65,16.1%,Hard,52.3912,https://leetcode.com/problems/valid-number
+1,Array and Strings,3,Text Justification,68,30.4%,Hard,95.7075,https://leetcode.com/problems/text-justification
+1,Array and Strings,4,Minimum Window Substring,76,36.3%,Hard,68.6909,https://leetcode.com/problems/minimum-window-substring
+1,Array and Strings,5,Shortest Word Distance,243,62.2%,Easy,27.8236,https://leetcode.com/problems/shortest-word-distance
+1,Array and Strings,6,Integer to English Words,273,28.4%,Hard,86.1401,https://leetcode.com/problems/integer-to-english-words
+1,Array and Strings,7,Find the Celebrity,277,44.2%,Medium,46.2341,https://leetcode.com/problems/find-the-celebrity
+1,Array and Strings,8,Can Place Flowers,605,31.7%,Easy,36.0782,https://leetcode.com/problems/can-place-flowers
+1,Array and Strings,9,Isomorphic Strings,205,40.7%,Easy,36.3202,https://leetcode.com/problems/isomorphic-strings
+2,Trees and Graphs,1,Binary Tree Level Order Traversal,102,57.1%,Medium,48.8782,https://leetcode.com/problems/binary-tree-level-order-traversal
+2,Trees and Graphs,2,Maximum Depth of Binary Tree,104,68.5%,Easy,30.6851,https://leetcode.com/problems/maximum-depth-of-binary-tree
+2,Trees and Graphs,3,Word Ladder,127,32.3%,Hard,86.8287,https://leetcode.com/problems/word-ladder
+2,Trees and Graphs,4,Binary Tree Upside Down,156,56.7%,Medium,9.52645,https://leetcode.com/problems/binary-tree-upside-down
+2,Trees and Graphs,5,Number of Islands,200,49.7%,Medium,97.487,https://leetcode.com/problems/number-of-islands
+2,Trees and Graphs,6,Lowest Common Ancestor of a Binary Search Tree,235,52.3%,Easy,23.7453,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree
+2,Trees and Graphs,7,Lowest Common Ancestor of a Binary Tree,236,49.6%,Medium,76.4407,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree
+2,Trees and Graphs,8,Closest Binary Search Tree Value II,272,52.8%,Hard,21.305,https://leetcode.com/problems/closest-binary-search-tree-value-ii
+2,Trees and Graphs,9,Find Leaves of Binary Tree,366,72.3%,Medium,16.9136,https://leetcode.com/problems/find-leaves-of-binary-tree
+2,Trees and Graphs,10,Second Minimum Node In a Binary Tree,671,42.8%,Easy,28.2196,https://leetcode.com/problems/second-minimum-node-in-a-binary-tree
+3,Recursion and Backtracking,1,Combination Sum,39,59.9%,Medium,62.141,https://leetcode.com/problems/combination-sum
+3,Recursion and Backtracking,2,Permutations,46,67.3%,Medium,59.2711,https://leetcode.com/problems/permutations
+3,Recursion and Backtracking,3,Permutations II,47,50.0%,Medium,21.6564,https://leetcode.com/problems/permutations-ii
+3,Recursion and Backtracking,4,Factor Combinations,254,47.6%,Medium,16.7082,https://leetcode.com/problems/factor-combinations
+3,Recursion and Backtracking,5,Nested List Weight Sum,339,77.0%,Medium,51.773,https://leetcode.com/problems/nested-list-weight-sum
+3,Recursion and Backtracking,6,Nested List Weight Sum II,364,64.1%,Medium,60.2697,https://leetcode.com/problems/nested-list-weight-sum-ii
+4,"Heap, Queue, Stack",1,Valid Parentheses,20,40.0%,Easy,90.704,https://leetcode.com/problems/valid-parentheses
+4,"Heap, Queue, Stack",2,Evaluate Reverse Polish Notation,150,38.4%,Medium,53.2661,https://leetcode.com/problems/evaluate-reverse-polish-notation
+4,"Heap, Queue, Stack",3,Kth Largest Element in an Array,215,59.1%,Medium,83.7945,https://leetcode.com/problems/kth-largest-element-in-an-array
+4,"Heap, Queue, Stack",4,Exclusive Time of Functions,636,55.2%,Medium,60.8986,https://leetcode.com/problems/exclusive-time-of-functions
+5,Sorting and Searching,1,Search in Rotated Sorted Array,33,36.2%,Medium,76.8435,https://leetcode.com/problems/search-in-rotated-sorted-array
+5,Sorting and Searching,2,Find First and Last Position of Element in Sorted Array,34,37.6%,Medium,57.7047,https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array
+5,Sorting and Searching,3,"Pow(x, n)",50,31.1%,Medium,66.3668,https://leetcode.com/problems/powx-n
+5,Sorting and Searching,4,Merge Intervals,56,41.5%,Medium,97.3828,https://leetcode.com/problems/merge-intervals
+5,Sorting and Searching,5,Sqrt(x),69,35.5%,Easy,30.6727,https://leetcode.com/problems/sqrtx
+5,Sorting and Searching,6,Random Pick with Weight,528,44.8%,Medium,81.8219,https://leetcode.com/problems/random-pick-with-weight
+6,Dynamic Programming,1,Maximum Subarray,53,47.9%,Easy,82.6454,https://leetcode.com/problems/maximum-subarray
+6,Dynamic Programming,2,Edit Distance,72,47.2%,Hard,56.3727,https://leetcode.com/problems/edit-distance
+6,Dynamic Programming,3,Maximum Product Subarray,152,32.9%,Medium,63.9004,https://leetcode.com/problems/maximum-product-subarray
+6,Dynamic Programming,4,Paint House,256,54.1%,Medium,42.0176,https://leetcode.com/problems/paint-house
+6,Dynamic Programming,5,Paint House II,265,46.1%,Hard,13.9259,https://leetcode.com/problems/paint-house-ii
+6,Dynamic Programming,6,Partition to K Equal Sum Subsets,698,45.5%,Medium,45.6326,https://leetcode.com/problems/partition-to-k-equal-sum-subsets
+7,Design,1,Two Sum III - Data structure design,170,35.1%,Easy,6.0127,https://leetcode.com/problems/two-sum-iii-data-structure-design
+7,Design,2,Shortest Word Distance II,244,54.7%,Medium,63.9984,https://leetcode.com/problems/shortest-word-distance-ii
+7,Design,3,Serialize and Deserialize Binary Tree,297,50.4%,Hard,76.6441,https://leetcode.com/problems/serialize-and-deserialize-binary-tree
+7,Design,4,Flatten Nested List Iterator,341,56.0%,Medium,40.1857,https://leetcode.com/problems/flatten-nested-list-iterator
+7,Design,5,Insert Delete GetRandom O(1),380,49.2%,Medium,89.3784,https://leetcode.com/problems/insert-delete-getrandom-o1
+7,Design,6,All O`one Data Structure,432,33.3%,Hard,44.8702,https://leetcode.com/problems/all-oone-data-structure
+7,Design,7,Max Stack,716,43.2%,Easy,55.8568,https://leetcode.com/problems/max-stack
+7,Design,8,Design HashMap,706,64.0%,Easy,67.9574,https://leetcode.com/problems/design-hashmap

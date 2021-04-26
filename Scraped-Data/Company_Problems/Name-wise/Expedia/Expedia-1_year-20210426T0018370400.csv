@@ -1,0 +1,39 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+1,Two Sum,"Array, Hash Table",46.8%,Easy,1.84187,https://leetcode.com/problems/two-sum
+3,Longest Substring Without Repeating Characters,"Hash Table, Two Pointers, String, Sliding Window",31.6%,Medium,0.152329,https://leetcode.com/problems/longest-substring-without-repeating-characters
+20,Valid Parentheses,"String, Stack",40.0%,Easy,2.58872,https://leetcode.com/problems/valid-parentheses
+21,Merge Two Sorted Lists,"Linked List, Recursion",56.5%,Easy,0.24112,https://leetcode.com/problems/merge-two-sorted-lists
+33,Search in Rotated Sorted Array,"Array, Binary Search",36.2%,Medium,1.41955,https://leetcode.com/problems/search-in-rotated-sorted-array
+42,Trapping Rain Water,"Array, Two Pointers, Dynamic Programming, Stack",51.8%,Hard,0.398431,https://leetcode.com/problems/trapping-rain-water
+49,Group Anagrams,"Hash Table, String",59.9%,Medium,0.975042,https://leetcode.com/problems/group-anagrams
+54,Spiral Matrix,Array,36.7%,Medium,1.48537,https://leetcode.com/problems/spiral-matrix
+63,Unique Paths II,"Array, Dynamic Programming",35.4%,Medium,1.15047,https://leetcode.com/problems/unique-paths-ii
+70,Climbing Stairs,Dynamic Programming,48.8%,Easy,6.46258,https://leetcode.com/problems/climbing-stairs
+73,Set Matrix Zeroes,Array,44.7%,Medium,0.831576,https://leetcode.com/problems/set-matrix-zeroes
+75,Sort Colors,"Array, Two Pointers, Sort",50.0%,Medium,0.584669,https://leetcode.com/problems/sort-colors
+79,Word Search,"Array, Backtracking",37.3%,Medium,0.605253,https://leetcode.com/problems/word-search
+121,Best Time to Buy and Sell Stock,"Array, Dynamic Programming",51.9%,Easy,0.827812,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+146,LRU Cache,Design,36.4%,Medium,0.470341,https://leetcode.com/problems/lru-cache
+151,Reverse Words in a String,String,24.3%,Medium,0.865693,https://leetcode.com/problems/reverse-words-in-a-string
+198,House Robber,Dynamic Programming,43.2%,Medium,0.573769,https://leetcode.com/problems/house-robber
+200,Number of Islands,"Depth-first Search, Breadth-first Search, Union Find",49.7%,Medium,2.77658,https://leetcode.com/problems/number-of-islands
+206,Reverse Linked List,Linked List,65.9%,Easy,0.225738,https://leetcode.com/problems/reverse-linked-list
+215,Kth Largest Element in an Array,"Divide and Conquer, Heap",59.1%,Medium,0.448827,https://leetcode.com/problems/kth-largest-element-in-an-array
+239,Sliding Window Maximum,"Heap, Sliding Window, Dequeue",44.8%,Hard,0.818522,https://leetcode.com/problems/sliding-window-maximum
+253,Meeting Rooms II,"Heap, Greedy, Sort",47.2%,Medium,0.678186,https://leetcode.com/problems/meeting-rooms-ii
+332,Reconstruct Itinerary,"Depth-first Search, Graph",38.3%,Medium,3.52613,https://leetcode.com/problems/reconstruct-itinerary
+423,Reconstruct Original Digits from English,Math,50.9%,Medium,0.568034,https://leetcode.com/problems/reconstruct-original-digits-from-english
+426,Convert Binary Search Tree to Sorted Doubly Linked List,"Linked List, Divide and Conquer, Tree",61.7%,Medium,1.75646,https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list
+443,String Compression,String,44.3%,Medium,1.33811,https://leetcode.com/problems/string-compression
+528,Random Pick with Weight,"Binary Search, Random",44.8%,Medium,5.24282,https://leetcode.com/problems/random-pick-with-weight
+532,K-diff Pairs in an Array,"Array, Two Pointers",35.6%,Medium,2.78926,https://leetcode.com/problems/k-diff-pairs-in-an-array
+647,Palindromic Substrings,"String, Dynamic Programming",62.8%,Medium,0.87964,https://leetcode.com/problems/palindromic-substrings
+706,Design HashMap,"Hash Table, Design",64.0%,Easy,1.54789,https://leetcode.com/problems/design-hashmap
+787,Cheapest Flights Within K Stops,"Dynamic Programming, Heap, Breadth-first Search",39.7%,Medium,8.88848,https://leetcode.com/problems/cheapest-flights-within-k-stops
+974,Subarray Sums Divisible by K,"Array, Hash Table",51.1%,Medium,7.89686,https://leetcode.com/problems/subarray-sums-divisible-by-k
+1041,Robot Bounded In Circle,Math,55.1%,Medium,0.946754,https://leetcode.com/problems/robot-bounded-in-circle
+1197,Minimum Knight Moves,Breadth-first Search,37.6%,Medium,51.7019,https://leetcode.com/problems/minimum-knight-moves
+1465,Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts,Array,34.1%,Medium,21.2006,https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts
+1481,Least Number of Unique Integers after K Removals,"Array, Sort",55.9%,Medium,5.46302,https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals
+1492,The kth Factor of n,Math,63.1%,Medium,69.4987,https://leetcode.com/problems/the-kth-factor-of-n
+1507,Reformat Date,String,60.2%,Easy,100.0,https://leetcode.com/problems/reformat-date

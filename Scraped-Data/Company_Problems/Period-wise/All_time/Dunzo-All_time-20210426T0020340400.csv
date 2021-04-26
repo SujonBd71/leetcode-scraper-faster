@@ -1,0 +1,10 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+222,Count Complete Tree Nodes,"Binary Search, Tree",49.9%,Medium,9.24204,https://leetcode.com/problems/count-complete-tree-nodes
+907,Sum of Subarray Minimums,"Array, Stack",33.1%,Medium,100.0,https://leetcode.com/problems/sum-of-subarray-minimums
+1235,Maximum Profit in Job Scheduling,"Binary Search, Dynamic Programming, Sort",47.8%,Hard,54.621,https://leetcode.com/problems/maximum-profit-in-job-scheduling
+1397,Find All Good Strings,Dynamic Programming,38.8%,Hard,0.0,https://leetcode.com/problems/find-all-good-strings
+1420,Build Array Where You Can Find The Maximum Exactly K Comparisons,Dynamic Programming,64.2%,Hard,0.0,https://leetcode.com/problems/build-array-where-you-can-find-the-maximum-exactly-k-comparisons
+1639,Number of Ways to Form a Target String Given a Dictionary,Dynamic Programming,40.1%,Hard,0.0,https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dictionary
+1664,Ways to Make a Fair Array,"Dynamic Programming, Greedy",62.1%,Medium,0.0,https://leetcode.com/problems/ways-to-make-a-fair-array
+1690,Stone Game VII,Dynamic Programming,49.1%,Medium,0.0,https://leetcode.com/problems/stone-game-vii
+1698,Number of Distinct Substrings in a String,"String, Trie, Rolling Hash, Suffix Array",60.5%,Medium,0.0,https://leetcode.com/problems/number-of-distinct-substrings-in-a-string

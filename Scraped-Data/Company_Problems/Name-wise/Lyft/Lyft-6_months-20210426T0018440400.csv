@@ -1,0 +1,12 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+76,Minimum Window Substring,"Hash Table, Two Pointers, String, Sliding Window",36.3%,Hard,3.11666,https://leetcode.com/problems/minimum-window-substring
+91,Decode Ways,"String, Dynamic Programming",27.0%,Medium,8.16819,https://leetcode.com/problems/decode-ways
+127,Word Ladder,Breadth-first Search,32.3%,Hard,10.8201,https://leetcode.com/problems/word-ladder
+143,Reorder List,Linked List,41.3%,Medium,2.75689,https://leetcode.com/problems/reorder-list
+158,Read N Characters Given Read4 II - Call multiple times,String,37.6%,Hard,100.0,https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times
+238,Product of Array Except Self,Array,61.4%,Medium,3.05903,https://leetcode.com/problems/product-of-array-except-self
+304,Range Sum Query 2D - Immutable,Dynamic Programming,41.4%,Medium,16.7716,https://leetcode.com/problems/range-sum-query-2d-immutable
+365,Water and Jug Problem,Math,31.4%,Medium,15.8493,https://leetcode.com/problems/water-and-jug-problem
+642,Design Search Autocomplete System,"Design, Trie",46.6%,Hard,46.2304,https://leetcode.com/problems/design-search-autocomplete-system
+716,Max Stack,Design,43.2%,Easy,75.6893,https://leetcode.com/problems/max-stack
+735,Asteroid Collision,Stack,43.4%,Medium,10.4225,https://leetcode.com/problems/asteroid-collision

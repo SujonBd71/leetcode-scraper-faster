@@ -1,0 +1,17 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+3,Longest Substring Without Repeating Characters,"Hash Table, Two Pointers, String, Sliding Window",31.6%,Medium,0.325564,https://leetcode.com/problems/longest-substring-without-repeating-characters
+56,Merge Intervals,"Array, Sort",41.5%,Medium,1.43878,https://leetcode.com/problems/merge-intervals
+62,Unique Paths,"Array, Dynamic Programming",56.4%,Medium,1.20599,https://leetcode.com/problems/unique-paths
+139,Word Break,Dynamic Programming,42.0%,Medium,1.10908,https://leetcode.com/problems/word-break
+146,LRU Cache,Design,36.4%,Medium,1.00524,https://leetcode.com/problems/lru-cache
+151,Reverse Words in a String,String,24.3%,Medium,1.8502,https://leetcode.com/problems/reverse-words-in-a-string
+295,Find Median from Data Stream,"Heap, Design",47.6%,Hard,4.041,https://leetcode.com/problems/find-median-from-data-stream
+460,LFU Cache,Design,36.6%,Hard,5.2306,https://leetcode.com/problems/lfu-cache
+488,Zuma Game,Depth-first Search,38.1%,Hard,100.0,https://leetcode.com/problems/zuma-game
+678,Valid Parenthesis String,String,31.8%,Medium,42.2992,https://leetcode.com/problems/valid-parenthesis-string
+696,Count Binary Substrings,String,61.2%,Easy,1.087,https://leetcode.com/problems/count-binary-substrings
+739,Daily Temperatures,"Hash Table, Stack",64.9%,Medium,2.34346,https://leetcode.com/problems/daily-temperatures
+1163,Last Substring in Lexicographical Order,"String, Suffix Array",36.2%,Hard,20.3444,https://leetcode.com/problems/last-substring-in-lexicographical-order
+1283,Find the Smallest Divisor Given a Threshold,Binary Search,50.0%,Medium,12.1932,https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold
+1465,Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts,Array,34.1%,Medium,3.93589,https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts
+1718,Construct the Lexicographically Largest Valid Sequence,"Backtracking, Recursion",47.0%,Medium,71.1496,https://leetcode.com/problems/construct-the-lexicographically-largest-valid-sequence

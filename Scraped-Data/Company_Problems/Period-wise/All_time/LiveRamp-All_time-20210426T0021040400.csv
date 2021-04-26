@@ -1,0 +1,7 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+20,Valid Parentheses,"String, Stack",40.0%,Easy,2.7435,https://leetcode.com/problems/valid-parentheses
+529,Minesweeper,"Depth-first Search, Breadth-first Search",61.6%,Medium,100.0,https://leetcode.com/problems/minesweeper
+575,Distribute Candies,Hash Table,64.4%,Easy,65.0296,https://leetcode.com/problems/distribute-candies
+581,Shortest Unsorted Continuous Subarray,Array,33.0%,Medium,37.7139,https://leetcode.com/problems/shortest-unsorted-continuous-subarray
+594,Longest Harmonious Subsequence,Hash Table,51.3%,Easy,0.0,https://leetcode.com/problems/longest-harmonious-subsequence
+949,Largest Time for Given Digits,Math,36.2%,Medium,0.0,https://leetcode.com/problems/largest-time-for-given-digits

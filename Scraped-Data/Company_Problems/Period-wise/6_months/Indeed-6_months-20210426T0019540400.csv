@@ -1,0 +1,8 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+23,Merge k Sorted Lists,"Linked List, Divide and Conquer, Heap",43.2%,Hard,2.0972,https://leetcode.com/problems/merge-k-sorted-lists
+68,Text Justification,String,30.4%,Hard,100.0,https://leetcode.com/problems/text-justification
+224,Basic Calculator,"Math, Stack",38.3%,Hard,62.0323,https://leetcode.com/problems/basic-calculator
+346,Moving Average from Data Stream,"Design, Queue",73.8%,Easy,17.388,https://leetcode.com/problems/moving-average-from-data-stream
+718,Maximum Length of Repeated Subarray,"Array, Hash Table, Binary Search, Dynamic Programming",50.6%,Medium,22.5588,https://leetcode.com/problems/maximum-length-of-repeated-subarray
+811,Subdomain Visit Count,Hash Table,71.8%,Easy,60.5265,https://leetcode.com/problems/subdomain-visit-count
+1197,Minimum Knight Moves,Breadth-first Search,37.6%,Medium,10.5386,https://leetcode.com/problems/minimum-knight-moves

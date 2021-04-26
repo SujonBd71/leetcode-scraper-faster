@@ -1,0 +1,11 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+10,Regular Expression Matching,"String, Dynamic Programming, Backtracking",27.5%,Hard,52.9991,https://leetcode.com/problems/regular-expression-matching
+44,Wildcard Matching,"String, Dynamic Programming, Backtracking, Greedy",25.6%,Hard,10.892,https://leetcode.com/problems/wildcard-matching
+68,Text Justification,String,30.4%,Hard,67.69,https://leetcode.com/problems/text-justification
+453,Minimum Moves to Equal Array Elements,Math,51.0%,Easy,58.1385,https://leetcode.com/problems/minimum-moves-to-equal-array-elements
+761,Special Binary String,"String, Recursion",58.8%,Hard,58.2123,https://leetcode.com/problems/special-binary-string
+780,Reaching Points,Math,30.5%,Hard,20.6892,https://leetcode.com/problems/reaching-points
+920,Number of Music Playlists,Dynamic Programming,48.2%,Hard,100.0,https://leetcode.com/problems/number-of-music-playlists
+945,Minimum Increment to Make Array Unique,Array,46.9%,Medium,0.0,https://leetcode.com/problems/minimum-increment-to-make-array-unique
+1112,Highest Grade For Each Student,,72.4%,Medium,7.51313,https://leetcode.com/problems/highest-grade-for-each-student
+1137,N-th Tribonacci Number,Recursion,55.8%,Easy,0.0,https://leetcode.com/problems/n-th-tribonacci-number

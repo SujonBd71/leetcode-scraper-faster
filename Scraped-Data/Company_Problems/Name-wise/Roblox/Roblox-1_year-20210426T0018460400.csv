@@ -1,0 +1,27 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+13,Roman to Integer,"Math, String",57.1%,Easy,2.64825,https://leetcode.com/problems/roman-to-integer
+36,Valid Sudoku,Hash Table,51.0%,Medium,18.1736,https://leetcode.com/problems/valid-sudoku
+37,Sudoku Solver,"Hash Table, Backtracking",47.3%,Hard,2.64011,https://leetcode.com/problems/sudoku-solver
+146,LRU Cache,Design,36.4%,Medium,0.306144,https://leetcode.com/problems/lru-cache
+200,Number of Islands,"Depth-first Search, Breadth-first Search, Union Find",49.7%,Medium,0.454809,https://leetcode.com/problems/number-of-islands
+207,Course Schedule,"Depth-first Search, Breadth-first Search, Graph, Topological Sort",44.3%,Medium,2.35136,https://leetcode.com/problems/course-schedule
+210,Course Schedule II,"Depth-first Search, Breadth-first Search, Graph, Topological Sort",43.1%,Medium,1.10157,https://leetcode.com/problems/course-schedule-ii
+224,Basic Calculator,"Math, Stack",38.3%,Hard,63.3664,https://leetcode.com/problems/basic-calculator
+227,Basic Calculator II,"String, Stack",38.9%,Medium,7.24856,https://leetcode.com/problems/basic-calculator-ii
+236,Lowest Common Ancestor of a Binary Tree,Tree,49.6%,Medium,0.308166,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree
+253,Meeting Rooms II,"Heap, Greedy, Sort",47.2%,Medium,0.44143,https://leetcode.com/problems/meeting-rooms-ii
+256,Paint House,Dynamic Programming,54.1%,Medium,81.6832,https://leetcode.com/problems/paint-house
+363,Max Sum of Rectangle No Larger Than K,"Binary Search, Dynamic Programming, Queue",38.6%,Hard,10.8042,https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k
+528,Random Pick with Weight,"Binary Search, Random",44.8%,Medium,7.52464,https://leetcode.com/problems/random-pick-with-weight
+718,Maximum Length of Repeated Subarray,"Array, Hash Table, Binary Search, Dynamic Programming",50.6%,Medium,3.38364,https://leetcode.com/problems/maximum-length-of-repeated-subarray
+770,Basic Calculator IV,"Hash Table, String, Stack",54.4%,Hard,100.0,https://leetcode.com/problems/basic-calculator-iv
+811,Subdomain Visit Count,Hash Table,71.8%,Easy,49.8448,https://leetcode.com/problems/subdomain-visit-count
+881,Boats to Save People,"Two Pointers, Greedy",49.1%,Medium,63.342,https://leetcode.com/problems/boats-to-save-people
+931,Minimum Falling Path Sum,Dynamic Programming,63.9%,Medium,2.09635,https://leetcode.com/problems/minimum-falling-path-sum
+1209,Remove All Adjacent Duplicates in String II,Stack,57.8%,Medium,8.699,https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii
+1289,Minimum Falling Path Sum II,Dynamic Programming,62.6%,Hard,29.3226,https://leetcode.com/problems/minimum-falling-path-sum-ii
+1292,Maximum Side Length of a Square with Sum Less than or Equal to Threshold,"Array, Binary Search",50.9%,Medium,12.31,https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold
+1465,Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts,Array,34.1%,Medium,4.71295,https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts
+1472,Design Browser History,Design,72.2%,Medium,19.998,https://leetcode.com/problems/design-browser-history
+1481,Least Number of Unique Integers after K Removals,"Array, Sort",55.9%,Medium,36.844,https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals
+1710,Maximum Units on a Truck,"Greedy, Sort",69.9%,Easy,7.23907,https://leetcode.com/problems/maximum-units-on-a-truck

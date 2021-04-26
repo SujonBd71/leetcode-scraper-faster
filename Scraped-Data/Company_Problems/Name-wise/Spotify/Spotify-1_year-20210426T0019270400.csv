@@ -1,0 +1,16 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+3,Longest Substring Without Repeating Characters,"Hash Table, Two Pointers, String, Sliding Window",31.6%,Medium,1.70052,https://leetcode.com/problems/longest-substring-without-repeating-characters
+20,Valid Parentheses,"String, Stack",40.0%,Easy,7.23523,https://leetcode.com/problems/valid-parentheses
+22,Generate Parentheses,"String, Backtracking",65.9%,Medium,1.49386,https://leetcode.com/problems/generate-parentheses
+66,Plus One,Array,42.2%,Easy,2.42204,https://leetcode.com/problems/plus-one
+75,Sort Colors,"Array, Two Pointers, Sort",50.0%,Medium,1.63409,https://leetcode.com/problems/sort-colors
+128,Longest Consecutive Sequence,"Array, Union Find",46.6%,Hard,3.03713,https://leetcode.com/problems/longest-consecutive-sequence
+206,Reverse Linked List,Linked List,65.9%,Easy,0.630917,https://leetcode.com/problems/reverse-linked-list
+215,Kth Largest Element in an Array,"Divide and Conquer, Heap",59.1%,Medium,2.81746,https://leetcode.com/problems/kth-largest-element-in-an-array
+286,Walls and Gates,Breadth-first Search,57.1%,Medium,18.1939,https://leetcode.com/problems/walls-and-gates
+346,Moving Average from Data Stream,"Design, Queue",73.8%,Easy,30.4314,https://leetcode.com/problems/moving-average-from-data-stream
+383,Ransom Note,String,53.5%,Easy,100.0,https://leetcode.com/problems/ransom-note
+480,Sliding Window Median,Sliding Window,39.0%,Hard,65.2157,https://leetcode.com/problems/sliding-window-median
+784,Letter Case Permutation,"Backtracking, Bit Manipulation",68.9%,Medium,9.96848,https://leetcode.com/problems/letter-case-permutation
+973,K Closest Points to Origin,"Divide and Conquer, Heap, Sort",64.7%,Medium,1.74832,https://leetcode.com/problems/k-closest-points-to-origin
+1152,Analyze User Website Visit Pattern,"Array, Hash Table, Sort",43.1%,Medium,24.008,https://leetcode.com/problems/analyze-user-website-visit-pattern

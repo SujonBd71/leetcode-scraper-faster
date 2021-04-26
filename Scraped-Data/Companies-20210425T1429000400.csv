@@ -1,0 +1,75 @@
+Serial,Name,Count,Link
+1,Google,955,https://leetcode.com/company/google/
+2,Amazon,933,https://leetcode.com/company/amazon/
+3,Facebook,613,https://leetcode.com/company/facebook/
+4,Microsoft,602,https://leetcode.com/company/microsoft/
+5,Apple,458,https://leetcode.com/company/apple/
+6,Bloomberg,438,https://leetcode.com/company/bloomberg/
+7,Uber,334,https://leetcode.com/company/uber/
+8,Adobe,301,https://leetcode.com/company/adobe/
+9,Oracle,258,https://leetcode.com/company/oracle/
+10,ByteDance,199,https://leetcode.com/company/bytedance/
+11,eBay,170,https://leetcode.com/company/ebay/
+12,Goldman Sachs,157,https://leetcode.com/company/goldman-sachs/
+13,LinkedIn,130,https://leetcode.com/company/linkedin/
+14,Yahoo,112,https://leetcode.com/company/yahoo/
+15,VMware,103,https://leetcode.com/company/vmware/
+16,Snapchat,99,https://leetcode.com/company/snapchat/
+17,Twitter,95,https://leetcode.com/company/twitter/
+18,Walmart Labs,87,https://leetcode.com/company/walmart-labs/
+19,Paypal,84,https://leetcode.com/company/paypal/
+20,Cisco,81,https://leetcode.com/company/cisco/
+21,Salesforce,81,https://leetcode.com/company/salesforce/
+22,Citadel,63,https://leetcode.com/company/citadel/
+23,Yandex,59,https://leetcode.com/company/yandex/
+24,Airbnb,57,https://leetcode.com/company/airbnb/
+25,Expedia,57,https://leetcode.com/company/expedia/
+26,Atlassian,56,https://leetcode.com/company/atlassian/
+27,Wish,53,https://leetcode.com/company/wish/
+28,Qualtrics,46,https://leetcode.com/company/qualtrics/
+29,Lyft,42,https://leetcode.com/company/lyft/
+30,Roblox,41,https://leetcode.com/company/roblox/
+31,Zillow,41,https://leetcode.com/company/zillow/
+32,Intuit,39,https://leetcode.com/company/intuit/
+33,Nutanix,39,https://leetcode.com/company/nutanix/
+34,Nvidia,39,https://leetcode.com/company/nvidia/
+35,Visa,37,https://leetcode.com/company/visa/
+36,JPMorgan,34,https://leetcode.com/company/jpmorgan/
+37,SAP,34,https://leetcode.com/company/sap/
+38,ServiceNow,34,https://leetcode.com/company/servicenow/
+39,Flipkart,31,https://leetcode.com/company/flipkart/
+40,Square,31,https://leetcode.com/company/square/
+41,Mathworks,30,https://leetcode.com/company/mathworks/
+42,Samsung,30,https://leetcode.com/company/samsung/
+43,Tesla,29,https://leetcode.com/company/tesla/
+44,Yelp,29,https://leetcode.com/company/yelp/
+45,DoorDash,28,https://leetcode.com/company/doordash/
+46,Citrix,27,https://leetcode.com/company/citrix/
+47,Pinterest,27,https://leetcode.com/company/pinterest/
+48,Quora,27,https://leetcode.com/company/quora/
+49,Capital One,26,https://leetcode.com/company/capital-one/
+50,Robinhood,26,https://leetcode.com/company/robinhood/
+51,Splunk,26,https://leetcode.com/company/splunk/
+52,Coupang,24,https://leetcode.com/company/coupang/
+53,Dropbox,24,https://leetcode.com/company/dropbox/
+54,Morgan Stanley,24,https://leetcode.com/company/morgan-stanley/
+55,Spotify,24,https://leetcode.com/company/spotify/
+56,Wayfair,24,https://leetcode.com/company/wayfair/
+57,Akuna Capital,23,https://leetcode.com/company/akuna-capital/
+58,Databricks,23,https://leetcode.com/company/databricks/
+59,Palantir Technologies,23,https://leetcode.com/company/palantir-technologies/
+60,IBM,22,https://leetcode.com/company/ibm/
+61,Pocket Gems,22,https://leetcode.com/company/pocket-gems/
+62,Twilio,22,https://leetcode.com/company/twilio/
+63,Zenefits,21,https://leetcode.com/company/zenefits/
+64,Audible,20,https://leetcode.com/company/audible/
+65,Grab,20,https://leetcode.com/company/grab/
+66,Docusign,19,https://leetcode.com/company/docusign/
+67,Qualcomm,19,https://leetcode.com/company/qualcomm/
+68,Tencent,19,https://leetcode.com/company/tencent/
+69,Twitch,18,https://leetcode.com/company/twitch/
+70,Two Sigma,18,https://leetcode.com/company/two-sigma/
+71,Huawei,17,https://leetcode.com/company/huawei/
+72,Indeed,17,https://leetcode.com/company/indeed/
+73,tcs,17,https://leetcode.com/company/tcs/
+74,Rubrik,16,https://leetcode.com/company/rubrik/

@@ -1,0 +1,4 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+115,Distinct Subsequences,"String, Dynamic Programming",40.1%,Hard,57.5397,https://leetcode.com/problems/distinct-subsequences
+526,Beautiful Arrangement,"Backtracking, Depth-first Search",62.2%,Medium,100.0,https://leetcode.com/problems/beautiful-arrangement
+1197,Minimum Knight Moves,Breadth-first Search,37.6%,Medium,15.0793,https://leetcode.com/problems/minimum-knight-moves

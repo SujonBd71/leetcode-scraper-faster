@@ -1,0 +1,37 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+1,Two Sum,"Array, Hash Table",46.8%,Easy,0.46831,https://leetcode.com/problems/two-sum
+3,Longest Substring Without Repeating Characters,"Hash Table, Two Pointers, String, Sliding Window",31.6%,Medium,0.107184,https://leetcode.com/problems/longest-substring-without-repeating-characters
+4,Median of Two Sorted Arrays,"Array, Binary Search, Divide and Conquer",31.5%,Hard,0.228916,https://leetcode.com/problems/median-of-two-sorted-arrays
+17,Letter Combinations of a Phone Number,"String, Backtracking, Depth-first Search, Recursion",50.0%,Medium,0.15743,https://leetcode.com/problems/letter-combinations-of-a-phone-number
+20,Valid Parentheses,"String, Stack",40.0%,Easy,1.34117,https://leetcode.com/problems/valid-parentheses
+34,Find First and Last Position of Element in Sorted Array,"Array, Binary Search",37.6%,Medium,0.34865,https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array
+37,Sudoku Solver,"Hash Table, Backtracking",47.3%,Hard,2.85403,https://leetcode.com/problems/sudoku-solver
+49,Group Anagrams,"Hash Table, String",59.9%,Medium,0.686077,https://leetcode.com/problems/group-anagrams
+54,Spiral Matrix,Array,36.7%,Medium,7.2269,https://leetcode.com/problems/spiral-matrix
+56,Merge Intervals,"Array, Sort",41.5%,Medium,0.210776,https://leetcode.com/problems/merge-intervals
+68,Text Justification,String,30.4%,Hard,100.0,https://leetcode.com/problems/text-justification
+70,Climbing Stairs,Dynamic Programming,48.8%,Easy,0.228987,https://leetcode.com/problems/climbing-stairs
+72,Edit Distance,"String, Dynamic Programming",47.2%,Hard,1.95553,https://leetcode.com/problems/edit-distance
+79,Word Search,"Array, Backtracking",37.3%,Medium,72.6104,https://leetcode.com/problems/word-search
+121,Best Time to Buy and Sell Stock,"Array, Dynamic Programming",51.9%,Easy,0.328021,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+122,Best Time to Buy and Sell Stock II,"Array, Greedy",58.9%,Easy,0.306121,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii
+124,Binary Tree Maximum Path Sum,"Tree, Depth-first Search, Recursion",35.7%,Hard,0.427273,https://leetcode.com/problems/binary-tree-maximum-path-sum
+146,LRU Cache,Design,36.4%,Medium,29.0022,https://leetcode.com/problems/lru-cache
+155,Min Stack,"Stack, Design",46.9%,Easy,0.410786,https://leetcode.com/problems/min-stack
+160,Intersection of Two Linked Lists,Linked List,44.7%,Easy,0.376409,https://leetcode.com/problems/intersection-of-two-linked-lists
+167,Two Sum II - Input array is sorted,"Array, Two Pointers, Binary Search",55.8%,Easy,0.406275,https://leetcode.com/problems/two-sum-ii-input-array-is-sorted
+200,Number of Islands,"Depth-first Search, Breadth-first Search, Union Find",49.7%,Medium,0.218785,https://leetcode.com/problems/number-of-islands
+207,Course Schedule,"Depth-first Search, Breadth-first Search, Graph, Topological Sort",44.3%,Medium,8.0329,https://leetcode.com/problems/course-schedule
+210,Course Schedule II,"Depth-first Search, Breadth-first Search, Graph, Topological Sort",43.1%,Medium,12.5639,https://leetcode.com/problems/course-schedule-ii
+236,Lowest Common Ancestor of a Binary Tree,Tree,49.6%,Medium,1.32658,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree
+252,Meeting Rooms,Sort,55.6%,Easy,1.21995,https://leetcode.com/problems/meeting-rooms
+287,Find the Duplicate Number,"Array, Two Pointers, Binary Search",58.0%,Medium,0.359579,https://leetcode.com/problems/find-the-duplicate-number
+332,Reconstruct Itinerary,"Depth-first Search, Graph",38.3%,Medium,2.48112,https://leetcode.com/problems/reconstruct-itinerary
+348,Design Tic-Tac-Toe,Design,55.8%,Medium,11.0722,https://leetcode.com/problems/design-tic-tac-toe
+409,Longest Palindrome,Hash Table,52.3%,Easy,7.58837,https://leetcode.com/problems/longest-palindrome
+628,Maximum Product of Three Numbers,"Array, Math",46.8%,Easy,1.54576,https://leetcode.com/problems/maximum-product-of-three-numbers
+718,Maximum Length of Repeated Subarray,"Array, Hash Table, Binary Search, Dynamic Programming",50.6%,Medium,3.65781,https://leetcode.com/problems/maximum-length-of-repeated-subarray
+729,My Calendar I,Array,53.7%,Medium,62.5361,https://leetcode.com/problems/my-calendar-i
+759,Employee Free Time,"Heap, Greedy",68.6%,Hard,33.1124,https://leetcode.com/problems/employee-free-time
+811,Subdomain Visit Count,Hash Table,71.8%,Easy,60.502,https://leetcode.com/problems/subdomain-visit-count
+986,Interval List Intersections,Two Pointers,68.6%,Medium,1.02716,https://leetcode.com/problems/interval-list-intersections

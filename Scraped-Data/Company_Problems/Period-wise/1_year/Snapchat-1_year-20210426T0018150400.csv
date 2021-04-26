@@ -1,0 +1,34 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+14,Longest Common Prefix,String,36.3%,Easy,1.99049,https://leetcode.com/problems/longest-common-prefix
+34,Find First and Last Position of Element in Sorted Array,"Array, Binary Search",37.6%,Medium,3.02239,https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array
+39,Combination Sum,"Array, Backtracking",59.9%,Medium,3.69365,https://leetcode.com/problems/combination-sum
+44,Wildcard Matching,"String, Dynamic Programming, Backtracking, Greedy",25.6%,Hard,8.88169,https://leetcode.com/problems/wildcard-matching
+56,Merge Intervals,"Array, Sort",41.5%,Medium,1.82718,https://leetcode.com/problems/merge-intervals
+64,Minimum Path Sum,"Array, Dynamic Programming",56.6%,Medium,4.92629,https://leetcode.com/problems/minimum-path-sum
+76,Minimum Window Substring,"Hash Table, Two Pointers, String, Sliding Window",36.3%,Hard,4.19035,https://leetcode.com/problems/minimum-window-substring
+79,Word Search,"Array, Backtracking",37.3%,Medium,57.4345,https://leetcode.com/problems/word-search
+91,Decode Ways,"String, Dynamic Programming",27.0%,Medium,3.98551,https://leetcode.com/problems/decode-ways
+121,Best Time to Buy and Sell Stock,"Array, Dynamic Programming",51.9%,Easy,1.26484,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+127,Word Ladder,Breadth-first Search,32.3%,Hard,5.29793,https://leetcode.com/problems/word-ladder
+143,Reorder List,Linked List,41.3%,Medium,8.31734,https://leetcode.com/problems/reorder-list
+146,LRU Cache,Design,36.4%,Medium,100.0,https://leetcode.com/problems/lru-cache
+161,One Edit Distance,String,33.2%,Medium,23.1286,https://leetcode.com/problems/one-edit-distance
+200,Number of Islands,"Depth-first Search, Breadth-first Search, Union Find",49.7%,Medium,16.9364,https://leetcode.com/problems/number-of-islands
+210,Course Schedule II,"Depth-first Search, Breadth-first Search, Graph, Topological Sort",43.1%,Medium,54.9089,https://leetcode.com/problems/course-schedule-ii
+212,Word Search II,"Backtracking, Trie",37.6%,Hard,16.372,https://leetcode.com/problems/word-search-ii
+227,Basic Calculator II,"String, Stack",38.9%,Medium,17.4369,https://leetcode.com/problems/basic-calculator-ii
+234,Palindrome Linked List,"Linked List, Two Pointers",42.2%,Easy,1.07228,https://leetcode.com/problems/palindrome-linked-list
+253,Meeting Rooms II,"Heap, Greedy, Sort",47.2%,Medium,9.28279,https://leetcode.com/problems/meeting-rooms-ii
+277,Find the Celebrity,Array,44.2%,Medium,14.4462,https://leetcode.com/problems/find-the-celebrity
+380,Insert Delete GetRandom O(1),"Array, Hash Table, Design",49.2%,Medium,6.06432,https://leetcode.com/problems/insert-delete-getrandom-o1
+394,Decode String,"Stack, Depth-first Search",53.1%,Medium,5.78449,https://leetcode.com/problems/decode-string
+438,Find All Anagrams in a String,Hash Table,45.3%,Medium,16.9887,https://leetcode.com/problems/find-all-anagrams-in-a-string
+528,Random Pick with Weight,"Binary Search, Random",44.8%,Medium,8.09514,https://leetcode.com/problems/random-pick-with-weight
+547,Number of Provinces,"Depth-first Search, Union Find",60.9%,Medium,6.16043,https://leetcode.com/problems/number-of-provinces
+642,Design Search Autocomplete System,"Design, Trie",46.6%,Hard,24.5447,https://leetcode.com/problems/design-search-autocomplete-system
+679,24 Game,Depth-first Search,47.3%,Hard,57.7146,https://leetcode.com/problems/24-game
+772,Basic Calculator III,"String, Stack",44.3%,Hard,69.6358,https://leetcode.com/problems/basic-calculator-iii
+787,Cheapest Flights Within K Stops,"Dynamic Programming, Heap, Breadth-first Search",39.7%,Medium,13.8434,https://leetcode.com/problems/cheapest-flights-within-k-stops
+934,Shortest Bridge,"Depth-first Search, Breadth-first Search",50.0%,Medium,23.8009,https://leetcode.com/problems/shortest-bridge
+939,Minimum Area Rectangle,Hash Table,52.3%,Medium,61.8707,https://leetcode.com/problems/minimum-area-rectangle
+1091,Shortest Path in Binary Matrix,Breadth-first Search,40.2%,Medium,15.4807,https://leetcode.com/problems/shortest-path-in-binary-matrix

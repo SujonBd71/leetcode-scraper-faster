@@ -1,0 +1,21 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+2,Add Two Numbers,"Linked List, Math, Recursion",35.8%,Medium,18.0973,https://leetcode.com/problems/add-two-numbers
+4,Median of Two Sorted Arrays,"Array, Binary Search, Divide and Conquer",31.5%,Hard,8.20806,https://leetcode.com/problems/median-of-two-sorted-arrays
+6,ZigZag Conversion,String,38.4%,Medium,22.7237,https://leetcode.com/problems/zigzag-conversion
+20,Valid Parentheses,"String, Stack",40.0%,Easy,5.37204,https://leetcode.com/problems/valid-parentheses
+22,Generate Parentheses,"String, Backtracking",65.9%,Medium,13.4852,https://leetcode.com/problems/generate-parentheses
+46,Permutations,Backtracking,67.3%,Medium,12.5873,https://leetcode.com/problems/permutations
+56,Merge Intervals,"Array, Sort",41.5%,Medium,30.1448,https://leetcode.com/problems/merge-intervals
+68,Text Justification,String,30.4%,Hard,77.1423,https://leetcode.com/problems/text-justification
+102,Binary Tree Level Order Traversal,"Tree, Breadth-first Search",57.1%,Medium,10.0752,https://leetcode.com/problems/binary-tree-level-order-traversal
+121,Best Time to Buy and Sell Stock,"Array, Dynamic Programming",51.9%,Easy,11.7616,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+146,LRU Cache,Design,36.4%,Medium,11.8666,https://leetcode.com/problems/lru-cache
+160,Intersection of Two Linked Lists,Linked List,44.7%,Easy,30.3032,https://leetcode.com/problems/intersection-of-two-linked-lists
+226,Invert Binary Tree,Tree,67.5%,Easy,13.5448,https://leetcode.com/problems/invert-binary-tree
+242,Valid Anagram,"Hash Table, Sort",59.0%,Easy,10.6346,https://leetcode.com/problems/valid-anagram
+287,Find the Duplicate Number,"Array, Two Pointers, Binary Search",58.0%,Medium,12.8932,https://leetcode.com/problems/find-the-duplicate-number
+355,Design Twitter,"Hash Table, Heap, Design",31.7%,Medium,100.0,https://leetcode.com/problems/design-twitter
+658,Find K Closest Elements,Binary Search,42.4%,Medium,46.4625,https://leetcode.com/problems/find-k-closest-elements
+739,Daily Temperatures,"Hash Table, Stack",64.9%,Medium,27.6641,https://leetcode.com/problems/daily-temperatures
+881,Boats to Save People,"Two Pointers, Greedy",49.1%,Medium,69.3202,https://leetcode.com/problems/boats-to-save-people
+1010,Pairs of Songs With Total Durations Divisible by 60,Array,50.8%,Medium,39.1973,https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60

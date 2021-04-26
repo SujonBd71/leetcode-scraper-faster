@@ -1,0 +1,19 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+43,Multiply Strings,"Math, String",35.2%,Medium,1.90704,https://leetcode.com/problems/multiply-strings
+44,Wildcard Matching,"String, Dynamic Programming, Backtracking, Greedy",25.6%,Hard,15.7462,https://leetcode.com/problems/wildcard-matching
+49,Group Anagrams,"Hash Table, String",59.9%,Medium,0.263087,https://leetcode.com/problems/group-anagrams
+56,Merge Intervals,"Array, Sort",41.5%,Medium,0.283423,https://leetcode.com/problems/merge-intervals
+123,Best Time to Buy and Sell Stock III,"Array, Dynamic Programming",40.3%,Hard,17.7449,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii
+146,LRU Cache,Design,36.4%,Medium,18.2072,https://leetcode.com/problems/lru-cache
+289,Game of Life,Array,59.0%,Medium,4.11533,https://leetcode.com/problems/game-of-life
+342,Power of Four,Bit Manipulation,41.9%,Easy,9.55455,https://leetcode.com/problems/power-of-four
+349,Intersection of Two Arrays,"Hash Table, Two Pointers, Binary Search, Sort",65.5%,Easy,0.113944,https://leetcode.com/problems/intersection-of-two-arrays
+380,Insert Delete GetRandom O(1),"Array, Hash Table, Design",49.2%,Medium,11.7583,https://leetcode.com/problems/insert-delete-getrandom-o1
+384,Shuffle an Array,,54.2%,Medium,0.349429,https://leetcode.com/problems/shuffle-an-array
+528,Random Pick with Weight,"Binary Search, Random",44.8%,Medium,7.32545,https://leetcode.com/problems/random-pick-with-weight
+547,Number of Provinces,"Depth-first Search, Union Find",60.9%,Medium,100.0,https://leetcode.com/problems/number-of-provinces
+710,Random Pick with Blacklist,"Hash Table, Binary Search, Sort, Random",33.1%,Hard,21.5955,https://leetcode.com/problems/random-pick-with-blacklist
+918,Maximum Sum Circular Subarray,Array,34.4%,Medium,51.9519,https://leetcode.com/problems/maximum-sum-circular-subarray
+1048,Longest String Chain,"Hash Table, Dynamic Programming",55.7%,Medium,82.3083,https://leetcode.com/problems/longest-string-chain
+1163,Last Substring in Lexicographical Order,"String, Suffix Array",36.2%,Hard,5.33228,https://leetcode.com/problems/last-substring-in-lexicographical-order
+1186,Maximum Subarray Sum with One Deletion,Dynamic Programming,39.1%,Medium,0.0,https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion

@@ -1,0 +1,14 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+23,Merge k Sorted Lists,"Linked List, Divide and Conquer, Heap",43.2%,Hard,5.60497,https://leetcode.com/problems/merge-k-sorted-lists
+36,Valid Sudoku,Hash Table,51.0%,Medium,2.47514,https://leetcode.com/problems/valid-sudoku
+56,Merge Intervals,"Array, Sort",41.5%,Medium,6.16427,https://leetcode.com/problems/merge-intervals
+63,Unique Paths II,"Array, Dynamic Programming",35.4%,Medium,3.36117,https://leetcode.com/problems/unique-paths-ii
+79,Word Search,"Array, Backtracking",37.3%,Medium,9.46836,https://leetcode.com/problems/word-search
+146,LRU Cache,Design,36.4%,Medium,100.0,https://leetcode.com/problems/lru-cache
+200,Number of Islands,"Depth-first Search, Breadth-first Search, Union Find",49.7%,Medium,37.0512,https://leetcode.com/problems/number-of-islands
+304,Range Sum Query 2D - Immutable,Dynamic Programming,41.4%,Medium,10.82,https://leetcode.com/problems/range-sum-query-2d-immutable
+529,Minesweeper,"Depth-first Search, Breadth-first Search",61.6%,Medium,59.6451,https://leetcode.com/problems/minesweeper
+695,Max Area of Island,"Array, Depth-first Search",65.3%,Medium,7.10682,https://leetcode.com/problems/max-area-of-island
+981,Time Based Key-Value Store,"Hash Table, Binary Search",54.3%,Medium,5.85997,https://leetcode.com/problems/time-based-key-value-store
+986,Interval List Intersections,Two Pointers,68.6%,Medium,4.2597,https://leetcode.com/problems/interval-list-intersections
+1258,Synonymous Sentences,Backtracking,61.8%,Medium,73.7688,https://leetcode.com/problems/synonymous-sentences

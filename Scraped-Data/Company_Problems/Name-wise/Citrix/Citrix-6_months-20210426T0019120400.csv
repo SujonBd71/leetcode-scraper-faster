@@ -1,0 +1,7 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+33,Search in Rotated Sorted Array,"Array, Binary Search",36.2%,Medium,3.3268,https://leetcode.com/problems/search-in-rotated-sorted-array
+300,Longest Increasing Subsequence,"Binary Search, Dynamic Programming",44.7%,Medium,19.7108,https://leetcode.com/problems/longest-increasing-subsequence
+443,String Compression,String,44.3%,Medium,12.5015,https://leetcode.com/problems/string-compression
+532,K-diff Pairs in an Array,"Array, Two Pointers",35.6%,Medium,100.0,https://leetcode.com/problems/k-diff-pairs-in-an-array
+1010,Pairs of Songs With Total Durations Divisible by 60,Array,50.8%,Medium,55.64,https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60
+1529,Bulb Switcher IV,String,71.0%,Medium,91.5692,https://leetcode.com/problems/bulb-switcher-iv

@@ -1,0 +1,16 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+17,Letter Combinations of a Phone Number,"String, Backtracking, Depth-first Search, Recursion",50.0%,Medium,0.139293,https://leetcode.com/problems/letter-combinations-of-a-phone-number
+23,Merge k Sorted Lists,"Linked List, Divide and Conquer, Heap",43.2%,Hard,11.9712,https://leetcode.com/problems/merge-k-sorted-lists
+41,First Missing Positive,Array,34.1%,Hard,5.22454,https://leetcode.com/problems/first-missing-positive
+42,Trapping Rain Water,"Array, Two Pointers, Dynamic Programming, Stack",51.8%,Hard,2.99632,https://leetcode.com/problems/trapping-rain-water
+48,Rotate Image,Array,61.1%,Medium,0.344586,https://leetcode.com/problems/rotate-image
+68,Text Justification,String,30.4%,Hard,11.2099,https://leetcode.com/problems/text-justification
+91,Decode Ways,"String, Dynamic Programming",27.0%,Medium,0.406787,https://leetcode.com/problems/decode-ways
+239,Sliding Window Maximum,"Heap, Sliding Window, Dequeue",44.8%,Hard,4.49384,https://leetcode.com/problems/sliding-window-maximum
+314,Binary Tree Vertical Order Traversal,"Depth-first Search, Breadth-first Search",47.4%,Medium,9.10906,https://leetcode.com/problems/binary-tree-vertical-order-traversal
+380,Insert Delete GetRandom O(1),"Array, Hash Table, Design",49.2%,Medium,3.80602,https://leetcode.com/problems/insert-delete-getrandom-o1
+722,Remove Comments,String,36.5%,Medium,68.5443,https://leetcode.com/problems/remove-comments
+742,Closest Leaf in a Binary Tree,Tree,44.6%,Medium,43.4269,https://leetcode.com/problems/closest-leaf-in-a-binary-tree
+1235,Maximum Profit in Job Scheduling,"Binary Search, Dynamic Programming, Sort",47.8%,Hard,3.94599,https://leetcode.com/problems/maximum-profit-in-job-scheduling
+1242,Web Crawler Multithreaded,"Depth-first Search, Breadth-first Search",47.8%,Medium,100.0,https://leetcode.com/problems/web-crawler-multithreaded
+1329,Sort the Matrix Diagonally,"Array, Sort",81.6%,Medium,4.36077,https://leetcode.com/problems/sort-the-matrix-diagonally

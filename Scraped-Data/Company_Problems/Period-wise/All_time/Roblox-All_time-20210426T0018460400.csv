@@ -1,0 +1,42 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+1,Two Sum,"Array, Hash Table",46.8%,Easy,0.0453062,https://leetcode.com/problems/two-sum
+13,Roman to Integer,"Math, String",57.1%,Easy,1.81334,https://leetcode.com/problems/roman-to-integer
+17,Letter Combinations of a Phone Number,"String, Backtracking, Depth-first Search, Recursion",50.0%,Medium,0.544346,https://leetcode.com/problems/letter-combinations-of-a-phone-number
+36,Valid Sudoku,Hash Table,51.0%,Medium,7.59057,https://leetcode.com/problems/valid-sudoku
+37,Sudoku Solver,"Hash Table, Backtracking",47.3%,Hard,1.1027,https://leetcode.com/problems/sudoku-solver
+85,Maximal Rectangle,"Array, Hash Table, Dynamic Programming, Stack",39.8%,Hard,1.19897,https://leetcode.com/problems/maximal-rectangle
+146,LRU Cache,Design,36.4%,Medium,2.00148,https://leetcode.com/problems/lru-cache
+200,Number of Islands,"Depth-first Search, Breadth-first Search, Union Find",49.7%,Medium,0.18996,https://leetcode.com/problems/number-of-islands
+207,Course Schedule,"Depth-first Search, Breadth-first Search, Graph, Topological Sort",44.3%,Medium,0.982094,https://leetcode.com/problems/course-schedule
+210,Course Schedule II,"Depth-first Search, Breadth-first Search, Graph, Topological Sort",43.1%,Medium,0.814561,https://leetcode.com/problems/course-schedule-ii
+224,Basic Calculator,"Math, Stack",38.3%,Hard,65.5064,https://leetcode.com/problems/basic-calculator
+227,Basic Calculator II,"String, Stack",38.9%,Medium,5.24281,https://leetcode.com/problems/basic-calculator-ii
+236,Lowest Common Ancestor of a Binary Tree,Tree,49.6%,Medium,0.128712,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree
+239,Sliding Window Maximum,"Heap, Sliding Window, Dequeue",44.8%,Hard,1.96233,https://leetcode.com/problems/sliding-window-maximum
+253,Meeting Rooms II,"Heap, Greedy, Sort",47.2%,Medium,0.732779,https://leetcode.com/problems/meeting-rooms-ii
+256,Paint House,Dynamic Programming,54.1%,Medium,54.8925,https://leetcode.com/problems/paint-house
+363,Max Sum of Rectangle No Larger Than K,"Binary Search, Dynamic Programming, Queue",38.6%,Hard,4.5126,https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k
+528,Random Pick with Weight,"Binary Search, Random",44.8%,Medium,5.4373,https://leetcode.com/problems/random-pick-with-weight
+647,Palindromic Substrings,"String, Dynamic Programming",62.8%,Medium,0.661011,https://leetcode.com/problems/palindromic-substrings
+718,Maximum Length of Repeated Subarray,"Array, Hash Table, Binary Search, Dynamic Programming",50.6%,Medium,2.48111,https://leetcode.com/problems/maximum-length-of-repeated-subarray
+770,Basic Calculator IV,"Hash Table, String, Stack",54.4%,Hard,100.0,https://leetcode.com/problems/basic-calculator-iv
+811,Subdomain Visit Count,Hash Table,71.8%,Easy,82.7532,https://leetcode.com/problems/subdomain-visit-count
+829,Consecutive Numbers Sum,Math,39.2%,Hard,51.3993,https://leetcode.com/problems/consecutive-numbers-sum
+881,Boats to Save People,"Two Pointers, Greedy",49.1%,Medium,37.2216,https://leetcode.com/problems/boats-to-save-people
+931,Minimum Falling Path Sum,Dynamic Programming,63.9%,Medium,0.875584,https://leetcode.com/problems/minimum-falling-path-sum
+1163,Last Substring in Lexicographical Order,"String, Suffix Array",36.2%,Hard,34.9577,https://leetcode.com/problems/last-substring-in-lexicographical-order
+1209,Remove All Adjacent Duplicates in String II,Stack,57.8%,Medium,4.8732,https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii
+1248,Count Number of Nice Subarrays,Two Pointers,56.2%,Medium,6.68749,https://leetcode.com/problems/count-number-of-nice-subarrays
+1280,Students and Examinations,,75.5%,Easy,0.0,https://leetcode.com/problems/students-and-examinations
+1282,Group the People Given the Group Size They Belong To,Greedy,84.5%,Medium,0.0,https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to
+1289,Minimum Falling Path Sum II,Dynamic Programming,62.6%,Hard,23.8443,https://leetcode.com/problems/minimum-falling-path-sum-ii
+1290,Convert Binary Number in a Linked List to Integer,"Linked List, Bit Manipulation",81.7%,Easy,3.6717,https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer
+1292,Maximum Side Length of a Square with Sum Less than or Equal to Threshold,"Array, Binary Search",50.9%,Medium,10.8068,https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold
+1297,Maximum Number of Occurrences of a Substring,"String, Bit Manipulation",50.9%,Medium,19.2279,https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring
+1328,Break a Palindrome,String,48.1%,Medium,4.74298,https://leetcode.com/problems/break-a-palindrome
+1364,Number of Trusted Contacts of a Customer,,79.2%,Medium,0.0,https://leetcode.com/problems/number-of-trusted-contacts-of-a-customer
+1465,Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts,Array,34.1%,Medium,3.03725,https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts
+1472,Design Browser History,Design,72.2%,Medium,16.9229,https://leetcode.com/problems/design-browser-history
+1481,Least Number of Unique Integers after K Removals,"Array, Sort",55.9%,Medium,23.0966,https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals
+1552,Magnetic Force Between Two Balls,"Array, Binary Search",49.4%,Medium,0.0,https://leetcode.com/problems/magnetic-force-between-two-balls
+1710,Maximum Units on a Truck,"Greedy, Sort",69.9%,Easy,3.02354,https://leetcode.com/problems/maximum-units-on-a-truck

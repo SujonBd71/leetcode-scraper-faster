@@ -1,0 +1,15 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+1,Two Sum,"Array, Hash Table",46.8%,Easy,100.0,https://leetcode.com/problems/two-sum
+8,String to Integer (atoi),"Math, String",15.8%,Medium,7.99724,https://leetcode.com/problems/string-to-integer-atoi
+20,Valid Parentheses,"String, Stack",40.0%,Easy,8.24825,https://leetcode.com/problems/valid-parentheses
+21,Merge Two Sorted Lists,"Linked List, Recursion",56.5%,Easy,6.49539,https://leetcode.com/problems/merge-two-sorted-lists
+49,Group Anagrams,"Hash Table, String",59.9%,Medium,4.21941,https://leetcode.com/problems/group-anagrams
+104,Maximum Depth of Binary Tree,"Tree, Depth-first Search, Recursion",68.5%,Easy,1.31698,https://leetcode.com/problems/maximum-depth-of-binary-tree
+121,Best Time to Buy and Sell Stock,"Array, Dynamic Programming",51.9%,Easy,10.9119,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+146,LRU Cache,Design,36.4%,Medium,18.1034,https://leetcode.com/problems/lru-cache
+200,Number of Islands,"Depth-first Search, Breadth-first Search, Union Find",49.7%,Medium,46.8423,https://leetcode.com/problems/number-of-islands
+204,Count Primes,"Hash Table, Math",32.4%,Easy,21.7587,https://leetcode.com/problems/count-primes
+205,Isomorphic Strings,Hash Table,40.7%,Easy,50.5517,https://leetcode.com/problems/isomorphic-strings
+206,Reverse Linked List,Linked List,65.9%,Easy,74.9164,https://leetcode.com/problems/reverse-linked-list
+238,Product of Array Except Self,Array,61.4%,Medium,56.7811,https://leetcode.com/problems/product-of-array-except-self
+1614,Maximum Nesting Depth of the Parentheses,String,82.7%,Easy,0.0,https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses

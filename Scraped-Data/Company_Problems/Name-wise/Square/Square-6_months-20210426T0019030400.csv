@@ -1,0 +1,7 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+43,Multiply Strings,"Math, String",35.2%,Medium,52.5021,https://leetcode.com/problems/multiply-strings
+72,Edit Distance,"String, Dynamic Programming",47.2%,Hard,27.4012,https://leetcode.com/problems/edit-distance
+273,Integer to English Words,"Math, String",28.4%,Hard,76.2511,https://leetcode.com/problems/integer-to-english-words
+289,Game of Life,Array,59.0%,Medium,40.477,https://leetcode.com/problems/game-of-life
+415,Add Strings,String,48.6%,Easy,14.5295,https://leetcode.com/problems/add-strings
+815,Bus Routes,Breadth-first Search,43.6%,Hard,100.0,https://leetcode.com/problems/bus-routes

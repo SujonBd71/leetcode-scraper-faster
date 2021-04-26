@@ -1,0 +1,6 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+49,Group Anagrams,"Hash Table, String",59.9%,Medium,100.0,https://leetcode.com/problems/group-anagrams
+121,Best Time to Buy and Sell Stock,"Array, Dynamic Programming",51.9%,Easy,29.0796,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+242,Valid Anagram,"Hash Table, Sort",59.0%,Easy,59.0613,https://leetcode.com/problems/valid-anagram
+322,Coin Change,Dynamic Programming,37.8%,Medium,28.0132,https://leetcode.com/problems/coin-change
+1010,Pairs of Songs With Total Durations Divisible by 60,Array,50.8%,Medium,89.0429,https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60

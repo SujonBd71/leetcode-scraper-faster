@@ -1,0 +1,12 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+124,Binary Tree Maximum Path Sum,"Tree, Depth-first Search, Recursion",35.7%,Hard,11.6266,https://leetcode.com/problems/binary-tree-maximum-path-sum
+146,LRU Cache,Design,36.4%,Medium,100.0,https://leetcode.com/problems/lru-cache
+395,Longest Substring with At Least K Repeating Characters,"Divide and Conquer, Recursion, Sliding Window",43.7%,Medium,0.0,https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters
+397,Integer Replacement,"Math, Bit Manipulation",33.6%,Medium,0.0,https://leetcode.com/problems/integer-replacement
+410,Split Array Largest Sum,"Binary Search, Dynamic Programming",46.8%,Hard,55.8133,https://leetcode.com/problems/split-array-largest-sum
+413,Arithmetic Slices,"Math, Dynamic Programming",60.1%,Medium,0.0,https://leetcode.com/problems/arithmetic-slices
+446,Arithmetic Slices II - Subsequence,Dynamic Programming,33.7%,Hard,0.0,https://leetcode.com/problems/arithmetic-slices-ii-subsequence
+488,Zuma Game,Depth-first Search,38.1%,Hard,0.0,https://leetcode.com/problems/zuma-game
+576,Out of Boundary Paths,"Dynamic Programming, Depth-first Search",36.2%,Medium,0.0,https://leetcode.com/problems/out-of-boundary-paths
+588,Design In-Memory File System,Design,46.8%,Hard,0.0,https://leetcode.com/problems/design-in-memory-file-system
+873,Length of Longest Fibonacci Subsequence,"Array, Dynamic Programming",48.2%,Medium,0.0,https://leetcode.com/problems/length-of-longest-fibonacci-subsequence

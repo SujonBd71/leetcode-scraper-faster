@@ -1,0 +1,12 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+1,Two Sum,"Array, Hash Table",46.8%,Easy,0.289276,https://leetcode.com/problems/two-sum
+3,Longest Substring Without Repeating Characters,"Hash Table, Two Pointers, String, Sliding Window",31.6%,Medium,1.33344,https://leetcode.com/problems/longest-substring-without-repeating-characters
+7,Reverse Integer,Math,26.0%,Easy,6.39745,https://leetcode.com/problems/reverse-integer
+560,Subarray Sum Equals K,"Array, Hash Table",43.7%,Medium,4.25493,https://leetcode.com/problems/subarray-sum-equals-k
+1031,Maximum Sum of Two Non-Overlapping Subarrays,Array,58.8%,Medium,100.0,https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays
+1191,K-Concatenation Maximum Sum,Dynamic Programming,24.9%,Medium,41.8894,https://leetcode.com/problems/k-concatenation-maximum-sum
+1201,Ugly Number III,"Math, Binary Search",26.5%,Medium,77.3814,https://leetcode.com/problems/ugly-number-iii
+1224,Maximum Equal Frequency,Hash Table,35.7%,Hard,0.0,https://leetcode.com/problems/maximum-equal-frequency
+1521,Find a Value of a Mysterious Function Closest to Target,"Binary Search, Bit Manipulation, Segment Tree",44.2%,Hard,0.0,https://leetcode.com/problems/find-a-value-of-a-mysterious-function-closest-to-target
+1647,Minimum Deletions to Make Character Frequencies Unique,"Greedy, Sort",55.6%,Medium,0.0,https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique
+1775,Equal Sum Arrays With Minimum Number of Operations,Greedy,50.6%,Medium,0.0,https://leetcode.com/problems/equal-sum-arrays-with-minimum-number-of-operations

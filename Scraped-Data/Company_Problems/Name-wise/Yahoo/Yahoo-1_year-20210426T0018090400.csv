@@ -1,0 +1,46 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+1,Two Sum,"Array, Hash Table",46.8%,Easy,15.9976,https://leetcode.com/problems/two-sum
+2,Add Two Numbers,"Linked List, Math, Recursion",35.8%,Medium,29.611,https://leetcode.com/problems/add-two-numbers
+3,Longest Substring Without Repeating Characters,"Hash Table, Two Pointers, String, Sliding Window",31.6%,Medium,8.23981,https://leetcode.com/problems/longest-substring-without-repeating-characters
+7,Reverse Integer,Math,26.0%,Easy,2.48185,https://leetcode.com/problems/reverse-integer
+9,Palindrome Number,Math,50.2%,Easy,3.79408,https://leetcode.com/problems/palindrome-number
+11,Container With Most Water,"Array, Two Pointers",52.9%,Medium,4.51385,https://leetcode.com/problems/container-with-most-water
+14,Longest Common Prefix,String,36.3%,Easy,9.93058,https://leetcode.com/problems/longest-common-prefix
+15,3Sum,"Array, Two Pointers",28.3%,Medium,3.44888,https://leetcode.com/problems/3sum
+20,Valid Parentheses,"String, Stack",40.0%,Easy,2.88355,https://leetcode.com/problems/valid-parentheses
+21,Merge Two Sorted Lists,"Linked List, Recursion",56.5%,Easy,3.26541,https://leetcode.com/problems/merge-two-sorted-lists
+23,Merge k Sorted Lists,"Linked List, Divide and Conquer, Heap",43.2%,Hard,6.54482,https://leetcode.com/problems/merge-k-sorted-lists
+28,Implement strStr(),"Two Pointers, String",35.4%,Easy,13.942,https://leetcode.com/problems/implement-strstr
+42,Trapping Rain Water,"Array, Two Pointers, Dynamic Programming, Stack",51.8%,Hard,12.1215,https://leetcode.com/problems/trapping-rain-water
+56,Merge Intervals,"Array, Sort",41.5%,Medium,16.1809,https://leetcode.com/problems/merge-intervals
+77,Combinations,Backtracking,58.2%,Medium,18.9916,https://leetcode.com/problems/combinations
+83,Remove Duplicates from Sorted List,Linked List,46.7%,Easy,9.26309,https://leetcode.com/problems/remove-duplicates-from-sorted-list
+98,Validate Binary Search Tree,"Tree, Depth-first Search, Recursion",29.0%,Medium,4.22085,https://leetcode.com/problems/validate-binary-search-tree
+102,Binary Tree Level Order Traversal,"Tree, Breadth-first Search",57.1%,Medium,5.4081,https://leetcode.com/problems/binary-tree-level-order-traversal
+121,Best Time to Buy and Sell Stock,"Array, Dynamic Programming",51.9%,Easy,6.31329,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+124,Binary Tree Maximum Path Sum,"Tree, Depth-first Search, Recursion",35.7%,Hard,8.22355,https://leetcode.com/problems/binary-tree-maximum-path-sum
+127,Word Ladder,Breadth-first Search,32.3%,Hard,26.3751,https://leetcode.com/problems/word-ladder
+138,Copy List with Random Pointer,"Hash Table, Linked List",41.7%,Medium,22.5988,https://leetcode.com/problems/copy-list-with-random-pointer
+139,Word Break,Dynamic Programming,42.0%,Medium,15.7799,https://leetcode.com/problems/word-break
+148,Sort List,"Linked List, Sort",46.8%,Medium,42.6374,https://leetcode.com/problems/sort-list
+160,Intersection of Two Linked Lists,Linked List,44.7%,Easy,7.24459,https://leetcode.com/problems/intersection-of-two-linked-lists
+169,Majority Element,"Array, Divide and Conquer, Bit Manipulation",60.3%,Easy,7.02711,https://leetcode.com/problems/majority-element
+178,Rank Scores,,51.3%,Medium,21.1232,https://leetcode.com/problems/rank-scores
+200,Number of Islands,"Depth-first Search, Breadth-first Search, Union Find",49.7%,Medium,16.7939,https://leetcode.com/problems/number-of-islands
+206,Reverse Linked List,Linked List,65.9%,Easy,3.05709,https://leetcode.com/problems/reverse-linked-list
+239,Sliding Window Maximum,"Heap, Sliding Window, Dequeue",44.8%,Hard,11.0849,https://leetcode.com/problems/sliding-window-maximum
+309,Best Time to Buy and Sell Stock with Cooldown,Dynamic Programming,48.5%,Medium,34.4395,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown
+371,Sum of Two Integers,Bit Manipulation,50.6%,Medium,23.0991,https://leetcode.com/problems/sum-of-two-integers
+392,Is Subsequence,"Binary Search, Dynamic Programming, Greedy",49.6%,Easy,12.1488,https://leetcode.com/problems/is-subsequence
+403,Frog Jump,Dynamic Programming,41.8%,Hard,46.3876,https://leetcode.com/problems/frog-jump
+420,Strong Password Checker,,13.9%,Hard,64.8348,https://leetcode.com/problems/strong-password-checker
+445,Add Two Numbers II,Linked List,56.7%,Medium,18.2688,https://leetcode.com/problems/add-two-numbers-ii
+448,Find All Numbers Disappeared in an Array,Array,56.2%,Easy,10.8581,https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array
+560,Subarray Sum Equals K,"Array, Hash Table",43.7%,Medium,14.904,https://leetcode.com/problems/subarray-sum-equals-k
+617,Merge Two Binary Trees,Tree,75.6%,Easy,13.0547,https://leetcode.com/problems/merge-two-binary-trees
+775,Global and Local Inversions,"Array, Math",46.2%,Medium,5.47779,https://leetcode.com/problems/global-and-local-inversions
+852,Peak Index in a Mountain Array,Binary Search,71.8%,Easy,16.498,https://leetcode.com/problems/peak-index-in-a-mountain-array
+863,All Nodes Distance K in Binary Tree,"Tree, Depth-first Search, Breadth-first Search",58.2%,Medium,21.0038,https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree
+888,Fair Candy Swap,Array,59.2%,Easy,81.5528,https://leetcode.com/problems/fair-candy-swap
+950,Reveal Cards In Increasing Order,Array,75.6%,Medium,100.0,https://leetcode.com/problems/reveal-cards-in-increasing-order
+1108,Defanging an IP Address,String,88.4%,Easy,8.16696,https://leetcode.com/problems/defanging-an-ip-address

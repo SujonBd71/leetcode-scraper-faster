@@ -1,0 +1,43 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+1,Two Sum,"Array, Hash Table",46.8%,Easy,0.416093,https://leetcode.com/problems/two-sum
+3,Longest Substring Without Repeating Characters,"Hash Table, Two Pointers, String, Sliding Window",31.6%,Medium,0.547398,https://leetcode.com/problems/longest-substring-without-repeating-characters
+8,String to Integer (atoi),"Math, String",15.8%,Medium,0.937639,https://leetcode.com/problems/string-to-integer-atoi
+15,3Sum,"Array, Two Pointers",28.3%,Medium,0.515002,https://leetcode.com/problems/3sum
+20,Valid Parentheses,"String, Stack",40.0%,Easy,0.76471,https://leetcode.com/problems/valid-parentheses
+33,Search in Rotated Sorted Array,"Array, Binary Search",36.2%,Medium,0.320366,https://leetcode.com/problems/search-in-rotated-sorted-array
+42,Trapping Rain Water,"Array, Two Pointers, Dynamic Programming, Stack",51.8%,Hard,0.358462,https://leetcode.com/problems/trapping-rain-water
+48,Rotate Image,Array,61.1%,Medium,39.1018,https://leetcode.com/problems/rotate-image
+49,Group Anagrams,"Hash Table, String",59.9%,Medium,0.877229,https://leetcode.com/problems/group-anagrams
+53,Maximum Subarray,"Array, Divide and Conquer, Dynamic Programming",47.9%,Easy,8.36993,https://leetcode.com/problems/maximum-subarray
+54,Spiral Matrix,Array,36.7%,Medium,0.595494,https://leetcode.com/problems/spiral-matrix
+56,Merge Intervals,"Array, Sort",41.5%,Medium,5.36007,https://leetcode.com/problems/merge-intervals
+70,Climbing Stairs,Dynamic Programming,48.8%,Easy,0.292786,https://leetcode.com/problems/climbing-stairs
+72,Edit Distance,"String, Dynamic Programming",47.2%,Hard,1.11672,https://leetcode.com/problems/edit-distance
+79,Word Search,"Array, Backtracking",37.3%,Medium,8.47135,https://leetcode.com/problems/word-search
+91,Decode Ways,"String, Dynamic Programming",27.0%,Medium,78.2213,https://leetcode.com/problems/decode-ways
+102,Binary Tree Level Order Traversal,"Tree, Breadth-first Search",57.1%,Medium,0.359278,https://leetcode.com/problems/binary-tree-level-order-traversal
+121,Best Time to Buy and Sell Stock,"Array, Dynamic Programming",51.9%,Easy,0.419413,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+146,LRU Cache,Design,36.4%,Medium,3.76375,https://leetcode.com/problems/lru-cache
+191,Number of 1 Bits,Bit Manipulation,54.4%,Easy,22.6318,https://leetcode.com/problems/number-of-1-bits
+198,House Robber,Dynamic Programming,43.2%,Medium,40.3511,https://leetcode.com/problems/house-robber
+204,Count Primes,"Hash Table, Math",32.4%,Easy,1.6452,https://leetcode.com/problems/count-primes
+206,Reverse Linked List,Linked List,65.9%,Easy,0.203093,https://leetcode.com/problems/reverse-linked-list
+212,Word Search II,"Backtracking, Trie",37.6%,Hard,2.41479,https://leetcode.com/problems/word-search-ii
+234,Palindrome Linked List,"Linked List, Two Pointers",42.2%,Easy,0.355605,https://leetcode.com/problems/palindrome-linked-list
+242,Valid Anagram,"Hash Table, Sort",59.0%,Easy,0.851836,https://leetcode.com/problems/valid-anagram
+246,Strobogrammatic Number,"Hash Table, Math",46.5%,Easy,7.11655,https://leetcode.com/problems/strobogrammatic-number
+268,Missing Number,"Array, Math, Bit Manipulation",55.4%,Easy,0.460398,https://leetcode.com/problems/missing-number
+278,First Bad Version,Binary Search,37.9%,Easy,0.541781,https://leetcode.com/problems/first-bad-version
+283,Move Zeroes,"Array, Two Pointers",58.7%,Easy,0.682168,https://leetcode.com/problems/move-zeroes
+362,Design Hit Counter,Design,65.6%,Medium,2.83113,https://leetcode.com/problems/design-hit-counter
+394,Decode String,"Stack, Depth-first Search",53.1%,Medium,56.4426,https://leetcode.com/problems/decode-string
+443,String Compression,String,44.3%,Medium,2.6945,https://leetcode.com/problems/string-compression
+450,Delete Node in a BST,Tree,45.6%,Medium,1.74602,https://leetcode.com/problems/delete-node-in-a-bst
+468,Validate IP Address,String,25.1%,Medium,100.0,https://leetcode.com/problems/validate-ip-address
+526,Beautiful Arrangement,"Backtracking, Depth-first Search",62.2%,Medium,7.21711,https://leetcode.com/problems/beautiful-arrangement
+739,Daily Temperatures,"Hash Table, Stack",64.9%,Medium,0.986489,https://leetcode.com/problems/daily-temperatures
+909,Snakes and Ladders,Breadth-first Search,39.3%,Medium,12.1246,https://leetcode.com/problems/snakes-and-ladders
+977,Squares of a Sorted Array,"Array, Two Pointers",71.8%,Easy,0.365737,https://leetcode.com/problems/squares-of-a-sorted-array
+1197,Minimum Knight Moves,Breadth-first Search,37.6%,Medium,2.18489,https://leetcode.com/problems/minimum-knight-moves
+1235,Maximum Profit in Job Scheduling,"Binary Search, Dynamic Programming, Sort",47.8%,Hard,28.5939,https://leetcode.com/problems/maximum-profit-in-job-scheduling
+1290,Convert Binary Number in a Linked List to Integer,"Linked List, Bit Manipulation",81.7%,Easy,1.03186,https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer

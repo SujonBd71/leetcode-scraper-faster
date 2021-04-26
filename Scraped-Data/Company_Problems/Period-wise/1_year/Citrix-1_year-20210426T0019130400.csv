@@ -1,0 +1,23 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+1,Two Sum,"Array, Hash Table",46.8%,Easy,0.16199,https://leetcode.com/problems/two-sum
+15,3Sum,"Array, Two Pointers",28.3%,Medium,0.556809,https://leetcode.com/problems/3sum
+33,Search in Rotated Sorted Array,"Array, Binary Search",36.2%,Medium,0.778552,https://leetcode.com/problems/search-in-rotated-sorted-array
+134,Gas Station,Greedy,41.7%,Medium,3.9189,https://leetcode.com/problems/gas-station
+206,Reverse Linked List,Linked List,65.9%,Easy,3.0732,https://leetcode.com/problems/reverse-linked-list
+232,Implement Queue using Stacks,"Stack, Design",52.9%,Easy,3.05661,https://leetcode.com/problems/implement-queue-using-stacks
+300,Longest Increasing Subsequence,"Binary Search, Dynamic Programming",44.7%,Medium,4.6128,https://leetcode.com/problems/longest-increasing-subsequence
+355,Design Twitter,"Hash Table, Heap, Design",31.7%,Medium,12.2521,https://leetcode.com/problems/design-twitter
+394,Decode String,"Stack, Depth-first Search",53.1%,Medium,2.07341,https://leetcode.com/problems/decode-string
+443,String Compression,String,44.3%,Medium,11.5566,https://leetcode.com/problems/string-compression
+532,K-diff Pairs in an Array,"Array, Two Pointers",35.6%,Medium,51.3538,https://leetcode.com/problems/k-diff-pairs-in-an-array
+761,Special Binary String,"String, Recursion",58.8%,Hard,100.0,https://leetcode.com/problems/special-binary-string
+829,Consecutive Numbers Sum,Math,39.2%,Hard,62.9674,https://leetcode.com/problems/consecutive-numbers-sum
+1010,Pairs of Songs With Total Durations Divisible by 60,Array,50.8%,Medium,50.7011,https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60
+1202,Smallest String With Swaps,"Array, Union Find",49.1%,Medium,33.1852,https://leetcode.com/problems/smallest-string-with-swaps
+1223,Dice Roll Simulation,Dynamic Programming,46.7%,Hard,48.6523,https://leetcode.com/problems/dice-roll-simulation
+1290,Convert Binary Number in a Linked List to Integer,"Linked List, Bit Manipulation",81.7%,Easy,2.50763,https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer
+1334,Find the City With the Smallest Number of Neighbors at a Threshold Distance,Graph,47.4%,Medium,73.4562,https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance
+1347,Minimum Number of Steps to Make Two Strings Anagram,String,75.1%,Medium,27.3029,https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram
+1353,Maximum Number of Events That Can Be Attended,"Greedy, Sort, Segment Tree",30.6%,Medium,10.0991,https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended
+1383,Maximum Performance of a Team,"Greedy, Sort",36.1%,Hard,84.5328,https://leetcode.com/problems/maximum-performance-of-a-team
+1529,Bulb Switcher IV,String,71.0%,Medium,79.9778,https://leetcode.com/problems/bulb-switcher-iv

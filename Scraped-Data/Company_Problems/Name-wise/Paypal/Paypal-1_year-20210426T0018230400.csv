@@ -1,0 +1,50 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+1,Two Sum,"Array, Hash Table",46.8%,Easy,0.0499372,https://leetcode.com/problems/two-sum
+2,Add Two Numbers,"Linked List, Math, Recursion",35.8%,Medium,0.754455,https://leetcode.com/problems/add-two-numbers
+4,Median of Two Sorted Arrays,"Array, Binary Search, Divide and Conquer",31.5%,Hard,0.492741,https://leetcode.com/problems/median-of-two-sorted-arrays
+5,Longest Palindromic Substring,"String, Dynamic Programming",30.7%,Medium,0.164658,https://leetcode.com/problems/longest-palindromic-substring
+6,ZigZag Conversion,String,38.4%,Medium,2.40772,https://leetcode.com/problems/zigzag-conversion
+20,Valid Parentheses,"String, Stack",40.0%,Easy,0.572896,https://leetcode.com/problems/valid-parentheses
+22,Generate Parentheses,"String, Backtracking",65.9%,Medium,1.43376,https://leetcode.com/problems/generate-parentheses
+33,Search in Rotated Sorted Array,"Array, Binary Search",36.2%,Medium,0.240008,https://leetcode.com/problems/search-in-rotated-sorted-array
+46,Permutations,Backtracking,67.3%,Medium,0.336269,https://leetcode.com/problems/permutations
+49,Group Anagrams,"Hash Table, String",59.9%,Medium,0.657192,https://leetcode.com/problems/group-anagrams
+53,Maximum Subarray,"Array, Divide and Conquer, Dynamic Programming",47.9%,Easy,0.60976,https://leetcode.com/problems/maximum-subarray
+54,Spiral Matrix,Array,36.7%,Medium,2.75805,https://leetcode.com/problems/spiral-matrix
+56,Merge Intervals,"Array, Sort",41.5%,Medium,5.94402,https://leetcode.com/problems/merge-intervals
+68,Text Justification,String,30.4%,Hard,8.57261,https://leetcode.com/problems/text-justification
+102,Binary Tree Level Order Traversal,"Tree, Breadth-first Search",57.1%,Medium,0.26916,https://leetcode.com/problems/binary-tree-level-order-traversal
+112,Path Sum,"Tree, Depth-first Search",42.7%,Easy,0.418755,https://leetcode.com/problems/path-sum
+121,Best Time to Buy and Sell Stock,"Array, Dynamic Programming",51.9%,Easy,0.870525,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+122,Best Time to Buy and Sell Stock II,"Array, Greedy",58.9%,Easy,0.293232,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii
+146,LRU Cache,Design,36.4%,Medium,3.81979,https://leetcode.com/problems/lru-cache
+149,Max Points on a Line,"Hash Table, Math",17.8%,Hard,1.70443,https://leetcode.com/problems/max-points-on-a-line
+160,Intersection of Two Linked Lists,Linked List,44.7%,Easy,0.80955,https://leetcode.com/problems/intersection-of-two-linked-lists
+221,Maximal Square,Dynamic Programming,39.7%,Medium,1.66288,https://leetcode.com/problems/maximal-square
+225,Implement Stack using Queues,"Stack, Design",48.0%,Easy,1.40812,https://leetcode.com/problems/implement-stack-using-queues
+226,Invert Binary Tree,Tree,67.5%,Easy,0.36185,https://leetcode.com/problems/invert-binary-tree
+238,Product of Array Except Self,Array,61.4%,Medium,0.255864,https://leetcode.com/problems/product-of-array-except-self
+242,Valid Anagram,"Hash Table, Sort",59.0%,Easy,0.638168,https://leetcode.com/problems/valid-anagram
+253,Meeting Rooms II,"Heap, Greedy, Sort",47.2%,Medium,0.457106,https://leetcode.com/problems/meeting-rooms-ii
+283,Move Zeroes,"Array, Two Pointers",58.7%,Easy,0.511059,https://leetcode.com/problems/move-zeroes
+287,Find the Duplicate Number,"Array, Two Pointers, Binary Search",58.0%,Medium,0.34444,https://leetcode.com/problems/find-the-duplicate-number
+322,Coin Change,Dynamic Programming,37.8%,Medium,0.302688,https://leetcode.com/problems/coin-change
+324,Wiggle Sort II,Sort,30.9%,Medium,2.93494,https://leetcode.com/problems/wiggle-sort-ii
+346,Moving Average from Data Stream,"Design, Queue",73.8%,Easy,1.20878,https://leetcode.com/problems/moving-average-from-data-stream
+355,Design Twitter,"Hash Table, Heap, Design",31.7%,Medium,8.31703,https://leetcode.com/problems/design-twitter
+547,Number of Provinces,"Depth-first Search, Union Find",60.9%,Medium,0.680722,https://leetcode.com/problems/number-of-provinces
+658,Find K Closest Elements,Binary Search,42.4%,Medium,2.77269,https://leetcode.com/problems/find-k-closest-elements
+704,Binary Search,Binary Search,54.4%,Easy,0.522287,https://leetcode.com/problems/binary-search
+739,Daily Temperatures,"Hash Table, Stack",64.9%,Medium,0.739046,https://leetcode.com/problems/daily-temperatures
+845,Longest Mountain in Array,Two Pointers,38.7%,Medium,4.03507,https://leetcode.com/problems/longest-mountain-in-array
+881,Boats to Save People,"Two Pointers, Greedy",49.1%,Medium,2.95739,https://leetcode.com/problems/boats-to-save-people
+977,Squares of a Sorted Array,"Array, Two Pointers",71.8%,Easy,0.273998,https://leetcode.com/problems/squares-of-a-sorted-array
+994,Rotting Oranges,Breadth-first Search,49.7%,Medium,1.02322,https://leetcode.com/problems/rotting-oranges
+1010,Pairs of Songs With Total Durations Divisible by 60,Array,50.8%,Medium,4.12811,https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60
+1091,Shortest Path in Binary Matrix,Breadth-first Search,40.2%,Medium,1.7106,https://leetcode.com/problems/shortest-path-in-binary-matrix
+1220,Count Vowels Permutation,Dynamic Programming,54.1%,Hard,16.6741,https://leetcode.com/problems/count-vowels-permutation
+1297,Maximum Number of Occurrences of a Substring,"String, Bit Manipulation",50.9%,Medium,4.80043,https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring
+1411,Number of Ways to Paint N × 3 Grid,Dynamic Programming,60.6%,Hard,20.1611,https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid
+1436,Destination City,String,77.3%,Easy,1.92948,https://leetcode.com/problems/destination-city
+1473,Paint House III,Dynamic Programming,48.6%,Hard,100.0,https://leetcode.com/problems/paint-house-iii
+1497,Check If Array Pairs Are Divisible by k,"Array, Math, Greedy",40.3%,Medium,60.0805,https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k

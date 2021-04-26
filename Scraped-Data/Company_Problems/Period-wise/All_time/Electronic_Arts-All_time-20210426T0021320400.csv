@@ -1,0 +1,4 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+42,Trapping Rain Water,"Array, Two Pointers, Dynamic Programming, Stack",51.8%,Hard,59.5101,https://leetcode.com/problems/trapping-rain-water
+200,Number of Islands,"Depth-first Search, Breadth-first Search, Union Find",49.7%,Medium,100.0,https://leetcode.com/problems/number-of-islands
+206,Reverse Linked List,Linked List,65.9%,Easy,19.0202,https://leetcode.com/problems/reverse-linked-list

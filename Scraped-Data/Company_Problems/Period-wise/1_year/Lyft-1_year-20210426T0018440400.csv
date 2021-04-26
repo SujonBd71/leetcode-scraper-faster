@@ -1,0 +1,24 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+20,Valid Parentheses,"String, Stack",40.0%,Easy,0.296454,https://leetcode.com/problems/valid-parentheses
+23,Merge k Sorted Lists,"Linked List, Divide and Conquer, Heap",43.2%,Hard,0.672146,https://leetcode.com/problems/merge-k-sorted-lists
+69,Sqrt(x),"Math, Binary Search",35.5%,Easy,0.307137,https://leetcode.com/problems/sqrtx
+76,Minimum Window Substring,"Hash Table, Two Pointers, String, Sliding Window",36.3%,Hard,6.59448,https://leetcode.com/problems/minimum-window-substring
+84,Largest Rectangle in Histogram,"Array, Stack",37.5%,Hard,0.679668,https://leetcode.com/problems/largest-rectangle-in-histogram
+88,Merge Sorted Array,"Array, Two Pointers",40.9%,Easy,0.205837,https://leetcode.com/problems/merge-sorted-array
+91,Decode Ways,"String, Dynamic Programming",27.0%,Medium,3.58298,https://leetcode.com/problems/decode-ways
+109,Convert Sorted List to Binary Search Tree,"Linked List, Depth-first Search",50.8%,Medium,1.38366,https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree
+126,Word Ladder II,"Array, String, Backtracking, Breadth-first Search",23.9%,Hard,1.23302,https://leetcode.com/problems/word-ladder-ii
+127,Word Ladder,Breadth-first Search,32.3%,Hard,23.3921,https://leetcode.com/problems/word-ladder
+143,Reorder List,Linked List,41.3%,Medium,0.844482,https://leetcode.com/problems/reorder-list
+157,Read N Characters Given Read4,String,37.8%,Easy,2.00489,https://leetcode.com/problems/read-n-characters-given-read4
+158,Read N Characters Given Read4 II - Call multiple times,String,37.6%,Hard,100.0,https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times
+200,Number of Islands,"Depth-first Search, Breadth-first Search, Union Find",49.7%,Medium,0.192568,https://leetcode.com/problems/number-of-islands
+238,Product of Array Except Self,Array,61.4%,Medium,15.6783,https://leetcode.com/problems/product-of-array-except-self
+304,Range Sum Query 2D - Immutable,Dynamic Programming,41.4%,Medium,11.2011,https://leetcode.com/problems/range-sum-query-2d-immutable
+365,Water and Jug Problem,Math,31.4%,Medium,27.0072,https://leetcode.com/problems/water-and-jug-problem
+409,Longest Palindrome,Hash Table,52.3%,Easy,1.71306,https://leetcode.com/problems/longest-palindrome
+642,Design Search Autocomplete System,"Design, Trie",46.6%,Hard,41.1107,https://leetcode.com/problems/design-search-autocomplete-system
+692,Top K Frequent Words,"Hash Table, Heap, Trie",53.3%,Medium,0.660258,https://leetcode.com/problems/top-k-frequent-words
+716,Max Stack,Design,43.2%,Easy,70.5553,https://leetcode.com/problems/max-stack
+735,Asteroid Collision,Stack,43.4%,Medium,36.0708,https://leetcode.com/problems/asteroid-collision
+981,Time Based Key-Value Store,"Hash Table, Binary Search",54.3%,Medium,22.5786,https://leetcode.com/problems/time-based-key-value-store

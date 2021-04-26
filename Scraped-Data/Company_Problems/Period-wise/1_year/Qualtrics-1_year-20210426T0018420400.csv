@@ -1,0 +1,38 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+13,Roman to Integer,"Math, String",57.1%,Easy,5.50222,https://leetcode.com/problems/roman-to-integer
+15,3Sum,"Array, Two Pointers",28.3%,Medium,1.85544,https://leetcode.com/problems/3sum
+17,Letter Combinations of a Phone Number,"String, Backtracking, Depth-first Search, Recursion",50.0%,Medium,6.5065,https://leetcode.com/problems/letter-combinations-of-a-phone-number
+42,Trapping Rain Water,"Array, Two Pointers, Dynamic Programming, Stack",51.8%,Hard,11.5677,https://leetcode.com/problems/trapping-rain-water
+56,Merge Intervals,"Array, Sort",41.5%,Medium,8.70503,https://leetcode.com/problems/merge-intervals
+62,Unique Paths,"Array, Dynamic Programming",56.4%,Medium,4.11115,https://leetcode.com/problems/unique-paths
+98,Validate Binary Search Tree,"Tree, Depth-first Search, Recursion",29.0%,Medium,14.1191,https://leetcode.com/problems/validate-binary-search-tree
+103,Binary Tree Zigzag Level Order Traversal,"Stack, Tree, Breadth-first Search",50.6%,Medium,42.4487,https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal
+121,Best Time to Buy and Sell Stock,"Array, Dynamic Programming",51.9%,Easy,9.4099,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+122,Best Time to Buy and Sell Stock II,"Array, Greedy",58.9%,Easy,3.16968,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii
+127,Word Ladder,Breadth-first Search,32.3%,Hard,91.3993,https://leetcode.com/problems/word-ladder
+128,Longest Consecutive Sequence,"Array, Union Find",46.6%,Hard,17.7375,https://leetcode.com/problems/longest-consecutive-sequence
+133,Clone Graph,"Depth-first Search, Breadth-first Search, Graph",40.1%,Medium,13.6952,https://leetcode.com/problems/clone-graph
+138,Copy List with Random Pointer,"Hash Table, Linked List",41.7%,Medium,33.459,https://leetcode.com/problems/copy-list-with-random-pointer
+139,Word Break,Dynamic Programming,42.0%,Medium,45.4789,https://leetcode.com/problems/word-break
+200,Number of Islands,"Depth-first Search, Breadth-first Search, Union Find",49.7%,Medium,20.2294,https://leetcode.com/problems/number-of-islands
+208,Implement Trie (Prefix Tree),"Design, Trie",52.8%,Medium,7.51584,https://leetcode.com/problems/implement-trie-prefix-tree
+213,House Robber II,Dynamic Programming,37.7%,Medium,11.466,https://leetcode.com/problems/house-robber-ii
+228,Summary Ranges,Array,42.8%,Easy,18.8238,https://leetcode.com/problems/summary-ranges
+238,Product of Array Except Self,Array,61.4%,Medium,2.76575,https://leetcode.com/problems/product-of-array-except-self
+261,Graph Valid Tree,"Depth-first Search, Breadth-first Search, Union Find, Graph",43.4%,Medium,20.0383,https://leetcode.com/problems/graph-valid-tree
+297,Serialize and Deserialize Binary Tree,"Tree, Design",50.4%,Hard,23.6068,https://leetcode.com/problems/serialize-and-deserialize-binary-tree
+301,Remove Invalid Parentheses,"Depth-first Search, Breadth-first Search",45.0%,Hard,28.8751,https://leetcode.com/problems/remove-invalid-parentheses
+317,Shortest Distance from All Buildings,Breadth-first Search,43.0%,Hard,31.2293,https://leetcode.com/problems/shortest-distance-from-all-buildings
+329,Longest Increasing Path in a Matrix,"Depth-first Search, Topological Sort, Memoization",46.4%,Hard,6.38468,https://leetcode.com/problems/longest-increasing-path-in-a-matrix
+332,Reconstruct Itinerary,"Depth-first Search, Graph",38.3%,Medium,25.6904,https://leetcode.com/problems/reconstruct-itinerary
+518,Coin Change 2,,52.2%,Medium,11.0657,https://leetcode.com/problems/coin-change-2
+636,Exclusive Time of Functions,Stack,55.2%,Medium,18.1906,https://leetcode.com/problems/exclusive-time-of-functions
+692,Top K Frequent Words,"Hash Table, Heap, Trie",53.3%,Medium,7.7673,https://leetcode.com/problems/top-k-frequent-words
+695,Max Area of Island,"Array, Depth-first Search",65.3%,Medium,25.563,https://leetcode.com/problems/max-area-of-island
+729,My Calendar I,Array,53.7%,Medium,100.0,https://leetcode.com/problems/my-calendar-i
+767,Reorganize String,"String, Heap, Greedy, Sort",50.3%,Medium,12.5937,https://leetcode.com/problems/reorganize-string
+787,Cheapest Flights Within K Stops,"Dynamic Programming, Heap, Breadth-first Search",39.7%,Medium,64.759,https://leetcode.com/problems/cheapest-flights-within-k-stops
+815,Bus Routes,Breadth-first Search,43.6%,Hard,51.2534,https://leetcode.com/problems/bus-routes
+935,Knight Dialer,Dynamic Programming,46.8%,Medium,82.7013,https://leetcode.com/problems/knight-dialer
+1197,Minimum Knight Moves,Breadth-first Search,37.6%,Medium,69.1958,https://leetcode.com/problems/minimum-knight-moves
+1198,Find Smallest Common Element in All Rows,"Hash Table, Binary Search",76.2%,Medium,51.2534,https://leetcode.com/problems/find-smallest-common-element-in-all-rows

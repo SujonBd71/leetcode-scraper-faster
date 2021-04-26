@@ -1,0 +1,43 @@
+ChapterSerial,Chapter,ProblemSerial,Problem,Id,Acceptance,Difficulty,Frequency,Link
+1,Array and Strings,1,Two Sum,1,46.8%,Easy,100.0,https://leetcode.com/problems/two-sum
+1,Array and Strings,2,Longest Substring Without Repeating Characters,3,31.6%,Medium,92.3569,https://leetcode.com/problems/longest-substring-without-repeating-characters
+1,Array and Strings,3,Longest Common Prefix,14,36.3%,Easy,71.3295,https://leetcode.com/problems/longest-common-prefix
+1,Array and Strings,4,3Sum,15,28.3%,Medium,84.1112,https://leetcode.com/problems/3sum
+1,Array and Strings,5,Group Anagrams,49,59.9%,Medium,82.0205,https://leetcode.com/problems/group-anagrams
+1,Array and Strings,6,Spiral Matrix,54,36.7%,Medium,75.9198,https://leetcode.com/problems/spiral-matrix
+1,Array and Strings,7,Merge Sorted Array,88,40.9%,Easy,74.0362,https://leetcode.com/problems/merge-sorted-array
+1,Array and Strings,8,Pascal's Triangle,118,55.7%,Easy,45.3914,https://leetcode.com/problems/pascals-triangle
+1,Array and Strings,9,Basic Calculator II,227,38.9%,Medium,70.3017,https://leetcode.com/problems/basic-calculator-ii
+1,Array and Strings,10,Product of Array Except Self,238,61.4%,Medium,91.5417,https://leetcode.com/problems/product-of-array-except-self
+1,Array and Strings,11,Find the Closest Palindrome,564,20.4%,Hard,55.1336,https://leetcode.com/problems/find-the-closest-palindrome
+1,Array and Strings,12,Isomorphic Strings,205,40.7%,Easy,36.3202,https://leetcode.com/problems/isomorphic-strings
+1,Array and Strings,13,Minimum Index Sum of Two Lists,599,52.0%,Easy,5.07789,https://leetcode.com/problems/minimum-index-sum-of-two-lists
+2,Linked List,1,Merge Two Sorted Lists,21,56.5%,Easy,70.8243,https://leetcode.com/problems/merge-two-sorted-lists
+2,Linked List,2,Copy List with Random Pointer,138,41.7%,Medium,73.3576,https://leetcode.com/problems/copy-list-with-random-pointer
+3,Trees and Graphs,1,Word Ladder,127,32.3%,Hard,86.8287,https://leetcode.com/problems/word-ladder
+3,Trees and Graphs,2,Number of Islands,200,49.7%,Medium,97.487,https://leetcode.com/problems/number-of-islands
+3,Trees and Graphs,3,Course Schedule,207,44.3%,Medium,68.6257,https://leetcode.com/problems/course-schedule
+3,Trees and Graphs,4,Reconstruct Itinerary,332,38.3%,Medium,69.1008,https://leetcode.com/problems/reconstruct-itinerary
+4,Recursion,1,Letter Combinations of a Phone Number,17,50.0%,Medium,60.975,https://leetcode.com/problems/letter-combinations-of-a-phone-number
+4,Recursion,2,Generate Parentheses,22,65.9%,Medium,75.3054,https://leetcode.com/problems/generate-parentheses
+4,Recursion,3,Combination Sum,39,59.9%,Medium,62.141,https://leetcode.com/problems/combination-sum
+4,Recursion,4,Regular Expression Matching,10,27.5%,Hard,73.6156,https://leetcode.com/problems/regular-expression-matching
+5,Sorting and Searching,1,Merge Intervals,56,41.5%,Medium,97.3828,https://leetcode.com/problems/merge-intervals
+5,Sorting and Searching,2,Meeting Rooms,252,55.6%,Easy,39.0834,https://leetcode.com/problems/meeting-rooms
+5,Sorting and Searching,3,Meeting Rooms II,253,47.2%,Medium,88.1098,https://leetcode.com/problems/meeting-rooms-ii
+5,Sorting and Searching,4,Random Pick with Weight,528,44.8%,Medium,81.8219,https://leetcode.com/problems/random-pick-with-weight
+5,Sorting and Searching,5,Sliding Window Maximum,239,44.8%,Hard,76.617,https://leetcode.com/problems/sliding-window-maximum
+5,Sorting and Searching,6,Top K Frequent Elements,347,62.7%,Medium,75.635,https://leetcode.com/problems/top-k-frequent-elements
+5,Sorting and Searching,7,Top K Frequent Words,692,53.3%,Medium,67.954,https://leetcode.com/problems/top-k-frequent-words
+6,Dynamic Programming,1,Longest Palindromic Substring,5,30.7%,Medium,86.0281,https://leetcode.com/problems/longest-palindromic-substring
+6,Dynamic Programming,2,Maximum Subarray,53,47.9%,Easy,82.6454,https://leetcode.com/problems/maximum-subarray
+6,Dynamic Programming,3,Best Time to Buy and Sell Stock,121,51.9%,Easy,94.8698,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+6,Dynamic Programming,4,Word Break,139,42.0%,Medium,82.3162,https://leetcode.com/problems/word-break
+6,Dynamic Programming,5,Maximum Product Subarray,152,32.9%,Medium,63.9004,https://leetcode.com/problems/maximum-product-subarray
+6,Dynamic Programming,6,Maximal Square,221,39.7%,Medium,84.7719,https://leetcode.com/problems/maximal-square
+6,Dynamic Programming,7,Sentence Screen Fitting,418,33.5%,Medium,20.7214,https://leetcode.com/problems/sentence-screen-fitting
+7,Design,1,LRU Cache,146,36.4%,Medium,98.3247,https://leetcode.com/problems/lru-cache
+7,Design,2,Logger Rate Limiter,359,72.7%,Easy,50.6957,https://leetcode.com/problems/logger-rate-limiter
+7,Design,3,Insert Delete GetRandom O(1),380,49.2%,Medium,89.3784,https://leetcode.com/problems/insert-delete-getrandom-o1
+8,Others,1,Valid Square,593,43.4%,Medium,40.0706,https://leetcode.com/problems/valid-square
+8,Others,2,Integer to English Words,273,28.4%,Hard,86.1401,https://leetcode.com/problems/integer-to-english-words

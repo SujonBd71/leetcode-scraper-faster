@@ -1,0 +1,25 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+14,Longest Common Prefix,String,36.3%,Easy,0.360235,https://leetcode.com/problems/longest-common-prefix
+48,Rotate Image,Array,61.1%,Medium,1.68397,https://leetcode.com/problems/rotate-image
+113,Path Sum II,"Tree, Depth-first Search",49.7%,Medium,3.66123,https://leetcode.com/problems/path-sum-ii
+162,Find Peak Element,"Array, Binary Search",44.1%,Medium,8.89173,https://leetcode.com/problems/find-peak-element
+253,Meeting Rooms II,"Heap, Greedy, Sort",47.2%,Medium,2.05918,https://leetcode.com/problems/meeting-rooms-ii
+297,Serialize and Deserialize Binary Tree,"Tree, Design",50.4%,Hard,11.2972,https://leetcode.com/problems/serialize-and-deserialize-binary-tree
+380,Insert Delete GetRandom O(1),"Array, Hash Table, Design",49.2%,Medium,5.78085,https://leetcode.com/problems/insert-delete-getrandom-o1
+381,Insert Delete GetRandom O(1) - Duplicates allowed,"Array, Hash Table, Design",35.0%,Hard,2.16911,https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed
+390,Elimination Game,,45.3%,Medium,3.91429,https://leetcode.com/problems/elimination-game
+437,Path Sum III,Tree,48.4%,Medium,13.5359,https://leetcode.com/problems/path-sum-iii
+452,Minimum Number of Arrows to Burst Balloons,"Greedy, Sort",49.8%,Medium,4.16445,https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons
+498,Diagonal Traverse,,50.6%,Medium,26.1049,https://leetcode.com/problems/diagonal-traverse
+525,Contiguous Array,Hash Table,43.6%,Medium,38.6488,https://leetcode.com/problems/contiguous-array
+560,Subarray Sum Equals K,"Array, Hash Table",43.7%,Medium,0.958558,https://leetcode.com/problems/subarray-sum-equals-k
+780,Reaching Points,Math,30.5%,Hard,18.4307,https://leetcode.com/problems/reaching-points
+852,Peak Index in a Mountain Array,Binary Search,71.8%,Easy,0.59847,https://leetcode.com/problems/peak-index-in-a-mountain-array
+855,Exam Room,Ordered Map,43.5%,Medium,60.0315,https://leetcode.com/problems/exam-room
+1027,Longest Arithmetic Subsequence,Dynamic Programming,49.7%,Medium,7.03308,https://leetcode.com/problems/longest-arithmetic-subsequence
+1053,Previous Permutation With One Swap,"Array, Greedy",51.3%,Medium,7.79851,https://leetcode.com/problems/previous-permutation-with-one-swap
+1095,Find in Mountain Array,Binary Search,36.1%,Hard,2.93267,https://leetcode.com/problems/find-in-mountain-array
+1256,Encode Number,"Math, Bit Manipulation",67.9%,Medium,78.6173,https://leetcode.com/problems/encode-number
+1281,Subtract the Product and Sum of Digits of an Integer,Math,85.6%,Easy,0.693396,https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer
+1329,Sort the Matrix Diagonally,"Array, Sort",81.6%,Medium,6.01555,https://leetcode.com/problems/sort-the-matrix-diagonally
+1354,Construct Target Array With Multiple Sums,Greedy,31.2%,Hard,100.0,https://leetcode.com/problems/construct-target-array-with-multiple-sums

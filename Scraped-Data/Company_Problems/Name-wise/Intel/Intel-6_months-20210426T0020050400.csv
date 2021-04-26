@@ -1,0 +1,7 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+8,String to Integer (atoi),"Math, String",15.8%,Medium,59.9019,https://leetcode.com/problems/string-to-integer-atoi
+104,Maximum Depth of Binary Tree,"Tree, Depth-first Search, Recursion",68.5%,Easy,39.2854,https://leetcode.com/problems/maximum-depth-of-binary-tree
+146,LRU Cache,Design,36.4%,Medium,60.7146,https://leetcode.com/problems/lru-cache
+200,Number of Islands,"Depth-first Search, Breadth-first Search, Union Find",49.7%,Medium,40.1373,https://leetcode.com/problems/number-of-islands
+205,Isomorphic Strings,Hash Table,40.7%,Easy,100.0,https://leetcode.com/problems/isomorphic-strings
+238,Product of Array Except Self,Array,61.4%,Medium,49.0027,https://leetcode.com/problems/product-of-array-except-self

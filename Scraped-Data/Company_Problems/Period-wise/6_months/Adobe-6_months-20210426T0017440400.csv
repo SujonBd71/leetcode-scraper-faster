@@ -1,0 +1,104 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+1,Two Sum,"Array, Hash Table",46.8%,Easy,88.7629,https://leetcode.com/problems/two-sum
+2,Add Two Numbers,"Linked List, Math, Recursion",35.8%,Medium,26.1945,https://leetcode.com/problems/add-two-numbers
+3,Longest Substring Without Repeating Characters,"Hash Table, Two Pointers, String, Sliding Window",31.6%,Medium,4.4293,https://leetcode.com/problems/longest-substring-without-repeating-characters
+4,Median of Two Sorted Arrays,"Array, Binary Search, Divide and Conquer",31.5%,Hard,9.44427,https://leetcode.com/problems/median-of-two-sorted-arrays
+5,Longest Palindromic Substring,"String, Dynamic Programming",30.7%,Medium,11.0702,https://leetcode.com/problems/longest-palindromic-substring
+7,Reverse Integer,Math,26.0%,Easy,2.99958,https://leetcode.com/problems/reverse-integer
+8,String to Integer (atoi),"Math, String",15.8%,Medium,3.37817,https://leetcode.com/problems/string-to-integer-atoi
+9,Palindrome Number,Math,50.2%,Easy,8.13636,https://leetcode.com/problems/palindrome-number
+10,Regular Expression Matching,"String, Dynamic Programming, Backtracking",27.5%,Hard,6.12151,https://leetcode.com/problems/regular-expression-matching
+11,Container With Most Water,"Array, Two Pointers",52.9%,Medium,5.45224,https://leetcode.com/problems/container-with-most-water
+12,Integer to Roman,"Math, String",57.2%,Medium,25.9207,https://leetcode.com/problems/integer-to-roman
+13,Roman to Integer,"Math, String",57.1%,Easy,5.49778,https://leetcode.com/problems/roman-to-integer
+14,Longest Common Prefix,String,36.3%,Easy,28.7677,https://leetcode.com/problems/longest-common-prefix
+15,3Sum,"Array, Two Pointers",28.3%,Medium,1.85394,https://leetcode.com/problems/3sum
+20,Valid Parentheses,"String, Stack",40.0%,Easy,3.48468,https://leetcode.com/problems/valid-parentheses
+21,Merge Two Sorted Lists,"Linked List, Recursion",56.5%,Easy,10.927,https://leetcode.com/problems/merge-two-sorted-lists
+22,Generate Parentheses,"String, Backtracking",65.9%,Medium,8.73633,https://leetcode.com/problems/generate-parentheses
+27,Remove Element,"Array, Two Pointers",49.6%,Easy,10.1846,https://leetcode.com/problems/remove-element
+30,Substring with Concatenation of All Words,"Hash Table, Two Pointers, String",26.4%,Hard,22.8059,https://leetcode.com/problems/substring-with-concatenation-of-all-words
+33,Search in Rotated Sorted Array,"Array, Binary Search",36.2%,Medium,2.59226,https://leetcode.com/problems/search-in-rotated-sorted-array
+39,Combination Sum,"Array, Backtracking",59.9%,Medium,4.40826,https://leetcode.com/problems/combination-sum
+41,First Missing Positive,Array,34.1%,Hard,5.11068,https://leetcode.com/problems/first-missing-positive
+44,Wildcard Matching,"String, Dynamic Programming, Backtracking, Greedy",25.6%,Hard,41.8253,https://leetcode.com/problems/wildcard-matching
+48,Rotate Image,Array,61.1%,Medium,9.04605,https://leetcode.com/problems/rotate-image
+51,N-Queens,Backtracking,50.4%,Hard,13.0372,https://leetcode.com/problems/n-queens
+53,Maximum Subarray,"Array, Divide and Conquer, Dynamic Programming",47.9%,Easy,6.58585,https://leetcode.com/problems/maximum-subarray
+54,Spiral Matrix,Array,36.7%,Medium,4.81847,https://leetcode.com/problems/spiral-matrix
+56,Merge Intervals,"Array, Sort",41.5%,Medium,59.9361,https://leetcode.com/problems/merge-intervals
+66,Plus One,Array,42.2%,Easy,6.30864,https://leetcode.com/problems/plus-one
+70,Climbing Stairs,Dynamic Programming,48.8%,Easy,28.6899,https://leetcode.com/problems/climbing-stairs
+75,Sort Colors,"Array, Two Pointers, Sort",50.0%,Medium,9.55456,https://leetcode.com/problems/sort-colors
+76,Minimum Window Substring,"Hash Table, Two Pointers, String, Sliding Window",36.3%,Hard,5.00105,https://leetcode.com/problems/minimum-window-substring
+83,Remove Duplicates from Sorted List,Linked List,46.7%,Easy,19.7892,https://leetcode.com/problems/remove-duplicates-from-sorted-list
+84,Largest Rectangle in Histogram,"Array, Stack",37.5%,Hard,17.8981,https://leetcode.com/problems/largest-rectangle-in-histogram
+85,Maximal Rectangle,"Array, Hash Table, Dynamic Programming, Stack",39.8%,Hard,14.3801,https://leetcode.com/problems/maximal-rectangle
+102,Binary Tree Level Order Traversal,"Tree, Breadth-first Search",57.1%,Medium,6.5307,https://leetcode.com/problems/binary-tree-level-order-traversal
+103,Binary Tree Zigzag Level Order Traversal,"Stack, Tree, Breadth-first Search",50.6%,Medium,4.79082,https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal
+111,Minimum Depth of Binary Tree,"Tree, Depth-first Search, Breadth-first Search",39.9%,Easy,5.41815,https://leetcode.com/problems/minimum-depth-of-binary-tree
+118,Pascal's Triangle,Array,55.7%,Easy,12.7994,https://leetcode.com/problems/pascals-triangle
+121,Best Time to Buy and Sell Stock,"Array, Dynamic Programming",51.9%,Easy,37.1559,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+122,Best Time to Buy and Sell Stock II,"Array, Greedy",58.9%,Easy,3.16712,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii
+124,Binary Tree Maximum Path Sum,"Tree, Depth-first Search, Recursion",35.7%,Hard,4.42056,https://leetcode.com/problems/binary-tree-maximum-path-sum
+133,Clone Graph,"Depth-first Search, Breadth-first Search, Graph",40.1%,Medium,6.10199,https://leetcode.com/problems/clone-graph
+137,Single Number II,Bit Manipulation,54.2%,Medium,16.2413,https://leetcode.com/problems/single-number-ii
+146,LRU Cache,Design,36.4%,Medium,21.2344,https://leetcode.com/problems/lru-cache
+148,Sort List,"Linked List, Sort",46.8%,Medium,10.2431,https://leetcode.com/problems/sort-list
+169,Majority Element,"Array, Divide and Conquer, Bit Manipulation",60.3%,Easy,3.77742,https://leetcode.com/problems/majority-element
+173,Binary Search Tree Iterator,"Stack, Tree, Design",60.8%,Medium,19.1697,https://leetcode.com/problems/binary-search-tree-iterator
+175,Combine Two Tables,,65.0%,Easy,18.8821,https://leetcode.com/problems/combine-two-tables
+201,Bitwise AND of Numbers Range,Bit Manipulation,39.7%,Medium,38.4384,https://leetcode.com/problems/bitwise-and-of-numbers-range
+206,Reverse Linked List,Linked List,65.9%,Easy,48.699,https://leetcode.com/problems/reverse-linked-list
+215,Kth Largest Element in an Array,"Divide and Conquer, Heap",59.1%,Medium,13.0141,https://leetcode.com/problems/kth-largest-element-in-an-array
+217,Contains Duplicate,"Array, Hash Table",57.0%,Easy,2.79377,https://leetcode.com/problems/contains-duplicate
+219,Contains Duplicate II,"Array, Hash Table",38.9%,Easy,10.024,https://leetcode.com/problems/contains-duplicate-ii
+226,Invert Binary Tree,Tree,67.5%,Easy,3.90824,https://leetcode.com/problems/invert-binary-tree
+230,Kth Smallest Element in a BST,"Binary Search, Tree",63.1%,Medium,5.47433,https://leetcode.com/problems/kth-smallest-element-in-a-bst
+234,Palindrome Linked List,"Linked List, Two Pointers",42.2%,Easy,2.87739,https://leetcode.com/problems/palindrome-linked-list
+236,Lowest Common Ancestor of a Binary Tree,Tree,49.6%,Medium,7.74039,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree
+237,Delete Node in a Linked List,Linked List,67.6%,Easy,4.2492,https://leetcode.com/problems/delete-node-in-a-linked-list
+238,Product of Array Except Self,Array,61.4%,Medium,6.20858,https://leetcode.com/problems/product-of-array-except-self
+242,Valid Anagram,"Hash Table, Sort",59.0%,Easy,6.89267,https://leetcode.com/problems/valid-anagram
+252,Meeting Rooms,Sort,55.6%,Easy,12.6216,https://leetcode.com/problems/meeting-rooms
+253,Meeting Rooms II,"Heap, Greedy, Sort",47.2%,Medium,11.0787,https://leetcode.com/problems/meeting-rooms-ii
+263,Ugly Number,Math,41.7%,Easy,16.702,https://leetcode.com/problems/ugly-number
+283,Move Zeroes,"Array, Two Pointers",58.7%,Easy,15.2677,https://leetcode.com/problems/move-zeroes
+295,Find Median from Data Stream,"Heap, Design",47.6%,Hard,13.7644,https://leetcode.com/problems/find-median-from-data-stream
+312,Burst Balloons,"Divide and Conquer, Dynamic Programming",54.0%,Hard,86.1939,https://leetcode.com/problems/burst-balloons
+344,Reverse String,"Two Pointers, String",70.8%,Easy,5.03394,https://leetcode.com/problems/reverse-string
+367,Valid Perfect Square,"Math, Binary Search",42.3%,Easy,9.86466,https://leetcode.com/problems/valid-perfect-square
+387,First Unique Character in a String,"Hash Table, String",54.0%,Easy,3.48083,https://leetcode.com/problems/first-unique-character-in-a-string
+400,Nth Digit,Math,32.5%,Medium,74.9567,https://leetcode.com/problems/nth-digit
+402,Remove K Digits,"Stack, Greedy",28.7%,Medium,18.4683,https://leetcode.com/problems/remove-k-digits
+404,Sum of Left Leaves,Tree,52.4%,Easy,13.2631,https://leetcode.com/problems/sum-of-left-leaves
+415,Add Strings,String,48.6%,Easy,29.6229,https://leetcode.com/problems/add-strings
+445,Add Two Numbers II,Linked List,56.7%,Medium,9.82037,https://leetcode.com/problems/add-two-numbers-ii
+480,Sliding Window Median,Sliding Window,39.0%,Hard,28.9244,https://leetcode.com/problems/sliding-window-median
+513,Find Bottom Left Tree Value,"Tree, Depth-first Search, Breadth-first Search",62.9%,Medium,23.8604,https://leetcode.com/problems/find-bottom-left-tree-value
+518,Coin Change 2,,52.2%,Medium,11.0568,https://leetcode.com/problems/coin-change-2
+560,Subarray Sum Equals K,"Array, Hash Table",43.7%,Medium,8.01162,https://leetcode.com/problems/subarray-sum-equals-k
+567,Permutation in String,"Two Pointers, Sliding Window",44.6%,Medium,12.2972,https://leetcode.com/problems/permutation-in-string
+671,Second Minimum Node In a Binary Tree,Tree,42.8%,Easy,21.5234,https://leetcode.com/problems/second-minimum-node-in-a-binary-tree
+698,Partition to K Equal Sum Subsets,"Dynamic Programming, Recursion",45.5%,Medium,15.9204,https://leetcode.com/problems/partition-to-k-equal-sum-subsets
+706,Design HashMap,"Hash Table, Design",64.0%,Easy,11.2684,https://leetcode.com/problems/design-hashmap
+733,Flood Fill,Depth-first Search,56.0%,Easy,11.859,https://leetcode.com/problems/flood-fill
+739,Daily Temperatures,"Hash Table, Stack",64.9%,Medium,7.98223,https://leetcode.com/problems/daily-temperatures
+763,Partition Labels,"Two Pointers, Greedy",78.1%,Medium,22.0539,https://leetcode.com/problems/partition-labels
+895,Maximum Frequency Stack,"Hash Table, Stack",63.3%,Hard,32.256,https://leetcode.com/problems/maximum-frequency-stack
+910,Smallest Range II,"Math, Greedy",31.2%,Medium,100.0,https://leetcode.com/problems/smallest-range-ii
+992,Subarrays with K Different Integers,"Hash Table, Two Pointers, Sliding Window",50.9%,Hard,40.7581,https://leetcode.com/problems/subarrays-with-k-different-integers
+994,Rotting Oranges,Breadth-first Search,49.7%,Medium,11.0515,https://leetcode.com/problems/rotting-oranges
+1025,Divisor Game,"Math, Dynamic Programming",66.1%,Easy,13.1945,https://leetcode.com/problems/divisor-game
+1041,Robot Bounded In Circle,Math,55.1%,Medium,6.89221,https://leetcode.com/problems/robot-bounded-in-circle
+1047,Remove All Adjacent Duplicates In String,Stack,71.5%,Easy,17.8271,https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string
+1108,Defanging an IP Address,String,88.4%,Easy,4.39014,https://leetcode.com/problems/defanging-an-ip-address
+1161,Maximum Level Sum of a Binary Tree,"Tree, Breadth-first Search",68.6%,Medium,21.7992,https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree
+1329,Sort the Matrix Diagonally,"Array, Sort",81.6%,Medium,22.9426,https://leetcode.com/problems/sort-the-matrix-diagonally
+1382,Balance a Binary Search Tree,Binary Search Tree,76.2%,Medium,19.9179,https://leetcode.com/problems/balance-a-binary-search-tree
+1405,Longest Happy String,"Dynamic Programming, Greedy",52.8%,Medium,63.8001,https://leetcode.com/problems/longest-happy-string
+1431,Kids With the Greatest Number of Candies,Array,88.2%,Easy,4.83623,https://leetcode.com/problems/kids-with-the-greatest-number-of-candies
+1480,Running Sum of 1d Array,Array,88.5%,Easy,10.5289,https://leetcode.com/problems/running-sum-of-1d-array
+1512,Number of Good Pairs,"Array, Hash Table, Math",87.6%,Easy,4.97505,https://leetcode.com/problems/number-of-good-pairs
+1672,Richest Customer Wealth,Array,88.2%,Easy,4.02045,https://leetcode.com/problems/richest-customer-wealth
+1711,Count Good Meals,"Array, Hash Table, Two Pointers",26.5%,Medium,37.9932,https://leetcode.com/problems/count-good-meals

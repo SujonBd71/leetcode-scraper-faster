@@ -1,0 +1,24 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+1,Two Sum,"Array, Hash Table",46.8%,Easy,1.62455,https://leetcode.com/problems/two-sum
+15,3Sum,"Array, Two Pointers",28.3%,Medium,5.5801,https://leetcode.com/problems/3sum
+20,Valid Parentheses,"String, Stack",40.0%,Easy,8.28571,https://leetcode.com/problems/valid-parentheses
+33,Search in Rotated Sorted Array,"Array, Binary Search",36.2%,Medium,3.47119,https://leetcode.com/problems/search-in-rotated-sorted-array
+48,Rotate Image,Array,61.1%,Medium,33.415,https://leetcode.com/problems/rotate-image
+49,Group Anagrams,"Hash Table, String",59.9%,Medium,4.23164,https://leetcode.com/problems/group-anagrams
+53,Maximum Subarray,"Array, Divide and Conquer, Dynamic Programming",47.9%,Easy,4.96683,https://leetcode.com/problems/maximum-subarray
+56,Merge Intervals,"Array, Sort",41.5%,Medium,11.6472,https://leetcode.com/problems/merge-intervals
+91,Decode Ways,"String, Dynamic Programming",27.0%,Medium,56.3962,https://leetcode.com/problems/decode-ways
+146,LRU Cache,Design,36.4%,Medium,10.297,https://leetcode.com/problems/lru-cache
+191,Number of 1 Bits,Bit Manipulation,54.4%,Easy,34.7585,https://leetcode.com/problems/number-of-1-bits
+198,House Robber,Dynamic Programming,43.2%,Medium,34.6282,https://leetcode.com/problems/house-robber
+204,Count Primes,"Hash Table, Math",32.4%,Easy,7.94814,https://leetcode.com/problems/count-primes
+206,Reverse Linked List,Linked List,65.9%,Easy,2.20053,https://leetcode.com/problems/reverse-linked-list
+242,Valid Anagram,"Hash Table, Sort",59.0%,Easy,9.22972,https://leetcode.com/problems/valid-anagram
+268,Missing Number,"Array, Math, Bit Manipulation",55.4%,Easy,4.98845,https://leetcode.com/problems/missing-number
+283,Move Zeroes,"Array, Two Pointers",58.7%,Easy,7.39136,https://leetcode.com/problems/move-zeroes
+394,Decode String,"Stack, Depth-first Search",53.1%,Medium,20.7222,https://leetcode.com/problems/decode-string
+443,String Compression,String,44.3%,Medium,29.1951,https://leetcode.com/problems/string-compression
+468,Validate IP Address,String,25.1%,Medium,100.0,https://leetcode.com/problems/validate-ip-address
+526,Beautiful Arrangement,"Backtracking, Depth-first Search",62.2%,Medium,78.1981,https://leetcode.com/problems/beautiful-arrangement
+977,Squares of a Sorted Array,"Array, Two Pointers",71.8%,Easy,3.9628,https://leetcode.com/problems/squares-of-a-sorted-array
+1197,Minimum Knight Moves,Breadth-first Search,37.6%,Medium,23.6735,https://leetcode.com/problems/minimum-knight-moves

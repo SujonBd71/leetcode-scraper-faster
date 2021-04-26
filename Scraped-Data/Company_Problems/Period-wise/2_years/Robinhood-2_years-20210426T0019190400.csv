@@ -1,0 +1,21 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+5,Longest Palindromic Substring,"String, Dynamic Programming",30.7%,Medium,0.717741,https://leetcode.com/problems/longest-palindromic-substring
+42,Trapping Rain Water,"Array, Two Pointers, Dynamic Programming, Stack",51.8%,Hard,1.1706,https://leetcode.com/problems/trapping-rain-water
+48,Rotate Image,Array,61.1%,Medium,1.62614,https://leetcode.com/problems/rotate-image
+54,Spiral Matrix,Array,36.7%,Medium,17.2149,https://leetcode.com/problems/spiral-matrix
+68,Text Justification,String,30.4%,Hard,13.8021,https://leetcode.com/problems/text-justification
+200,Number of Islands,"Depth-first Search, Breadth-first Search, Union Find",49.7%,Medium,0.913528,https://leetcode.com/problems/number-of-islands
+210,Course Schedule II,"Depth-first Search, Breadth-first Search, Graph, Topological Sort",43.1%,Medium,8.80301,https://leetcode.com/problems/course-schedule-ii
+224,Basic Calculator,"Math, Stack",38.3%,Hard,41.9979,https://leetcode.com/problems/basic-calculator
+418,Sentence Screen Fitting,Dynamic Programming,33.5%,Medium,50.2152,https://leetcode.com/problems/sentence-screen-fitting
+438,Find All Anagrams in a String,Hash Table,45.3%,Medium,3.65467,https://leetcode.com/problems/find-all-anagrams-in-a-string
+498,Diagonal Traverse,,50.6%,Medium,75.9312,https://leetcode.com/problems/diagonal-traverse
+525,Contiguous Array,Hash Table,43.6%,Medium,9.80279,https://leetcode.com/problems/contiguous-array
+611,Valid Triangle Number,Array,49.5%,Medium,11.5714,https://leetcode.com/problems/valid-triangle-number
+697,Degree of an Array,Array,54.5%,Easy,9.52571,https://leetcode.com/problems/degree-of-an-array
+735,Asteroid Collision,Stack,43.4%,Medium,6.79249,https://leetcode.com/problems/asteroid-collision
+755,Pour Water,Array,44.3%,Medium,54.4214,https://leetcode.com/problems/pour-water
+786,K-th Smallest Prime Fraction,"Binary Search, Heap",43.7%,Hard,100.0,https://leetcode.com/problems/k-th-smallest-prime-fraction
+1052,Grumpy Bookstore Owner,"Array, Sliding Window",56.0%,Medium,17.9291,https://leetcode.com/problems/grumpy-bookstore-owner
+1329,Sort the Matrix Diagonally,"Array, Sort",81.6%,Medium,9.25924,https://leetcode.com/problems/sort-the-matrix-diagonally
+1391,Check if There is a Valid Path in a Grid,"Depth-first Search, Breadth-first Search",45.0%,Medium,52.8675,https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid

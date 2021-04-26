@@ -1,0 +1,64 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+1,Two Sum,"Array, Hash Table",46.8%,Easy,0.671588,https://leetcode.com/problems/two-sum
+15,3Sum,"Array, Two Pointers",28.3%,Medium,1.81038,https://leetcode.com/problems/3sum
+20,Valid Parentheses,"String, Stack",40.0%,Easy,2.35561,https://leetcode.com/problems/valid-parentheses
+28,Implement strStr(),"Two Pointers, String",35.4%,Easy,0.462914,https://leetcode.com/problems/implement-strstr
+32,Longest Valid Parentheses,"String, Dynamic Programming",29.9%,Hard,3.05251,https://leetcode.com/problems/longest-valid-parentheses
+39,Combination Sum,"Array, Backtracking",59.9%,Medium,1.08292,https://leetcode.com/problems/combination-sum
+42,Trapping Rain Water,"Array, Two Pointers, Dynamic Programming, Stack",51.8%,Hard,3.54253,https://leetcode.com/problems/trapping-rain-water
+44,Wildcard Matching,"String, Dynamic Programming, Backtracking, Greedy",25.6%,Hard,3.99629,https://leetcode.com/problems/wildcard-matching
+49,Group Anagrams,"Hash Table, String",59.9%,Medium,0.777569,https://leetcode.com/problems/group-anagrams
+53,Maximum Subarray,"Array, Divide and Conquer, Dynamic Programming",47.9%,Easy,0.912014,https://leetcode.com/problems/maximum-subarray
+54,Spiral Matrix,Array,36.7%,Medium,1.18307,https://leetcode.com/problems/spiral-matrix
+70,Climbing Stairs,Dynamic Programming,48.8%,Easy,0.909659,https://leetcode.com/problems/climbing-stairs
+85,Maximal Rectangle,"Array, Hash Table, Dynamic Programming, Stack",39.8%,Hard,3.48802,https://leetcode.com/problems/maximal-rectangle
+98,Validate Binary Search Tree,"Tree, Depth-first Search, Recursion",29.0%,Medium,0.558922,https://leetcode.com/problems/validate-binary-search-tree
+105,Construct Binary Tree from Preorder and Inorder Traversal,"Array, Tree, Depth-first Search",52.6%,Medium,5.1574,https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal
+121,Best Time to Buy and Sell Stock,"Array, Dynamic Programming",51.9%,Easy,5.73321,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+123,Best Time to Buy and Sell Stock III,"Array, Dynamic Programming",40.3%,Hard,2.7627,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii
+127,Word Ladder,Breadth-first Search,32.3%,Hard,0.875728,https://leetcode.com/problems/word-ladder
+138,Copy List with Random Pointer,"Hash Table, Linked List",41.7%,Medium,2.95488,https://leetcode.com/problems/copy-list-with-random-pointer
+146,LRU Cache,Design,36.4%,Medium,4.16439,https://leetcode.com/problems/lru-cache
+151,Reverse Words in a String,String,24.3%,Medium,2.39856,https://leetcode.com/problems/reverse-words-in-a-string
+188,Best Time to Buy and Sell Stock IV,Dynamic Programming,30.2%,Hard,9.53781,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv
+200,Number of Islands,"Depth-first Search, Breadth-first Search, Union Find",49.7%,Medium,4.11196,https://leetcode.com/problems/number-of-islands
+204,Count Primes,"Hash Table, Math",32.4%,Easy,2.26091,https://leetcode.com/problems/count-primes
+208,Implement Trie (Prefix Tree),"Design, Trie",52.8%,Medium,1.03944,https://leetcode.com/problems/implement-trie-prefix-tree
+212,Word Search II,"Backtracking, Trie",37.6%,Hard,0.538934,https://leetcode.com/problems/word-search-ii
+221,Maximal Square,Dynamic Programming,39.7%,Medium,7.53585,https://leetcode.com/problems/maximal-square
+225,Implement Stack using Queues,"Stack, Design",48.0%,Easy,0.939396,https://leetcode.com/problems/implement-stack-using-queues
+232,Implement Queue using Stacks,"Stack, Design",52.9%,Easy,0.628618,https://leetcode.com/problems/implement-queue-using-stacks
+238,Product of Array Except Self,Array,61.4%,Medium,0.170694,https://leetcode.com/problems/product-of-array-except-self
+239,Sliding Window Maximum,"Heap, Sliding Window, Dequeue",44.8%,Hard,8.67265,https://leetcode.com/problems/sliding-window-maximum
+240,Search a 2D Matrix II,"Binary Search, Divide and Conquer",45.5%,Medium,5.20636,https://leetcode.com/problems/search-a-2d-matrix-ii
+241,Different Ways to Add Parentheses,Divide and Conquer,57.7%,Medium,42.6957,https://leetcode.com/problems/different-ways-to-add-parentheses
+253,Meeting Rooms II,"Heap, Greedy, Sort",47.2%,Medium,0.304949,https://leetcode.com/problems/meeting-rooms-ii
+259,3Sum Smaller,"Array, Two Pointers",49.3%,Medium,5.04806,https://leetcode.com/problems/3sum-smaller
+282,Expression Add Operators,Divide and Conquer,37.0%,Hard,9.92721,https://leetcode.com/problems/expression-add-operators
+285,Inorder Successor in BST,Tree,43.9%,Medium,5.19545,https://leetcode.com/problems/inorder-successor-in-bst
+287,Find the Duplicate Number,"Array, Two Pointers, Binary Search",58.0%,Medium,0.229786,https://leetcode.com/problems/find-the-duplicate-number
+295,Find Median from Data Stream,"Heap, Design",47.6%,Hard,2.33691,https://leetcode.com/problems/find-median-from-data-stream
+297,Serialize and Deserialize Binary Tree,"Tree, Design",50.4%,Hard,3.23702,https://leetcode.com/problems/serialize-and-deserialize-binary-tree
+301,Remove Invalid Parentheses,"Depth-first Search, Breadth-first Search",45.0%,Hard,0.797572,https://leetcode.com/problems/remove-invalid-parentheses
+332,Reconstruct Itinerary,"Depth-first Search, Graph",38.3%,Medium,1.58554,https://leetcode.com/problems/reconstruct-itinerary
+340,Longest Substring with At Most K Distinct Characters,"Hash Table, Two Pointers, String, Sliding Window",45.8%,Medium,0.707824,https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters
+359,Logger Rate Limiter,"Hash Table, Design",72.7%,Easy,0.815689,https://leetcode.com/problems/logger-rate-limiter
+362,Design Hit Counter,Design,65.6%,Medium,1.41498,https://leetcode.com/problems/design-hit-counter
+380,Insert Delete GetRandom O(1),"Array, Hash Table, Design",49.2%,Medium,1.00192,https://leetcode.com/problems/insert-delete-getrandom-o1
+460,LFU Cache,Design,36.6%,Hard,2.45245,https://leetcode.com/problems/lfu-cache
+489,Robot Room Cleaner,Depth-first Search,73.1%,Hard,1.43357,https://leetcode.com/problems/robot-room-cleaner
+588,Design In-Memory File System,Design,46.8%,Hard,2.49317,https://leetcode.com/problems/design-in-memory-file-system
+622,Design Circular Queue,"Design, Queue",47.7%,Medium,1.57936,https://leetcode.com/problems/design-circular-queue
+628,Maximum Product of Three Numbers,"Array, Math",46.8%,Easy,2.20353,https://leetcode.com/problems/maximum-product-of-three-numbers
+647,Palindromic Substrings,"String, Dynamic Programming",62.8%,Medium,5.14162,https://leetcode.com/problems/palindromic-substrings
+718,Maximum Length of Repeated Subarray,"Array, Hash Table, Binary Search, Dynamic Programming",50.6%,Medium,0.0,https://leetcode.com/problems/maximum-length-of-repeated-subarray
+724,Find Pivot Index,Array,46.3%,Easy,4.02807,https://leetcode.com/problems/find-pivot-index
+752,Open the Lock,Breadth-first Search,53.0%,Medium,5.91679,https://leetcode.com/problems/open-the-lock
+829,Consecutive Numbers Sum,Math,39.2%,Hard,100.0,https://leetcode.com/problems/consecutive-numbers-sum
+867,Transpose Matrix,Array,61.9%,Easy,1.48614,https://leetcode.com/problems/transpose-matrix
+935,Knight Dialer,Dynamic Programming,46.8%,Medium,5.46769,https://leetcode.com/problems/knight-dialer
+1048,Longest String Chain,"Hash Table, Dynamic Programming",55.7%,Medium,67.2315,https://leetcode.com/problems/longest-string-chain
+1091,Shortest Path in Binary Matrix,Breadth-first Search,40.2%,Medium,1.14119,https://leetcode.com/problems/shortest-path-in-binary-matrix
+1248,Count Number of Nice Subarrays,Two Pointers,56.2%,Medium,2.93113,https://leetcode.com/problems/count-number-of-nice-subarrays
+1395,Count Number of Teams,Array,74.6%,Medium,1.41286,https://leetcode.com/problems/count-number-of-teams
+1515,Best Position for a Service Centre,Geometry,38.5%,Hard,0.0,https://leetcode.com/problems/best-position-for-a-service-centre

@@ -1,0 +1,9 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+20,Valid Parentheses,"String, Stack",40.0%,Easy,1.38418,https://leetcode.com/problems/valid-parentheses
+31,Next Permutation,Array,33.9%,Medium,8.98051,https://leetcode.com/problems/next-permutation
+236,Lowest Common Ancestor of a Binary Tree,Tree,49.6%,Medium,3.0778,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree
+362,Design Hit Counter,Design,65.6%,Medium,20.4569,https://leetcode.com/problems/design-hit-counter
+860,Lemonade Change,Greedy,51.9%,Easy,72.409,https://leetcode.com/problems/lemonade-change
+981,Time Based Key-Value Store,"Hash Table, Binary Search",54.3%,Medium,13.083,https://leetcode.com/problems/time-based-key-value-store
+1071,Greatest Common Divisor of Strings,String,51.8%,Easy,48.0479,https://leetcode.com/problems/greatest-common-divisor-of-strings
+1366,Rank Teams by Votes,"Array, Sort",55.7%,Medium,100.0,https://leetcode.com/problems/rank-teams-by-votes

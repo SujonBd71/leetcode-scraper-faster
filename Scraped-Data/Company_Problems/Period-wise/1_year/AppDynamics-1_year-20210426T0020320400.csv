@@ -1,0 +1,5 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+221,Maximal Square,Dynamic Programming,39.7%,Medium,23.8386,https://leetcode.com/problems/maximal-square
+380,Insert Delete GetRandom O(1),"Array, Hash Table, Design",49.2%,Medium,21.5209,https://leetcode.com/problems/insert-delete-getrandom-o1
+419,Battleships in a Board,,71.3%,Medium,61.9193,https://leetcode.com/problems/battleships-in-a-board
+1283,Find the Smallest Divisor Given a Threshold,Binary Search,50.0%,Medium,100.0,https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold

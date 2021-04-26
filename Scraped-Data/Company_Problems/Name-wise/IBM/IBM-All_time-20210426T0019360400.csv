@@ -1,0 +1,23 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+1,Two Sum,"Array, Hash Table",46.8%,Easy,9.11187,https://leetcode.com/problems/two-sum
+14,Longest Common Prefix,String,36.3%,Easy,0.702883,https://leetcode.com/problems/longest-common-prefix
+15,3Sum,"Array, Two Pointers",28.3%,Medium,1.67,https://leetcode.com/problems/3sum
+20,Valid Parentheses,"String, Stack",40.0%,Easy,5.46059,https://leetcode.com/problems/valid-parentheses
+21,Merge Two Sorted Lists,"Linked List, Recursion",56.5%,Easy,2.06035,https://leetcode.com/problems/merge-two-sorted-lists
+53,Maximum Subarray,"Array, Divide and Conquer, Dynamic Programming",47.9%,Easy,0.275216,https://leetcode.com/problems/maximum-subarray
+88,Merge Sorted Array,"Array, Two Pointers",40.9%,Easy,7.27341,https://leetcode.com/problems/merge-sorted-array
+125,Valid Palindrome,"Two Pointers, String",38.6%,Easy,0.815003,https://leetcode.com/problems/valid-palindrome
+134,Gas Station,Greedy,41.7%,Medium,17.736,https://leetcode.com/problems/gas-station
+206,Reverse Linked List,Linked List,65.9%,Easy,0.759235,https://leetcode.com/problems/reverse-linked-list
+221,Maximal Square,Dynamic Programming,39.7%,Medium,59.4343,https://leetcode.com/problems/maximal-square
+239,Sliding Window Maximum,"Heap, Sliding Window, Dequeue",44.8%,Hard,3.8989,https://leetcode.com/problems/sliding-window-maximum
+259,3Sum Smaller,"Array, Two Pointers",49.3%,Medium,100.0,https://leetcode.com/problems/3sum-smaller
+283,Move Zeroes,"Array, Two Pointers",58.7%,Easy,2.20639,https://leetcode.com/problems/move-zeroes
+300,Longest Increasing Subsequence,"Binary Search, Dynamic Programming",44.7%,Medium,0.286331,https://leetcode.com/problems/longest-increasing-subsequence
+412,Fizz Buzz,,63.8%,Easy,76.7787,https://leetcode.com/problems/fizz-buzz
+443,String Compression,String,44.3%,Medium,2.85506,https://leetcode.com/problems/string-compression
+1010,Pairs of Songs With Total Durations Divisible by 60,Array,50.8%,Medium,5.11422,https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60
+1012,Numbers With Repeated Digits,"Math, Dynamic Programming",37.9%,Hard,21.825,https://leetcode.com/problems/numbers-with-repeated-digits
+1151,Minimum Swaps to Group All 1's Together,"Array, Sliding Window",58.7%,Medium,16.3568,https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together
+1355,Activity Participants,,74.5%,Medium,36.213,https://leetcode.com/problems/activity-participants
+1518,Water Bottles,Greedy,60.5%,Easy,18.2941,https://leetcode.com/problems/water-bottles

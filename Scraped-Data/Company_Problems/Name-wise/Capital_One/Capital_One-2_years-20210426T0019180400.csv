@@ -1,0 +1,26 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+2,Add Two Numbers,"Linked List, Math, Recursion",35.8%,Medium,0.112147,https://leetcode.com/problems/add-two-numbers
+17,Letter Combinations of a Phone Number,"String, Backtracking, Depth-first Search, Recursion",50.0%,Medium,7.56466,https://leetcode.com/problems/letter-combinations-of-a-phone-number
+21,Merge Two Sorted Lists,"Linked List, Recursion",56.5%,Easy,4.45492,https://leetcode.com/problems/merge-two-sorted-lists
+53,Maximum Subarray,"Array, Divide and Conquer, Dynamic Programming",47.9%,Easy,0.318102,https://leetcode.com/problems/maximum-subarray
+66,Plus One,Array,42.2%,Easy,0.240826,https://leetcode.com/problems/plus-one
+101,Symmetric Tree,"Tree, Depth-first Search, Breadth-first Search",48.6%,Easy,22.0417,https://leetcode.com/problems/symmetric-tree
+138,Copy List with Random Pointer,"Hash Table, Linked List",41.7%,Medium,28.9324,https://leetcode.com/problems/copy-list-with-random-pointer
+146,LRU Cache,Design,36.4%,Medium,11.7014,https://leetcode.com/problems/lru-cache
+155,Min Stack,"Stack, Design",46.9%,Easy,74.7179,https://leetcode.com/problems/min-stack
+203,Remove Linked List Elements,Linked List,39.6%,Easy,1.05622,https://leetcode.com/problems/remove-linked-list-elements
+204,Count Primes,"Hash Table, Math",32.4%,Easy,22.2846,https://leetcode.com/problems/count-primes
+206,Reverse Linked List,Linked List,65.9%,Easy,0.140933,https://leetcode.com/problems/reverse-linked-list
+228,Summary Ranges,Array,42.8%,Easy,100.0,https://leetcode.com/problems/summary-ranges
+234,Palindrome Linked List,"Linked List, Two Pointers",42.2%,Easy,1.33609,https://leetcode.com/problems/palindrome-linked-list
+268,Missing Number,"Array, Math, Bit Manipulation",55.4%,Easy,18.6064,https://leetcode.com/problems/missing-number
+283,Move Zeroes,"Array, Two Pointers",58.7%,Easy,4.18068,https://leetcode.com/problems/move-zeroes
+290,Word Pattern,Hash Table,38.5%,Easy,51.539,https://leetcode.com/problems/word-pattern
+322,Coin Change,Dynamic Programming,37.8%,Medium,29.187,https://leetcode.com/problems/coin-change
+328,Odd Even Linked List,Linked List,57.3%,Medium,62.0685,https://leetcode.com/problems/odd-even-linked-list
+347,Top K Frequent Elements,"Hash Table, Heap",62.7%,Medium,40.212,https://leetcode.com/problems/top-k-frequent-elements
+412,Fizz Buzz,,63.8%,Easy,2.89615,https://leetcode.com/problems/fizz-buzz
+482,License Key Formatting,,43.1%,Easy,87.3505,https://leetcode.com/problems/license-key-formatting
+814,Binary Tree Pruning,Tree,71.9%,Medium,82.1088,https://leetcode.com/problems/binary-tree-pruning
+905,Sort Array By Parity,Array,75.0%,Easy,3.94326,https://leetcode.com/problems/sort-array-by-parity
+1071,Greatest Common Divisor of Strings,String,51.8%,Easy,12.3191,https://leetcode.com/problems/greatest-common-divisor-of-strings

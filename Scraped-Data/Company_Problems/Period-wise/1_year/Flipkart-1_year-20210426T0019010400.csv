@@ -1,0 +1,17 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+4,Median of Two Sorted Arrays,"Array, Binary Search, Divide and Conquer",31.5%,Hard,0.564348,https://leetcode.com/problems/median-of-two-sorted-arrays
+11,Container With Most Water,"Array, Two Pointers",52.9%,Medium,0.578181,https://leetcode.com/problems/container-with-most-water
+20,Valid Parentheses,"String, Stack",40.0%,Easy,0.369356,https://leetcode.com/problems/valid-parentheses
+31,Next Permutation,Array,33.9%,Medium,1.06764,https://leetcode.com/problems/next-permutation
+42,Trapping Rain Water,"Array, Two Pointers, Dynamic Programming, Stack",51.8%,Hard,1.55264,https://leetcode.com/problems/trapping-rain-water
+103,Binary Tree Zigzag Level Order Traversal,"Stack, Tree, Breadth-first Search",50.6%,Medium,1.14159,https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal
+241,Different Ways to Add Parentheses,Divide and Conquer,57.7%,Medium,8.89143,https://leetcode.com/problems/different-ways-to-add-parentheses
+431,Encode N-ary Tree to Binary Tree,Tree,75.0%,Hard,60.0452,https://leetcode.com/problems/encode-n-ary-tree-to-binary-tree
+452,Minimum Number of Arrows to Burst Balloons,"Greedy, Sort",49.8%,Medium,6.63329,https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons
+480,Sliding Window Median,Sliding Window,39.0%,Hard,6.8923,https://leetcode.com/problems/sliding-window-median
+675,Cut Off Trees for Golf Event,Breadth-first Search,35.5%,Hard,12.5244,https://leetcode.com/problems/cut-off-trees-for-golf-event
+871,Minimum Number of Refueling Stops,"Dynamic Programming, Heap",32.5%,Hard,100.0,https://leetcode.com/problems/minimum-number-of-refueling-stops
+968,Binary Tree Cameras,"Dynamic Programming, Tree, Depth-first Search",39.0%,Hard,9.86977,https://leetcode.com/problems/binary-tree-cameras
+977,Squares of a Sorted Array,"Array, Two Pointers",71.8%,Easy,0.70518,https://leetcode.com/problems/squares-of-a-sorted-array
+1011,Capacity To Ship Packages Within D Days,"Array, Binary Search",60.0%,Medium,5.73927,https://leetcode.com/problems/capacity-to-ship-packages-within-d-days
+1574,Shortest Subarray to be Removed to Make Array Sorted,"Array, Binary Search",34.1%,Medium,20.0905,https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted

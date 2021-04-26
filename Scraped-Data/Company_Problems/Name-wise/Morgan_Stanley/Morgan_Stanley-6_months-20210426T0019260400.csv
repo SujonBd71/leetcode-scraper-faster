@@ -1,0 +1,5 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+17,Letter Combinations of a Phone Number,"String, Backtracking, Depth-first Search, Recursion",50.0%,Medium,25.9534,https://leetcode.com/problems/letter-combinations-of-a-phone-number
+31,Next Permutation,Array,33.9%,Medium,71.394,https://leetcode.com/problems/next-permutation
+121,Best Time to Buy and Sell Stock,"Array, Dynamic Programming",51.9%,Easy,24.0537,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+1326,Minimum Number of Taps to Open to Water a Garden,"Dynamic Programming, Greedy",47.5%,Hard,100.0,https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden

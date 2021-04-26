@@ -1,0 +1,9 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+300,Longest Increasing Subsequence,"Binary Search, Dynamic Programming",44.7%,Medium,0.766457,https://leetcode.com/problems/longest-increasing-subsequence
+312,Burst Balloons,"Divide and Conquer, Dynamic Programming",54.0%,Hard,100.0,https://leetcode.com/problems/burst-balloons
+402,Remove K Digits,"Stack, Greedy",28.7%,Medium,31.0647,https://leetcode.com/problems/remove-k-digits
+844,Backspace String Compare,"Two Pointers, Stack",47.2%,Easy,4.05249,https://leetcode.com/problems/backspace-string-compare
+996,Number of Squareful Arrays,"Math, Backtracking, Graph",48.6%,Hard,25.0178,https://leetcode.com/problems/number-of-squareful-arrays
+1223,Dice Roll Simulation,Dynamic Programming,46.7%,Hard,32.1743,https://leetcode.com/problems/dice-roll-simulation
+1310,XOR Queries of a Subarray,Bit Manipulation,69.5%,Medium,25.9437,https://leetcode.com/problems/xor-queries-of-a-subarray
+1739,Building Boxes,"Math, Binary Search",49.5%,Hard,66.0871,https://leetcode.com/problems/building-boxes

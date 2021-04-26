@@ -1,0 +1,10 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+42,Trapping Rain Water,"Array, Two Pointers, Dynamic Programming, Stack",51.8%,Hard,3.72637,https://leetcode.com/problems/trapping-rain-water
+49,Group Anagrams,"Hash Table, String",59.9%,Medium,9.45004,https://leetcode.com/problems/group-anagrams
+200,Number of Islands,"Depth-first Search, Breadth-first Search, Union Find",49.7%,Medium,3.59242,https://leetcode.com/problems/number-of-islands
+322,Coin Change,Dynamic Programming,37.8%,Medium,1.89027,https://leetcode.com/problems/coin-change
+362,Design Hit Counter,Design,65.6%,Medium,16.4592,https://leetcode.com/problems/design-hit-counter
+380,Insert Delete GetRandom O(1),"Array, Hash Table, Design",49.2%,Medium,42.3903,https://leetcode.com/problems/insert-delete-getrandom-o1
+381,Insert Delete GetRandom O(1) - Duplicates allowed,"Array, Hash Table, Design",35.0%,Hard,71.1951,https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed
+695,Max Area of Island,"Array, Depth-first Search",65.3%,Medium,20.5042,https://leetcode.com/problems/max-area-of-island
+736,Parse Lisp Expression,String,49.8%,Hard,100.0,https://leetcode.com/problems/parse-lisp-expression

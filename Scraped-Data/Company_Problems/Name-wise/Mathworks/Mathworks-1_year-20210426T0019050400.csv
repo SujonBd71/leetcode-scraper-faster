@@ -1,0 +1,9 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+49,Group Anagrams,"Hash Table, String",59.9%,Medium,0.220392,https://leetcode.com/problems/group-anagrams
+115,Distinct Subsequences,"String, Dynamic Programming",40.1%,Hard,60.9399,https://leetcode.com/problems/distinct-subsequences
+206,Reverse Linked List,Linked List,65.9%,Easy,0.257637,https://leetcode.com/problems/reverse-linked-list
+453,Minimum Moves to Equal Array Elements,Math,51.0%,Easy,4.44451,https://leetcode.com/problems/minimum-moves-to-equal-array-elements
+526,Beautiful Arrangement,"Backtracking, Depth-first Search",62.2%,Medium,100.0,https://leetcode.com/problems/beautiful-arrangement
+741,Cherry Pickup,Dynamic Programming,35.2%,Hard,13.6636,https://leetcode.com/problems/cherry-pickup
+1197,Minimum Knight Moves,Breadth-first Search,37.6%,Medium,21.8797,https://leetcode.com/problems/minimum-knight-moves
+1290,Convert Binary Number in a Linked List to Integer,"Linked List, Bit Manipulation",81.7%,Easy,13.4203,https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer

@@ -1,0 +1,25 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+1,Two Sum,"Array, Hash Table",46.8%,Easy,54.8491,https://leetcode.com/problems/two-sum
+3,Longest Substring Without Repeating Characters,"Hash Table, Two Pointers, String, Sliding Window",31.6%,Medium,1.9783,https://leetcode.com/problems/longest-substring-without-repeating-characters
+5,Longest Palindromic Substring,"String, Dynamic Programming",30.7%,Medium,9.6466,https://leetcode.com/problems/longest-palindromic-substring
+17,Letter Combinations of a Phone Number,"String, Backtracking, Depth-first Search, Recursion",50.0%,Medium,25.5599,https://leetcode.com/problems/letter-combinations-of-a-phone-number
+20,Valid Parentheses,"String, Stack",40.0%,Easy,17.0335,https://leetcode.com/problems/valid-parentheses
+31,Next Permutation,Array,33.9%,Medium,31.1178,https://leetcode.com/problems/next-permutation
+41,First Missing Positive,Array,34.1%,Hard,2.28263,https://leetcode.com/problems/first-missing-positive
+53,Maximum Subarray,"Array, Divide and Conquer, Dynamic Programming",47.9%,Easy,11.6661,https://leetcode.com/problems/maximum-subarray
+56,Merge Intervals,"Array, Sort",41.5%,Medium,6.05725,https://leetcode.com/problems/merge-intervals
+70,Climbing Stairs,Dynamic Programming,48.8%,Easy,9.44549,https://leetcode.com/problems/climbing-stairs
+91,Decode Ways,"String, Dynamic Programming",27.0%,Medium,4.76777,https://leetcode.com/problems/decode-ways
+121,Best Time to Buy and Sell Stock,"Array, Dynamic Programming",51.9%,Easy,84.9184,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+122,Best Time to Buy and Sell Stock II,"Array, Greedy",58.9%,Easy,22.1777,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii
+146,LRU Cache,Design,36.4%,Medium,18.4268,https://leetcode.com/problems/lru-cache
+160,Intersection of Two Linked Lists,Linked List,44.7%,Easy,27.1457,https://leetcode.com/problems/intersection-of-two-linked-lists
+232,Implement Queue using Stacks,"Stack, Design",52.9%,Easy,68.296,https://leetcode.com/problems/implement-queue-using-stacks
+702,Search in a Sorted Array of Unknown Size,Binary Search,69.1%,Medium,25.2686,https://leetcode.com/problems/search-in-a-sorted-array-of-unknown-size
+706,Design HashMap,"Hash Table, Design",64.0%,Easy,19.8419,https://leetcode.com/problems/design-hashmap
+871,Minimum Number of Refueling Stops,"Dynamic Programming, Heap",32.5%,Hard,100.0,https://leetcode.com/problems/minimum-number-of-refueling-stops
+905,Sort Array By Parity,Array,75.0%,Easy,3.3416,https://leetcode.com/problems/sort-array-by-parity
+1143,Longest Common Subsequence,Dynamic Programming,58.7%,Medium,7.75623,https://leetcode.com/problems/longest-common-subsequence
+1217,Minimum Cost to Move Chips to The Same Position,"Array, Math, Greedy",70.9%,Easy,0.0,https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position
+1326,Minimum Number of Taps to Open to Water a Garden,"Dynamic Programming, Greedy",47.5%,Hard,38.2267,https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden
+1626,Best Team With No Conflicts,Dynamic Programming,38.6%,Medium,0.0,https://leetcode.com/problems/best-team-with-no-conflicts

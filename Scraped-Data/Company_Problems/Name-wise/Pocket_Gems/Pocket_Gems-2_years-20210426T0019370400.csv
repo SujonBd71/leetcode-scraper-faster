@@ -1,0 +1,9 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+10,Regular Expression Matching,"String, Dynamic Programming, Backtracking",27.5%,Hard,2.35648,https://leetcode.com/problems/regular-expression-matching
+347,Top K Frequent Elements,"Hash Table, Heap",62.7%,Medium,1.68243,https://leetcode.com/problems/top-k-frequent-elements
+366,Find Leaves of Binary Tree,"Tree, Depth-first Search",72.3%,Medium,65.5124,https://leetcode.com/problems/find-leaves-of-binary-tree
+547,Number of Provinces,"Depth-first Search, Union Find",60.9%,Medium,100.0,https://leetcode.com/problems/number-of-provinces
+740,Delete and Earn,Dynamic Programming,50.2%,Medium,80.457,https://leetcode.com/problems/delete-and-earn
+1010,Pairs of Songs With Total Durations Divisible by 60,Array,50.8%,Medium,29.6302,https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60
+1428,Leftmost Column with at Least a One,Array,49.6%,Medium,5.29841,https://leetcode.com/problems/leftmost-column-with-at-least-a-one
+1761,Minimum Degree of a Connected Trio in a Graph,Graph,37.5%,Hard,41.1807,https://leetcode.com/problems/minimum-degree-of-a-connected-trio-in-a-graph

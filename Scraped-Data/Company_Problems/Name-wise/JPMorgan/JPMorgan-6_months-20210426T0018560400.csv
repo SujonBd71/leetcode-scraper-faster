@@ -1,0 +1,14 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+17,Letter Combinations of a Phone Number,"String, Backtracking, Depth-first Search, Recursion",50.0%,Medium,0.129066,https://leetcode.com/problems/letter-combinations-of-a-phone-number
+20,Valid Parentheses,"String, Stack",40.0%,Easy,0.276132,https://leetcode.com/problems/valid-parentheses
+41,First Missing Positive,Array,34.1%,Hard,0.404979,https://leetcode.com/problems/first-missing-positive
+56,Merge Intervals,"Array, Sort",41.5%,Medium,63.3231,https://leetcode.com/problems/merge-intervals
+91,Decode Ways,"String, Dynamic Programming",27.0%,Medium,100.0,https://leetcode.com/problems/decode-ways
+146,LRU Cache,Design,36.4%,Medium,0.271324,https://leetcode.com/problems/lru-cache
+453,Minimum Moves to Equal Array Elements,Math,51.0%,Easy,5.04998,https://leetcode.com/problems/minimum-moves-to-equal-array-elements
+480,Sliding Window Median,Sliding Window,39.0%,Hard,2.29202,https://leetcode.com/problems/sliding-window-median
+509,Fibonacci Number,Array,67.9%,Easy,12.509,https://leetcode.com/problems/fibonacci-number
+696,Count Binary Substrings,String,61.2%,Easy,54.8268,https://leetcode.com/problems/count-binary-substrings
+980,Unique Paths III,"Backtracking, Depth-first Search",77.1%,Hard,2.70416,https://leetcode.com/problems/unique-paths-iii
+1290,Convert Binary Number in a Linked List to Integer,"Linked List, Bit Manipulation",81.7%,Easy,18.15,https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer
+1609,Even Odd Tree,Tree,52.2%,Medium,10.1453,https://leetcode.com/problems/even-odd-tree

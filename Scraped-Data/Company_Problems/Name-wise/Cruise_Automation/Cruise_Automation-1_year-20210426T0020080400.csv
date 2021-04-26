@@ -1,0 +1,5 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+79,Word Search,"Array, Backtracking",37.3%,Medium,41.6679,https://leetcode.com/problems/word-search
+146,LRU Cache,Design,36.4%,Medium,83.3357,https://leetcode.com/problems/lru-cache
+304,Range Sum Query 2D - Immutable,Dynamic Programming,41.4%,Medium,100.0,https://leetcode.com/problems/range-sum-query-2d-immutable
+695,Max Area of Island,"Array, Depth-first Search",65.3%,Medium,90.9221,https://leetcode.com/problems/max-area-of-island

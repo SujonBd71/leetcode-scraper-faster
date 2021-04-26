@@ -1,0 +1,23 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+10,Regular Expression Matching,"String, Dynamic Programming, Backtracking",27.5%,Hard,0.502203,https://leetcode.com/problems/regular-expression-matching
+17,Letter Combinations of a Phone Number,"String, Backtracking, Depth-first Search, Recursion",50.0%,Medium,0.300384,https://leetcode.com/problems/letter-combinations-of-a-phone-number
+23,Merge k Sorted Lists,"Linked List, Divide and Conquer, Heap",43.2%,Hard,11.4839,https://leetcode.com/problems/merge-k-sorted-lists
+41,First Missing Positive,Array,34.1%,Hard,21.0895,https://leetcode.com/problems/first-missing-positive
+42,Trapping Rain Water,"Array, Two Pointers, Dynamic Programming, Stack",51.8%,Hard,6.94484,https://leetcode.com/problems/trapping-rain-water
+48,Rotate Image,Array,61.1%,Medium,0.330557,https://leetcode.com/problems/rotate-image
+68,Text Justification,String,30.4%,Hard,10.7536,https://leetcode.com/problems/text-justification
+91,Decode Ways,"String, Dynamic Programming",27.0%,Medium,15.2223,https://leetcode.com/problems/decode-ways
+114,Flatten Binary Tree to Linked List,"Tree, Depth-first Search",52.6%,Medium,0.669873,https://leetcode.com/problems/flatten-binary-tree-to-linked-list
+218,The Skyline Problem,"Divide and Conquer, Heap, Binary Indexed Tree, Segment Tree, Line Sweep",36.7%,Hard,6.32455,https://leetcode.com/problems/the-skyline-problem
+239,Sliding Window Maximum,"Heap, Sliding Window, Dequeue",44.8%,Hard,9.43608,https://leetcode.com/problems/sliding-window-maximum
+314,Binary Tree Vertical Order Traversal,"Depth-first Search, Breadth-first Search",47.4%,Medium,53.3626,https://leetcode.com/problems/binary-tree-vertical-order-traversal
+380,Insert Delete GetRandom O(1),"Array, Hash Table, Design",49.2%,Medium,35.4451,https://leetcode.com/problems/insert-delete-getrandom-o1
+381,Insert Delete GetRandom O(1) - Duplicates allowed,"Array, Hash Table, Design",35.0%,Hard,2.63699,https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed
+426,Convert Binary Search Tree to Sorted Doubly Linked List,"Linked List, Divide and Conquer, Tree",61.7%,Medium,2.34406,https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list
+614,Second Degree Follower,,33.0%,Medium,4.60167,https://leetcode.com/problems/second-degree-follower
+722,Remove Comments,String,36.5%,Medium,75.9834,https://leetcode.com/problems/remove-comments
+742,Closest Leaf in a Binary Tree,Tree,44.6%,Medium,98.6043,https://leetcode.com/problems/closest-leaf-in-a-binary-tree
+987,Vertical Order Traversal of a Binary Tree,"Hash Table, Tree, Depth-first Search, Breadth-first Search",39.1%,Hard,4.03706,https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree
+1235,Maximum Profit in Job Scheduling,"Binary Search, Dynamic Programming, Sort",47.8%,Hard,3.78535,https://leetcode.com/problems/maximum-profit-in-job-scheduling
+1242,Web Crawler Multithreaded,"Depth-first Search, Breadth-first Search",47.8%,Medium,100.0,https://leetcode.com/problems/web-crawler-multithreaded
+1329,Sort the Matrix Diagonally,"Array, Sort",81.6%,Medium,4.18324,https://leetcode.com/problems/sort-the-matrix-diagonally

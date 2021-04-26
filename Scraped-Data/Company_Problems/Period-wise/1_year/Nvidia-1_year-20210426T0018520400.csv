@@ -1,0 +1,25 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+22,Generate Parentheses,"String, Backtracking",65.9%,Medium,3.72393,https://leetcode.com/problems/generate-parentheses
+33,Search in Rotated Sorted Array,"Array, Binary Search",36.2%,Medium,9.89033,https://leetcode.com/problems/search-in-rotated-sorted-array
+48,Rotate Image,Array,61.1%,Medium,15.3444,https://leetcode.com/problems/rotate-image
+70,Climbing Stairs,Dynamic Programming,48.8%,Easy,2.26736,https://leetcode.com/problems/climbing-stairs
+74,Search a 2D Matrix,"Array, Binary Search",38.3%,Medium,6.1222,https://leetcode.com/problems/search-a-2d-matrix
+75,Sort Colors,"Array, Two Pointers, Sort",50.0%,Medium,9.14427,https://leetcode.com/problems/sort-colors
+146,LRU Cache,Design,36.4%,Medium,7.3595,https://leetcode.com/problems/lru-cache
+200,Number of Islands,"Depth-first Search, Breadth-first Search, Union Find",49.7%,Medium,2.16634,https://leetcode.com/problems/number-of-islands
+206,Reverse Linked List,Linked List,65.9%,Easy,1.57277,https://leetcode.com/problems/reverse-linked-list
+231,Power of Two,"Math, Bit Manipulation",43.8%,Easy,9.82073,https://leetcode.com/problems/power-of-two
+238,Product of Array Except Self,Array,61.4%,Medium,2.64484,https://leetcode.com/problems/product-of-array-except-self
+240,Search a 2D Matrix II,"Binary Search, Divide and Conquer",45.5%,Medium,6.81194,https://leetcode.com/problems/search-a-2d-matrix-ii
+274,H-Index,"Hash Table, Sort",36.5%,Medium,29.3457,https://leetcode.com/problems/h-index
+277,Find the Celebrity,Array,44.2%,Medium,16.5008,https://leetcode.com/problems/find-the-celebrity
+295,Find Median from Data Stream,"Heap, Design",47.6%,Hard,23.3111,https://leetcode.com/problems/find-median-from-data-stream
+380,Insert Delete GetRandom O(1),"Array, Hash Table, Design",49.2%,Medium,27.449,https://leetcode.com/problems/insert-delete-getrandom-o1
+388,Longest Absolute File Path,,43.3%,Medium,36.3316,https://leetcode.com/problems/longest-absolute-file-path
+415,Add Strings,String,48.6%,Easy,4.58558,https://leetcode.com/problems/add-strings
+443,String Compression,String,44.3%,Medium,9.32292,https://leetcode.com/problems/string-compression
+531,Lonely Pixel I,"Array, Depth-first Search",59.8%,Medium,100.0,https://leetcode.com/problems/lonely-pixel-i
+532,K-diff Pairs in an Array,"Array, Two Pointers",35.6%,Medium,19.4334,https://leetcode.com/problems/k-diff-pairs-in-an-array
+622,Design Circular Queue,"Design, Queue",47.7%,Medium,2.74613,https://leetcode.com/problems/design-circular-queue
+829,Consecutive Numbers Sum,Math,39.2%,Hard,68.1658,https://leetcode.com/problems/consecutive-numbers-sum
+1047,Remove All Adjacent Duplicates In String,Stack,71.5%,Easy,7.61564,https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string

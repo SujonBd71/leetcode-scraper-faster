@@ -1,0 +1,4 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+169,Majority Element,"Array, Divide and Conquer, Bit Manipulation",60.3%,Easy,13.381,https://leetcode.com/problems/majority-element
+290,Word Pattern,Hash Table,38.5%,Easy,56.6905,https://leetcode.com/problems/word-pattern
+1236,Web Crawler,"Depth-first Search, Breadth-first Search",64.8%,Medium,100.0,https://leetcode.com/problems/web-crawler

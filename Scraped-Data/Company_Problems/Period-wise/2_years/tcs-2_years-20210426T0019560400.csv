@@ -1,0 +1,16 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+1,Two Sum,"Array, Hash Table",46.8%,Easy,19.0096,https://leetcode.com/problems/two-sum
+2,Add Two Numbers,"Linked List, Math, Recursion",35.8%,Medium,3.7723,https://leetcode.com/problems/add-two-numbers
+3,Longest Substring Without Repeating Characters,"Hash Table, Two Pointers, String, Sliding Window",31.6%,Medium,12.7773,https://leetcode.com/problems/longest-substring-without-repeating-characters
+5,Longest Palindromic Substring,"String, Dynamic Programming",30.7%,Medium,5.13027,https://leetcode.com/problems/longest-palindromic-substring
+11,Container With Most Water,"Array, Two Pointers",52.9%,Medium,6.99955,https://leetcode.com/problems/container-with-most-water
+13,Roman to Integer,"Math, String",57.1%,Easy,62.9878,https://leetcode.com/problems/roman-to-integer
+31,Next Permutation,Array,33.9%,Medium,29.0107,https://leetcode.com/problems/next-permutation
+45,Jump Game II,"Array, Greedy",31.8%,Medium,19.191,https://leetcode.com/problems/jump-game-ii
+53,Maximum Subarray,"Array, Divide and Conquer, Dynamic Programming",47.9%,Easy,18.9984,https://leetcode.com/problems/maximum-subarray
+72,Edit Distance,"String, Dynamic Programming",47.2%,Hard,26.0663,https://leetcode.com/problems/edit-distance
+84,Largest Rectangle in Histogram,"Array, Stack",37.5%,Hard,23.0466,https://leetcode.com/problems/largest-rectangle-in-histogram
+121,Best Time to Buy and Sell Stock,"Array, Dynamic Programming",51.9%,Easy,96.9649,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+122,Best Time to Buy and Sell Stock II,"Array, Greedy",58.9%,Easy,100.0,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii
+204,Count Primes,"Hash Table, Math",32.4%,Easy,17.1226,https://leetcode.com/problems/count-primes
+387,First Unique Character in a String,"Hash Table, String",54.0%,Easy,10.0413,https://leetcode.com/problems/first-unique-character-in-a-string

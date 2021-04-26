@@ -1,0 +1,19 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+36,Valid Sudoku,Hash Table,51.0%,Medium,0.454185,https://leetcode.com/problems/valid-sudoku
+37,Sudoku Solver,"Hash Table, Backtracking",47.3%,Hard,14.3875,https://leetcode.com/problems/sudoku-solver
+200,Number of Islands,"Depth-first Search, Breadth-first Search, Union Find",49.7%,Medium,0.665601,https://leetcode.com/problems/number-of-islands
+207,Course Schedule,"Depth-first Search, Breadth-first Search, Graph, Topological Sort",44.3%,Medium,0.313236,https://leetcode.com/problems/course-schedule
+210,Course Schedule II,"Depth-first Search, Breadth-first Search, Graph, Topological Sort",43.1%,Medium,11.4657,https://leetcode.com/problems/course-schedule-ii
+329,Longest Increasing Path in a Matrix,"Depth-first Search, Topological Sort, Memoization",46.4%,Hard,0.834402,https://leetcode.com/problems/longest-increasing-path-in-a-matrix
+695,Max Area of Island,"Array, Depth-first Search",65.3%,Medium,47.0721,https://leetcode.com/problems/max-area-of-island
+759,Employee Free Time,"Heap, Greedy",68.6%,Hard,73.536,https://leetcode.com/problems/employee-free-time
+795,Number of Subarrays with Bounded Maximum,Array,48.0%,Medium,4.76412,https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum
+973,K Closest Points to Origin,"Divide and Conquer, Heap, Sort",64.7%,Medium,2.97489,https://leetcode.com/problems/k-closest-points-to-origin
+1152,Analyze User Website Visit Pattern,"Array, Hash Table, Sort",43.1%,Medium,2.0802,https://leetcode.com/problems/analyze-user-website-visit-pattern
+1174,Immediate Food Delivery II,,62.3%,Medium,5.41142,https://leetcode.com/problems/immediate-food-delivery-ii
+1197,Minimum Knight Moves,Breadth-first Search,37.6%,Medium,7.83576,https://leetcode.com/problems/minimum-knight-moves
+1229,Meeting Scheduler,"Two Pointers, Sort, Line Sweep",54.4%,Medium,30.1369,https://leetcode.com/problems/meeting-scheduler
+1235,Maximum Profit in Job Scheduling,"Binary Search, Dynamic Programming, Sort",47.8%,Hard,12.8573,https://leetcode.com/problems/maximum-profit-in-job-scheduling
+1359,Count All Valid Pickup and Delivery Options,"Math, Dynamic Programming",55.9%,Hard,100.0,https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options
+1383,Maximum Performance of a Team,"Greedy, Sort",36.1%,Hard,30.5188,https://leetcode.com/problems/maximum-performance-of-a-team
+1472,Design Browser History,Design,72.2%,Medium,27.4096,https://leetcode.com/problems/design-browser-history

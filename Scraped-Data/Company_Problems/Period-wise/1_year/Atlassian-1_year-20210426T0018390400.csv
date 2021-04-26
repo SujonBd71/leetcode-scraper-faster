@@ -1,0 +1,24 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+3,Longest Substring Without Repeating Characters,"Hash Table, Two Pointers, String, Sliding Window",31.6%,Medium,0.460738,https://leetcode.com/problems/longest-substring-without-repeating-characters
+17,Letter Combinations of a Phone Number,"String, Backtracking, Depth-first Search, Recursion",50.0%,Medium,6.05621,https://leetcode.com/problems/letter-combinations-of-a-phone-number
+20,Valid Parentheses,"String, Stack",40.0%,Easy,1.44782,https://leetcode.com/problems/valid-parentheses
+22,Generate Parentheses,"String, Backtracking",65.9%,Medium,1.61664,https://leetcode.com/problems/generate-parentheses
+31,Next Permutation,Array,33.9%,Medium,4.17835,https://leetcode.com/problems/next-permutation
+98,Validate Binary Search Tree,"Tree, Depth-first Search, Recursion",29.0%,Medium,3.75963,https://leetcode.com/problems/validate-binary-search-tree
+102,Binary Tree Level Order Traversal,"Tree, Breadth-first Search",57.1%,Medium,1.20785,https://leetcode.com/problems/binary-tree-level-order-traversal
+150,Evaluate Reverse Polish Notation,Stack,38.4%,Medium,5.10378,https://leetcode.com/problems/evaluate-reverse-polish-notation
+169,Majority Element,"Array, Divide and Conquer, Bit Manipulation",60.3%,Easy,1.56944,https://leetcode.com/problems/majority-element
+173,Binary Search Tree Iterator,"Stack, Tree, Design",60.8%,Medium,3.55627,https://leetcode.com/problems/binary-search-tree-iterator
+236,Lowest Common Ancestor of a Binary Tree,Tree,49.6%,Medium,3.21598,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree
+359,Logger Rate Limiter,"Hash Table, Design",72.7%,Easy,21.5784,https://leetcode.com/problems/logger-rate-limiter
+362,Design Hit Counter,Design,65.6%,Medium,56.5913,https://leetcode.com/problems/design-hit-counter
+366,Find Leaves of Binary Tree,"Tree, Depth-first Search",72.3%,Medium,16.2147,https://leetcode.com/problems/find-leaves-of-binary-tree
+841,Keys and Rooms,"Depth-first Search, Graph",66.5%,Medium,7.56972,https://leetcode.com/problems/keys-and-rooms
+860,Lemonade Change,Greedy,51.9%,Easy,58.3409,https://leetcode.com/problems/lemonade-change
+934,Shortest Bridge,"Depth-first Search, Breadth-first Search",50.0%,Medium,11.802,https://leetcode.com/problems/shortest-bridge
+981,Time Based Key-Value Store,"Hash Table, Binary Search",54.3%,Medium,23.8959,https://leetcode.com/problems/time-based-key-value-store
+1071,Greatest Common Divisor of Strings,String,51.8%,Easy,22.3552,https://leetcode.com/problems/greatest-common-divisor-of-strings
+1223,Dice Roll Simulation,Dynamic Programming,46.7%,Hard,67.3046,https://leetcode.com/problems/dice-roll-simulation
+1235,Maximum Profit in Job Scheduling,"Binary Search, Dynamic Programming, Sort",47.8%,Hard,8.61552,https://leetcode.com/problems/maximum-profit-in-job-scheduling
+1326,Minimum Number of Taps to Open to Water a Garden,"Dynamic Programming, Greedy",47.5%,Hard,61.494,https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden
+1366,Rank Teams by Votes,"Array, Sort",55.7%,Medium,100.0,https://leetcode.com/problems/rank-teams-by-votes

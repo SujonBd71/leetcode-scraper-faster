@@ -1,0 +1,9 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+15,3Sum,"Array, Two Pointers",28.3%,Medium,4.91991,https://leetcode.com/problems/3sum
+49,Group Anagrams,"Hash Table, String",59.9%,Medium,8.38626,https://leetcode.com/problems/group-anagrams
+54,Spiral Matrix,Array,36.7%,Medium,12.787,https://leetcode.com/problems/spiral-matrix
+139,Word Break,Dynamic Programming,42.0%,Medium,22.5104,https://leetcode.com/problems/word-break
+230,Kth Smallest Element in a BST,"Binary Search, Tree",63.1%,Medium,14.5275,https://leetcode.com/problems/kth-smallest-element-in-a-bst
+326,Power of Three,Math,42.1%,Easy,100.0,https://leetcode.com/problems/power-of-three
+394,Decode String,"Stack, Depth-first Search",53.1%,Medium,41.0673,https://leetcode.com/problems/decode-string
+907,Sum of Subarray Minimums,"Array, Stack",33.1%,Medium,70.5336,https://leetcode.com/problems/sum-of-subarray-minimums

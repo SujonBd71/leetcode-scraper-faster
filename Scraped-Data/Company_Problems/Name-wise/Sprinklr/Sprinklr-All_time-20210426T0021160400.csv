@@ -1,0 +1,6 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+402,Remove K Digits,"Stack, Greedy",28.7%,Medium,100,https://leetcode.com/problems/remove-k-digits
+1714,Sum Of Special Evenly-Spaced Elements In Array,,49.0%,Hard,0,https://leetcode.com/problems/sum-of-special-evenly-spaced-elements-in-array
+1746,Maximum Subarray Sum After One Operation,Dynamic Programming,61.8%,Medium,0,https://leetcode.com/problems/maximum-subarray-sum-after-one-operation
+1755,Closest Subsequence Sum,"Divide and Conquer, Meet in the Middle",35.8%,Hard,0,https://leetcode.com/problems/closest-subsequence-sum
+1799,Maximize Score After N Operations,"Dynamic Programming, Backtracking, Recursion",49.9%,Hard,0,https://leetcode.com/problems/maximize-score-after-n-operations

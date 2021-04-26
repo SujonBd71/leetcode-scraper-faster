@@ -1,0 +1,10 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+65,Valid Number,"Math, String",16.1%,Hard,17.1683,https://leetcode.com/problems/valid-number
+70,Climbing Stairs,Dynamic Programming,48.8%,Easy,2.321,https://leetcode.com/problems/climbing-stairs
+139,Word Break,Dynamic Programming,42.0%,Medium,3.70103,https://leetcode.com/problems/word-break
+146,LRU Cache,Design,36.4%,Medium,3.35449,https://leetcode.com/problems/lru-cache
+149,Max Points on a Line,"Hash Table, Math",17.8%,Hard,18.0353,https://leetcode.com/problems/max-points-on-a-line
+274,H-Index,"Hash Table, Sort",36.5%,Medium,66.4957,https://leetcode.com/problems/h-index
+692,Top K Frequent Words,"Hash Table, Heap, Trie",53.3%,Medium,17.0361,https://leetcode.com/problems/top-k-frequent-words
+1213,Intersection of Three Sorted Arrays,"Hash Table, Two Pointers",79.5%,Easy,32.9915,https://leetcode.com/problems/intersection-of-three-sorted-arrays
+1404,Number of Steps to Reduce a Number in Binary Representation to One,"String, Bit Manipulation",50.1%,Medium,100.0,https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one

@@ -1,0 +1,7 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+21,Merge Two Sorted Lists,"Linked List, Recursion",56.5%,Easy,48.3963,https://leetcode.com/problems/merge-two-sorted-lists
+165,Compare Version Numbers,String,30.7%,Medium,100.0,https://leetcode.com/problems/compare-version-numbers
+200,Number of Islands,"Depth-first Search, Breadth-first Search, Union Find",49.7%,Medium,2.58504,https://leetcode.com/problems/number-of-islands
+268,Missing Number,"Array, Math, Bit Manipulation",55.4%,Easy,86.7175,https://leetcode.com/problems/missing-number
+997,Find the Town Judge,Graph,49.8%,Easy,0.0,https://leetcode.com/problems/find-the-town-judge
+1235,Maximum Profit in Job Scheduling,"Binary Search, Dynamic Programming, Sort",47.8%,Hard,40.9062,https://leetcode.com/problems/maximum-profit-in-job-scheduling

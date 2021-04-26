@@ -1,0 +1,7 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+380,Insert Delete GetRandom O(1),"Array, Hash Table, Design",49.2%,Medium,65.3766,https://leetcode.com/problems/insert-delete-getrandom-o1
+1317,Convert Integer to the Sum of Two No-Zero Integers,Math,56.9%,Easy,0.0,https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers
+1323,Maximum 69 Number,Math,77.9%,Easy,30.7532,https://leetcode.com/problems/maximum-69-number
+1342,Number of Steps to Reduce a Number to Zero,Bit Manipulation,85.6%,Easy,0.0,https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero
+1566,Detect Pattern of Length M Repeated K or More Times,Array,42.6%,Easy,0.0,https://leetcode.com/problems/detect-pattern-of-length-m-repeated-k-or-more-times
+1775,Equal Sum Arrays With Minimum Number of Operations,Greedy,50.6%,Medium,100.0,https://leetcode.com/problems/equal-sum-arrays-with-minimum-number-of-operations

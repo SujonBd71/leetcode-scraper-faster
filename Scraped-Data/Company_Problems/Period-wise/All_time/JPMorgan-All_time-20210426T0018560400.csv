@@ -1,0 +1,35 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+1,Two Sum,"Array, Hash Table",46.8%,Easy,2.23564,https://leetcode.com/problems/two-sum
+17,Letter Combinations of a Phone Number,"String, Backtracking, Depth-first Search, Recursion",50.0%,Medium,1.84835,https://leetcode.com/problems/letter-combinations-of-a-phone-number
+20,Valid Parentheses,"String, Stack",40.0%,Easy,64.0429,https://leetcode.com/problems/valid-parentheses
+31,Next Permutation,Array,33.9%,Medium,5.66974,https://leetcode.com/problems/next-permutation
+33,Search in Rotated Sorted Array,"Array, Binary Search",36.2%,Medium,1.01284,https://leetcode.com/problems/search-in-rotated-sorted-array
+37,Sudoku Solver,"Hash Table, Backtracking",47.3%,Hard,1.67888,https://leetcode.com/problems/sudoku-solver
+41,First Missing Positive,Array,34.1%,Hard,0.370373,https://leetcode.com/problems/first-missing-positive
+53,Maximum Subarray,"Array, Divide and Conquer, Dynamic Programming",47.9%,Easy,3.26514,https://leetcode.com/problems/maximum-subarray
+56,Merge Intervals,"Array, Sort",41.5%,Medium,33.8385,https://leetcode.com/problems/merge-intervals
+91,Decode Ways,"String, Dynamic Programming",27.0%,Medium,100.0,https://leetcode.com/problems/decode-ways
+121,Best Time to Buy and Sell Stock,"Array, Dynamic Programming",51.9%,Easy,9.61569,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+141,Linked List Cycle,"Linked List, Two Pointers",43.2%,Easy,0.345817,https://leetcode.com/problems/linked-list-cycle
+146,LRU Cache,Design,36.4%,Medium,1.73105,https://leetcode.com/problems/lru-cache
+173,Binary Search Tree Iterator,"Stack, Tree, Design",60.8%,Medium,0.276456,https://leetcode.com/problems/binary-search-tree-iterator
+174,Dungeon Game,"Binary Search, Dynamic Programming",33.5%,Hard,11.2198,https://leetcode.com/problems/dungeon-game
+200,Number of Islands,"Depth-first Search, Breadth-first Search, Union Find",49.7%,Medium,1.1528,https://leetcode.com/problems/number-of-islands
+202,Happy Number,"Hash Table, Math",51.4%,Easy,93.0898,https://leetcode.com/problems/happy-number
+215,Kth Largest Element in an Array,"Divide and Conquer, Heap",59.1%,Medium,0.237025,https://leetcode.com/problems/kth-largest-element-in-an-array
+268,Missing Number,"Array, Math, Bit Manipulation",55.4%,Easy,1.0691,https://leetcode.com/problems/missing-number
+276,Paint Fence,Dynamic Programming,39.3%,Medium,2.8003,https://leetcode.com/problems/paint-fence
+453,Minimum Moves to Equal Array Elements,Math,51.0%,Easy,2.05834,https://leetcode.com/problems/minimum-moves-to-equal-array-elements
+480,Sliding Window Median,Sliding Window,39.0%,Hard,3.60345,https://leetcode.com/problems/sliding-window-median
+509,Fibonacci Number,Array,67.9%,Easy,34.996,https://leetcode.com/problems/fibonacci-number
+572,Subtree of Another Tree,Tree,44.6%,Easy,0.221379,https://leetcode.com/problems/subtree-of-another-tree
+696,Count Binary Substrings,String,61.2%,Easy,27.6105,https://leetcode.com/problems/count-binary-substrings
+742,Closest Leaf in a Binary Tree,Tree,44.6%,Medium,2.91023,https://leetcode.com/problems/closest-leaf-in-a-binary-tree
+980,Unique Paths III,"Backtracking, Depth-first Search",77.1%,Hard,1.1022,https://leetcode.com/problems/unique-paths-iii
+1247,Minimum Swaps to Make Strings Equal,"String, Greedy",63.0%,Medium,0.0,https://leetcode.com/problems/minimum-swaps-to-make-strings-equal
+1290,Convert Binary Number in a Linked List to Integer,"Linked List, Bit Manipulation",81.7%,Easy,7.39784,https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer
+1328,Break a Palindrome,String,48.1%,Medium,8.66394,https://leetcode.com/problems/break-a-palindrome
+1418,Display Table of Food Orders in a Restaurant,Hash Table,69.4%,Medium,0.0,https://leetcode.com/problems/display-table-of-food-orders-in-a-restaurant
+1609,Even Odd Tree,Tree,52.2%,Medium,10.5108,https://leetcode.com/problems/even-odd-tree
+1625,Lexicographically Smallest String After Applying Operations,"Depth-first Search, Breadth-first Search",64.4%,Medium,0.0,https://leetcode.com/problems/lexicographically-smallest-string-after-applying-operations
+1812,Determine Color of a Chessboard Square,String,78.3%,Easy,0.0,https://leetcode.com/problems/determine-color-of-a-chessboard-square

@@ -1,0 +1,9 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+146,LRU Cache,Design,36.4%,Medium,1.47975,https://leetcode.com/problems/lru-cache
+239,Sliding Window Maximum,"Heap, Sliding Window, Dequeue",44.8%,Hard,2.56059,https://leetcode.com/problems/sliding-window-maximum
+289,Game of Life,Array,59.0%,Medium,13.7226,https://leetcode.com/problems/game-of-life
+547,Number of Provinces,"Depth-first Search, Union Find",60.9%,Medium,4.49721,https://leetcode.com/problems/number-of-provinces
+609,Find Duplicate File in System,"Hash Table, String",61.3%,Medium,51.066,https://leetcode.com/problems/find-duplicate-file-in-system
+1001,Grid Illumination,Hash Table,36.0%,Hard,62.6565,https://leetcode.com/problems/grid-illumination
+1178,Number of Valid Words for Each Puzzle,"Hash Table, Bit Manipulation",39.8%,Hard,100.0,https://leetcode.com/problems/number-of-valid-words-for-each-puzzle
+1242,Web Crawler Multithreaded,"Depth-first Search, Breadth-first Search",47.8%,Medium,11.5424,https://leetcode.com/problems/web-crawler-multithreaded

@@ -1,0 +1,9 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+146,LRU Cache,Design,36.4%,Medium,0.766043,https://leetcode.com/problems/lru-cache
+322,Coin Change,Dynamic Programming,37.8%,Medium,0.731419,https://leetcode.com/problems/coin-change
+983,Minimum Cost For Tickets,Dynamic Programming,62.8%,Medium,4.72894,https://leetcode.com/problems/minimum-cost-for-tickets
+984,String Without AAA or BBB,Greedy,38.8%,Medium,22.9521,https://leetcode.com/problems/string-without-aaa-or-bbb
+1017,Convert to Base -2,Math,59.3%,Medium,89.337,https://leetcode.com/problems/convert-to-base-2
+1031,Maximum Sum of Two Non-Overlapping Subarrays,Array,58.8%,Medium,14.0413,https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays
+1073,Adding Two Negabinary Numbers,Math,34.8%,Medium,100.0,https://leetcode.com/problems/adding-two-negabinary-numbers
+1405,Longest Happy String,"Dynamic Programming, Greedy",52.8%,Medium,56.1446,https://leetcode.com/problems/longest-happy-string

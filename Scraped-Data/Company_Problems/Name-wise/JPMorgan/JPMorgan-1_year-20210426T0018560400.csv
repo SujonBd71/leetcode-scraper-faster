@@ -1,0 +1,22 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+17,Letter Combinations of a Phone Number,"String, Backtracking, Depth-first Search, Recursion",50.0%,Medium,0.312936,https://leetcode.com/problems/letter-combinations-of-a-phone-number
+20,Valid Parentheses,"String, Stack",40.0%,Easy,0.528845,https://leetcode.com/problems/valid-parentheses
+37,Sudoku Solver,"Hash Table, Backtracking",47.3%,Hard,1.12964,https://leetcode.com/problems/sudoku-solver
+41,First Missing Positive,Array,34.1%,Hard,0.436795,https://leetcode.com/problems/first-missing-positive
+53,Maximum Subarray,"Array, Divide and Conquer, Dynamic Programming",47.9%,Easy,0.317014,https://leetcode.com/problems/maximum-subarray
+56,Merge Intervals,"Array, Sort",41.5%,Medium,68.298,https://leetcode.com/problems/merge-intervals
+91,Decode Ways,"String, Dynamic Programming",27.0%,Medium,100.0,https://leetcode.com/problems/decode-ways
+121,Best Time to Buy and Sell Stock,"Array, Dynamic Programming",51.9%,Easy,0.803588,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+146,LRU Cache,Design,36.4%,Medium,0.29264,https://leetcode.com/problems/lru-cache
+174,Dungeon Game,"Binary Search, Dynamic Programming",33.5%,Hard,6.16985,https://leetcode.com/problems/dungeon-game
+202,Happy Number,"Hash Table, Math",51.4%,Easy,0.550867,https://leetcode.com/problems/happy-number
+276,Paint Fence,Dynamic Programming,39.3%,Medium,7.41007,https://leetcode.com/problems/paint-fence
+453,Minimum Moves to Equal Array Elements,Math,51.0%,Easy,5.44672,https://leetcode.com/problems/minimum-moves-to-equal-array-elements
+480,Sliding Window Median,Sliding Window,39.0%,Hard,5.47713,https://leetcode.com/problems/sliding-window-median
+509,Fibonacci Number,Array,67.9%,Easy,51.2779,https://leetcode.com/problems/fibonacci-number
+572,Subtree of Another Tree,Tree,44.6%,Easy,0.585806,https://leetcode.com/problems/subtree-of-another-tree
+696,Count Binary Substrings,String,61.2%,Easy,59.1342,https://leetcode.com/problems/count-binary-substrings
+742,Closest Leaf in a Binary Tree,Tree,44.6%,Medium,7.70095,https://leetcode.com/problems/closest-leaf-in-a-binary-tree
+980,Unique Paths III,"Backtracking, Depth-first Search",77.1%,Hard,2.91661,https://leetcode.com/problems/unique-paths-iii
+1290,Convert Binary Number in a Linked List to Integer,"Linked List, Bit Manipulation",81.7%,Easy,19.5759,https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer
+1609,Even Odd Tree,Tree,52.2%,Medium,10.9424,https://leetcode.com/problems/even-odd-tree

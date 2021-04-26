@@ -1,0 +1,8 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+121,Best Time to Buy and Sell Stock,"Array, Dynamic Programming",51.9%,Easy,2.76169,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+140,Word Break II,"Dynamic Programming, Backtracking",35.6%,Hard,39.9127,https://leetcode.com/problems/word-break-ii
+244,Shortest Word Distance II,"Hash Table, Design",54.7%,Medium,56.3596,https://leetcode.com/problems/shortest-word-distance-ii
+545,Boundary of Binary Tree,Tree,40.5%,Medium,40.8506,https://leetcode.com/problems/boundary-of-binary-tree
+547,Number of Provinces,"Depth-first Search, Union Find",60.9%,Medium,13.4508,https://leetcode.com/problems/number-of-provinces
+849,Maximize Distance to Closest Person,Array,44.6%,Medium,100.0,https://leetcode.com/problems/maximize-distance-to-closest-person
+937,Reorder Data in Log Files,String,54.9%,Easy,73.5381,https://leetcode.com/problems/reorder-data-in-log-files

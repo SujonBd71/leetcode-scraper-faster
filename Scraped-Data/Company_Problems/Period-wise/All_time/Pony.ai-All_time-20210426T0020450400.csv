@@ -1,0 +1,9 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+200,Number of Islands,"Depth-first Search, Breadth-first Search, Union Find",49.7%,Medium,1.21378,https://leetcode.com/problems/number-of-islands
+236,Lowest Common Ancestor of a Binary Tree,Tree,49.6%,Medium,0.463407,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree
+291,Word Pattern II,Backtracking,44.5%,Medium,52.2788,https://leetcode.com/problems/word-pattern-ii
+386,Lexicographical Numbers,,54.8%,Medium,100.0,https://leetcode.com/problems/lexicographical-numbers
+786,K-th Smallest Prime Fraction,"Binary Search, Heap",43.7%,Hard,48.9349,https://leetcode.com/problems/k-th-smallest-prime-fraction
+1235,Maximum Profit in Job Scheduling,"Binary Search, Dynamic Programming, Sort",47.8%,Hard,0.0,https://leetcode.com/problems/maximum-profit-in-job-scheduling
+1824,Minimum Sideway Jumps,"Dynamic Programming, Breadth-first Search",59.6%,Medium,0.0,https://leetcode.com/problems/minimum-sideway-jumps
+1838,Frequency of the Most Frequent Element,Greedy,29.6%,Medium,0.0,https://leetcode.com/problems/frequency-of-the-most-frequent-element

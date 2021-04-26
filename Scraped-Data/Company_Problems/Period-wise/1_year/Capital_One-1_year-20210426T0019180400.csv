@@ -1,0 +1,18 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+17,Letter Combinations of a Phone Number,"String, Backtracking, Depth-first Search, Recursion",50.0%,Medium,11.7189,https://leetcode.com/problems/letter-combinations-of-a-phone-number
+21,Merge Two Sorted Lists,"Linked List, Recursion",56.5%,Easy,6.90138,https://leetcode.com/problems/merge-two-sorted-lists
+66,Plus One,Array,42.2%,Easy,0.373078,https://leetcode.com/problems/plus-one
+101,Symmetric Tree,"Tree, Depth-first Search, Breadth-first Search",48.6%,Easy,34.1461,https://leetcode.com/problems/symmetric-tree
+146,LRU Cache,Design,36.4%,Medium,18.1274,https://leetcode.com/problems/lru-cache
+155,Min Stack,"Stack, Design",46.9%,Easy,90.4436,https://leetcode.com/problems/min-stack
+204,Count Primes,"Hash Table, Math",32.4%,Easy,22.2172,https://leetcode.com/problems/count-primes
+228,Summary Ranges,Array,42.8%,Easy,2.49885,https://leetcode.com/problems/summary-ranges
+234,Palindrome Linked List,"Linked List, Two Pointers",42.2%,Easy,2.06982,https://leetcode.com/problems/palindrome-linked-list
+268,Missing Number,"Array, Math, Bit Manipulation",55.4%,Easy,28.8243,https://leetcode.com/problems/missing-number
+283,Move Zeroes,"Array, Two Pointers",58.7%,Easy,6.47654,https://leetcode.com/problems/move-zeroes
+290,Word Pattern,Hash Table,38.5%,Easy,4.74292,https://leetcode.com/problems/word-pattern
+322,Coin Change,Dynamic Programming,37.8%,Medium,0.434342,https://leetcode.com/problems/coin-change
+347,Top K Frequent Elements,"Hash Table, Heap",62.7%,Medium,62.2949,https://leetcode.com/problems/top-k-frequent-elements
+482,License Key Formatting,,43.1%,Easy,100.0,https://leetcode.com/problems/license-key-formatting
+905,Sort Array By Parity,Array,75.0%,Easy,6.10874,https://leetcode.com/problems/sort-array-by-parity
+1071,Greatest Common Divisor of Strings,String,51.8%,Easy,3.21851,https://leetcode.com/problems/greatest-common-divisor-of-strings

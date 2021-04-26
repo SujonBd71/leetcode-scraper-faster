@@ -1,0 +1,11 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+54,Spiral Matrix,Array,36.7%,Medium,3.84149,https://leetcode.com/problems/spiral-matrix
+121,Best Time to Buy and Sell Stock,"Array, Dynamic Programming",51.9%,Easy,1.20348,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+122,Best Time to Buy and Sell Stock II,"Array, Greedy",58.9%,Easy,2.52496,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii
+162,Find Peak Element,"Array, Binary Search",44.1%,Medium,9.96361,https://leetcode.com/problems/find-peak-element
+174,Dungeon Game,"Binary Search, Dynamic Programming",33.5%,Hard,26.0266,https://leetcode.com/problems/dungeon-game
+188,Best Time to Buy and Sell Stock IV,Dynamic Programming,30.2%,Hard,14.5251,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv
+514,Freedom Trail,"Divide and Conquer, Dynamic Programming, Depth-first Search",45.0%,Hard,100.0,https://leetcode.com/problems/freedom-trail
+829,Consecutive Numbers Sum,Math,39.2%,Hard,28.8802,https://leetcode.com/problems/consecutive-numbers-sum
+1326,Minimum Number of Taps to Open to Water a Garden,"Dynamic Programming, Greedy",47.5%,Hard,68.2338,https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden
+1358,Number of Substrings Containing All Three Characters,String,60.6%,Medium,60.6464,https://leetcode.com/problems/number-of-substrings-containing-all-three-characters

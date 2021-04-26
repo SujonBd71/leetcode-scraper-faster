@@ -1,0 +1,12 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+1,Two Sum,"Array, Hash Table",46.8%,Easy,1.0862,https://leetcode.com/problems/two-sum
+17,Letter Combinations of a Phone Number,"String, Backtracking, Depth-first Search, Recursion",50.0%,Medium,3.28014,https://leetcode.com/problems/letter-combinations-of-a-phone-number
+70,Climbing Stairs,Dynamic Programming,48.8%,Easy,4.77107,https://leetcode.com/problems/climbing-stairs
+73,Set Matrix Zeroes,Array,44.7%,Medium,12.1915,https://leetcode.com/problems/set-matrix-zeroes
+118,Pascal's Triangle,Array,55.7%,Easy,11.4917,https://leetcode.com/problems/pascals-triangle
+121,Best Time to Buy and Sell Stock,"Array, Dynamic Programming",51.9%,Easy,12.1363,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+200,Number of Islands,"Depth-first Search, Breadth-first Search, Union Find",49.7%,Medium,4.55851,https://leetcode.com/problems/number-of-islands
+312,Burst Balloons,"Divide and Conquer, Dynamic Programming",54.0%,Hard,82.3823,https://leetcode.com/problems/burst-balloons
+669,Trim a Binary Search Tree,"Tree, Recursion",64.3%,Medium,52.3193,https://leetcode.com/problems/trim-a-binary-search-tree
+799,Champagne Tower,Dynamic Programming,44.1%,Medium,100.0,https://leetcode.com/problems/champagne-tower
+994,Rotting Oranges,Breadth-first Search,49.7%,Medium,22.2563,https://leetcode.com/problems/rotting-oranges

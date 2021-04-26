@@ -1,0 +1,6 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+17,Letter Combinations of a Phone Number,"String, Backtracking, Depth-first Search, Recursion",50.0%,Medium,5.39075,https://leetcode.com/problems/letter-combinations-of-a-phone-number
+20,Valid Parentheses,"String, Stack",40.0%,Easy,5.13023,https://leetcode.com/problems/valid-parentheses
+38,Count and Say,String,46.3%,Medium,26.7867,https://leetcode.com/problems/count-and-say
+54,Spiral Matrix,Array,36.7%,Medium,63.3933,https://leetcode.com/problems/spiral-matrix
+306,Additive Number,Backtracking,29.8%,Medium,100.0,https://leetcode.com/problems/additive-number

@@ -1,0 +1,21 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+2,Add Two Numbers,"Linked List, Math, Recursion",35.8%,Medium,2.80738,https://leetcode.com/problems/add-two-numbers
+42,Trapping Rain Water,"Array, Two Pointers, Dynamic Programming, Stack",51.8%,Hard,3.04961,https://leetcode.com/problems/trapping-rain-water
+53,Maximum Subarray,"Array, Divide and Conquer, Dynamic Programming",47.9%,Easy,0.143619,https://leetcode.com/problems/maximum-subarray
+56,Merge Intervals,"Array, Sort",41.5%,Medium,1.18044,https://leetcode.com/problems/merge-intervals
+146,LRU Cache,Design,36.4%,Medium,4.66503,https://leetcode.com/problems/lru-cache
+215,Kth Largest Element in an Array,"Divide and Conquer, Heap",59.1%,Medium,0.638762,https://leetcode.com/problems/kth-largest-element-in-an-array
+227,Basic Calculator II,"String, Stack",38.9%,Medium,0.809109,https://leetcode.com/problems/basic-calculator-ii
+234,Palindrome Linked List,"Linked List, Two Pointers",42.2%,Easy,0.250453,https://leetcode.com/problems/palindrome-linked-list
+322,Coin Change,Dynamic Programming,37.8%,Medium,0.639125,https://leetcode.com/problems/coin-change
+445,Add Two Numbers II,Linked List,56.7%,Medium,0.854781,https://leetcode.com/problems/add-two-numbers-ii
+527,Word Abbreviation,"String, Sort",56.5%,Hard,24.9599,https://leetcode.com/problems/word-abbreviation
+556,Next Greater Element III,String,33.5%,Medium,12.7186,https://leetcode.com/problems/next-greater-element-iii
+915,Partition Array into Disjoint Intervals,Array,46.5%,Medium,28.5867,https://leetcode.com/problems/partition-array-into-disjoint-intervals
+983,Minimum Cost For Tickets,Dynamic Programming,62.8%,Medium,38.1281,https://leetcode.com/problems/minimum-cost-for-tickets
+984,String Without AAA or BBB,Greedy,38.8%,Medium,100.0,https://leetcode.com/problems/string-without-aaa-or-bbb
+1017,Convert to Base -2,Math,59.3%,Medium,82.2226,https://leetcode.com/problems/convert-to-base-2
+1031,Maximum Sum of Two Non-Overlapping Subarrays,Array,58.8%,Medium,40.8977,https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays
+1073,Adding Two Negabinary Numbers,Math,34.8%,Medium,75.4182,https://leetcode.com/problems/adding-two-negabinary-numbers
+1253,Reconstruct a 2-Row Binary Matrix,"Math, Greedy",41.9%,Medium,58.6751,https://leetcode.com/problems/reconstruct-a-2-row-binary-matrix
+1405,Longest Happy String,"Dynamic Programming, Greedy",52.8%,Medium,21.8432,https://leetcode.com/problems/longest-happy-string

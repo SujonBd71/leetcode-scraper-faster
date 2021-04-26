@@ -1,0 +1,6 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+21,Merge Two Sorted Lists,"Linked List, Recursion",56.5%,Easy,5.28719,https://leetcode.com/problems/merge-two-sorted-lists
+165,Compare Version Numbers,String,30.7%,Medium,62.6025,https://leetcode.com/problems/compare-version-numbers
+200,Number of Islands,"Depth-first Search, Breadth-first Search, Union Find",49.7%,Medium,6.78748,https://leetcode.com/problems/number-of-islands
+268,Missing Number,"Array, Math, Bit Manipulation",55.4%,Easy,25.2049,https://leetcode.com/problems/missing-number
+1235,Maximum Profit in Job Scheduling,"Binary Search, Dynamic Programming, Sort",47.8%,Hard,100.0,https://leetcode.com/problems/maximum-profit-in-job-scheduling

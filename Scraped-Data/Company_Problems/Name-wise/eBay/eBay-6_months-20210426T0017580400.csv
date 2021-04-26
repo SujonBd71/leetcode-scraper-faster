@@ -1,0 +1,48 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+3,Longest Substring Without Repeating Characters,"Hash Table, Two Pointers, String, Sliding Window",31.6%,Medium,3.08936,https://leetcode.com/problems/longest-substring-without-repeating-characters
+5,Longest Palindromic Substring,"String, Dynamic Programming",30.7%,Medium,4.95271,https://leetcode.com/problems/longest-palindromic-substring
+7,Reverse Integer,Math,26.0%,Easy,1.65287,https://leetcode.com/problems/reverse-integer
+15,3Sum,"Array, Two Pointers",28.3%,Medium,2.29689,https://leetcode.com/problems/3sum
+17,Letter Combinations of a Phone Number,"String, Backtracking, Depth-first Search, Recursion",50.0%,Medium,4.5363,https://leetcode.com/problems/letter-combinations-of-a-phone-number
+20,Valid Parentheses,"String, Stack",40.0%,Easy,1.9204,https://leetcode.com/problems/valid-parentheses
+24,Swap Nodes in Pairs,"Linked List, Recursion",53.7%,Medium,6.27034,https://leetcode.com/problems/swap-nodes-in-pairs
+33,Search in Rotated Sorted Array,"Array, Binary Search",36.2%,Medium,3.21161,https://leetcode.com/problems/search-in-rotated-sorted-array
+39,Combination Sum,"Array, Backtracking",59.9%,Medium,5.46149,https://leetcode.com/problems/combination-sum
+46,Permutations,Backtracking,67.3%,Medium,17.9141,https://leetcode.com/problems/permutations
+49,Group Anagrams,"Hash Table, String",59.9%,Medium,47.2341,https://leetcode.com/problems/group-anagrams
+50,"Pow(x, n)","Math, Binary Search",31.1%,Medium,4.94811,https://leetcode.com/problems/powx-n
+54,Spiral Matrix,Array,36.7%,Medium,5.96972,https://leetcode.com/problems/spiral-matrix
+56,Merge Intervals,"Array, Sort",41.5%,Medium,16.8021,https://leetcode.com/problems/merge-intervals
+68,Text Justification,String,30.4%,Hard,18.987,https://leetcode.com/problems/text-justification
+75,Sort Colors,"Array, Two Pointers, Sort",50.0%,Medium,20.9766,https://leetcode.com/problems/sort-colors
+79,Word Search,"Array, Backtracking",37.3%,Medium,12.2531,https://leetcode.com/problems/word-search
+103,Binary Tree Zigzag Level Order Traversal,"Stack, Tree, Breadth-first Search",50.6%,Medium,13.3201,https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal
+121,Best Time to Buy and Sell Stock,"Array, Dynamic Programming",51.9%,Easy,16.7441,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+138,Copy List with Random Pointer,"Hash Table, Linked List",41.7%,Medium,26.6471,https://leetcode.com/problems/copy-list-with-random-pointer
+139,Word Break,Dynamic Programming,42.0%,Medium,29.0025,https://leetcode.com/problems/word-break
+146,LRU Cache,Design,36.4%,Medium,83.5294,https://leetcode.com/problems/lru-cache
+155,Min Stack,"Stack, Design",46.9%,Easy,5.26541,https://leetcode.com/problems/min-stack
+200,Number of Islands,"Depth-first Search, Breadth-first Search, Union Find",49.7%,Medium,6.30205,https://leetcode.com/problems/number-of-islands
+207,Course Schedule,"Depth-first Search, Breadth-first Search, Graph, Topological Sort",44.3%,Medium,5.26346,https://leetcode.com/problems/course-schedule
+213,House Robber II,Dynamic Programming,37.7%,Medium,31.7396,https://leetcode.com/problems/house-robber-ii
+226,Invert Binary Tree,Tree,67.5%,Easy,4.84201,https://leetcode.com/problems/invert-binary-tree
+244,Shortest Word Distance II,"Hash Table, Design",54.7%,Medium,38.1668,https://leetcode.com/problems/shortest-word-distance-ii
+253,Meeting Rooms II,"Heap, Greedy, Sort",47.2%,Medium,6.11666,https://leetcode.com/problems/meeting-rooms-ii
+283,Move Zeroes,"Array, Two Pointers",58.7%,Easy,3.04344,https://leetcode.com/problems/move-zeroes
+295,Find Median from Data Stream,"Heap, Design",47.6%,Hard,17.053,https://leetcode.com/problems/find-median-from-data-stream
+297,Serialize and Deserialize Binary Tree,"Tree, Design",50.4%,Hard,7.36232,https://leetcode.com/problems/serialize-and-deserialize-binary-tree
+299,Bulls and Cows,Hash Table,44.8%,Medium,24.0917,https://leetcode.com/problems/bulls-and-cows
+332,Reconstruct Itinerary,"Depth-first Search, Graph",38.3%,Medium,14.2224,https://leetcode.com/problems/reconstruct-itinerary
+347,Top K Frequent Elements,"Hash Table, Heap",62.7%,Medium,5.41472,https://leetcode.com/problems/top-k-frequent-elements
+443,String Compression,String,44.3%,Medium,12.0686,https://leetcode.com/problems/string-compression
+509,Fibonacci Number,Array,67.9%,Easy,2.32116,https://leetcode.com/problems/fibonacci-number
+545,Boundary of Binary Tree,Tree,40.5%,Medium,27.6641,https://leetcode.com/problems/boundary-of-binary-tree
+680,Valid Palindrome II,String,37.2%,Easy,6.88819,https://leetcode.com/problems/valid-palindrome-ii
+706,Design HashMap,"Hash Table, Design",64.0%,Easy,13.9607,https://leetcode.com/problems/design-hashmap
+785,Is Graph Bipartite?,"Depth-first Search, Breadth-first Search, Graph",48.8%,Medium,31.5286,https://leetcode.com/problems/is-graph-bipartite
+846,Hand of Straights,Ordered Map,55.5%,Medium,100.0,https://leetcode.com/problems/hand-of-straights
+945,Minimum Increment to Make Array Unique,Array,46.9%,Medium,48.3507,https://leetcode.com/problems/minimum-increment-to-make-array-unique
+1027,Longest Arithmetic Subsequence,Dynamic Programming,49.7%,Medium,74.0666,https://leetcode.com/problems/longest-arithmetic-subsequence
+1188,Design Bounded Blocking Queue,,73.1%,Medium,64.8213,https://leetcode.com/problems/design-bounded-blocking-queue
+1295,Find Numbers with Even Number of Digits,Array,78.7%,Easy,13.2116,https://leetcode.com/problems/find-numbers-with-even-number-of-digits
+1636,Sort Array by Increasing Frequency,"Array, Sort",67.0%,Easy,29.7466,https://leetcode.com/problems/sort-array-by-increasing-frequency

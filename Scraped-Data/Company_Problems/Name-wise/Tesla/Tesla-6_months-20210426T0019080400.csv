@@ -1,0 +1,13 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+2,Add Two Numbers,"Linked List, Math, Recursion",35.8%,Medium,0.425085,https://leetcode.com/problems/add-two-numbers
+15,3Sum,"Array, Two Pointers",28.3%,Medium,1.35462,https://leetcode.com/problems/3sum
+17,Letter Combinations of a Phone Number,"String, Backtracking, Depth-first Search, Recursion",50.0%,Medium,0.529461,https://leetcode.com/problems/letter-combinations-of-a-phone-number
+23,Merge k Sorted Lists,"Linked List, Divide and Conquer, Heap",43.2%,Hard,2.56829,https://leetcode.com/problems/merge-k-sorted-lists
+38,Count and Say,String,46.3%,Medium,2.63089,https://leetcode.com/problems/count-and-say
+64,Minimum Path Sum,"Array, Dynamic Programming",56.6%,Medium,1.9112,https://leetcode.com/problems/minimum-path-sum
+146,LRU Cache,Design,36.4%,Medium,2.49968,https://leetcode.com/problems/lru-cache
+200,Number of Islands,"Depth-first Search, Breadth-first Search, Union Find",49.7%,Medium,1.65353,https://leetcode.com/problems/number-of-islands
+1189,Maximum Number of Balloons,"Hash Table, String",62.2%,Easy,27.4199,https://leetcode.com/problems/maximum-number-of-balloons
+1239,Maximum Length of a Concatenated String with Unique Characters,"Backtracking, Bit Manipulation",50.1%,Medium,100.0,https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters
+1304,Find N Unique Integers Sum up to Zero,Array,76.6%,Easy,10.5745,https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero
+1578,Minimum Deletion Cost to Avoid Repeating Letters,Greedy,60.7%,Medium,63.7099,https://leetcode.com/problems/minimum-deletion-cost-to-avoid-repeating-letters

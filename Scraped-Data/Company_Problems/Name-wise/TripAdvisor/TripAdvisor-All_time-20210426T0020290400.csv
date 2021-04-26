@@ -1,0 +1,11 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+65,Valid Number,"Math, String",16.1%,Hard,25.4759,https://leetcode.com/problems/valid-number
+70,Climbing Stairs,Dynamic Programming,48.8%,Easy,6.16177,https://leetcode.com/problems/climbing-stairs
+139,Word Break,Dynamic Programming,42.0%,Medium,2.46396,https://leetcode.com/problems/word-break
+146,LRU Cache,Design,36.4%,Medium,76.476,https://leetcode.com/problems/lru-cache
+149,Max Points on a Line,"Hash Table, Math",17.8%,Hard,72.0671,https://leetcode.com/problems/max-points-on-a-line
+274,H-Index,"Hash Table, Sort",36.5%,Medium,100.0,https://leetcode.com/problems/h-index
+692,Top K Frequent Words,"Hash Table, Heap, Trie",53.3%,Medium,44.3715,https://leetcode.com/problems/top-k-frequent-words
+1002,Find Common Characters,"Array, Hash Table",68.6%,Easy,25.0312,https://leetcode.com/problems/find-common-characters
+1213,Intersection of Three Sorted Arrays,"Hash Table, Two Pointers",79.5%,Easy,48.5432,https://leetcode.com/problems/intersection-of-three-sorted-arrays
+1404,Number of Steps to Reduce a Number in Binary Representation to One,"String, Bit Manipulation",50.1%,Medium,74.7673,https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one

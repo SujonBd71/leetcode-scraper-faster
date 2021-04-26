@@ -1,0 +1,31 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+1,Two Sum,"Array, Hash Table",46.8%,Easy,21.1133,https://leetcode.com/problems/two-sum
+3,Longest Substring Without Repeating Characters,"Hash Table, Two Pointers, String, Sliding Window",31.6%,Medium,3.5069,https://leetcode.com/problems/longest-substring-without-repeating-characters
+5,Longest Palindromic Substring,"String, Dynamic Programming",30.7%,Medium,2.87335,https://leetcode.com/problems/longest-palindromic-substring
+15,3Sum,"Array, Two Pointers",28.3%,Medium,7.60754,https://leetcode.com/problems/3sum
+17,Letter Combinations of a Phone Number,"String, Backtracking, Depth-first Search, Recursion",50.0%,Medium,10.3931,https://leetcode.com/problems/letter-combinations-of-a-phone-number
+21,Merge Two Sorted Lists,"Linked List, Recursion",56.5%,Easy,2.83616,https://leetcode.com/problems/merge-two-sorted-lists
+22,Generate Parentheses,"String, Backtracking",65.9%,Medium,6.25669,https://leetcode.com/problems/generate-parentheses
+33,Search in Rotated Sorted Array,"Array, Binary Search",36.2%,Medium,4.18052,https://leetcode.com/problems/search-in-rotated-sorted-array
+70,Climbing Stairs,Dynamic Programming,48.8%,Easy,0.614913,https://leetcode.com/problems/climbing-stairs
+73,Set Matrix Zeroes,Array,44.7%,Medium,6.23604,https://leetcode.com/problems/set-matrix-zeroes
+85,Maximal Rectangle,"Array, Hash Table, Dynamic Programming, Stack",39.8%,Hard,22.5959,https://leetcode.com/problems/maximal-rectangle
+103,Binary Tree Zigzag Level Order Traversal,"Stack, Tree, Breadth-first Search",50.6%,Medium,11.0089,https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal
+118,Pascal's Triangle,Array,55.7%,Easy,1.4811,https://leetcode.com/problems/pascals-triangle
+121,Best Time to Buy and Sell Stock,"Array, Dynamic Programming",51.9%,Easy,4.76458,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+190,Reverse Bits,Bit Manipulation,42.8%,Easy,10.5556,https://leetcode.com/problems/reverse-bits
+200,Number of Islands,"Depth-first Search, Breadth-first Search, Union Find",49.7%,Medium,14.3513,https://leetcode.com/problems/number-of-islands
+312,Burst Balloons,"Divide and Conquer, Dynamic Programming",54.0%,Hard,100.0,https://leetcode.com/problems/burst-balloons
+530,Minimum Absolute Difference in BST,Tree,55.1%,Easy,6.45467,https://leetcode.com/problems/minimum-absolute-difference-in-bst
+653,Two Sum IV - Input is a BST,Tree,56.4%,Easy,3.89718,https://leetcode.com/problems/two-sum-iv-input-is-a-bst
+669,Trim a Binary Search Tree,"Tree, Recursion",64.3%,Medium,26.1027,https://leetcode.com/problems/trim-a-binary-search-tree
+799,Champagne Tower,Dynamic Programming,44.1%,Medium,63.0514,https://leetcode.com/problems/champagne-tower
+987,Vertical Order Traversal of a Binary Tree,"Hash Table, Tree, Depth-first Search, Breadth-first Search",39.1%,Hard,0.0,https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree
+994,Rotting Oranges,Breadth-first Search,49.7%,Medium,2.86848,https://leetcode.com/problems/rotting-oranges
+1139,Largest 1-Bordered Square,Dynamic Programming,48.6%,Medium,0.0,https://leetcode.com/problems/largest-1-bordered-square
+1301,Number of Paths with Max Score,Dynamic Programming,38.2%,Hard,0.0,https://leetcode.com/problems/number-of-paths-with-max-score
+1464,Maximum Product of Two Elements in an Array,Array,77.1%,Easy,0.0,https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array
+1519,Number of Nodes in the Sub-Tree With the Same Label,"Depth-first Search, Breadth-first Search",37.4%,Medium,0.0,https://leetcode.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label
+1675,Minimize Deviation in Array,"Heap, Ordered Map",48.2%,Hard,0.0,https://leetcode.com/problems/minimize-deviation-in-array
+1691,Maximum Height by Stacking Cuboids,"Dynamic Programming, Sort",50.5%,Hard,0.0,https://leetcode.com/problems/maximum-height-by-stacking-cuboids
+1830,Minimum Number of Operations to Make String Sorted,"Math, String",46.1%,Hard,0.0,https://leetcode.com/problems/minimum-number-of-operations-to-make-string-sorted

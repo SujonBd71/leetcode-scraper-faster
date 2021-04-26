@@ -1,0 +1,20 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+5,Longest Palindromic Substring,"String, Dynamic Programming",30.7%,Medium,4.84957,https://leetcode.com/problems/longest-palindromic-substring
+56,Merge Intervals,"Array, Sort",41.5%,Medium,0.676539,https://leetcode.com/problems/merge-intervals
+69,Sqrt(x),"Math, Binary Search",35.5%,Easy,0.280809,https://leetcode.com/problems/sqrtx
+85,Maximal Rectangle,"Array, Hash Table, Dynamic Programming, Stack",39.8%,Hard,4.39234,https://leetcode.com/problems/maximal-rectangle
+125,Valid Palindrome,"Two Pointers, String",38.6%,Easy,3.36944,https://leetcode.com/problems/valid-palindrome
+210,Course Schedule II,"Depth-first Search, Breadth-first Search, Graph, Topological Sort",43.1%,Medium,1.69657,https://leetcode.com/problems/course-schedule-ii
+224,Basic Calculator,"Math, Stack",38.3%,Hard,0.936429,https://leetcode.com/problems/basic-calculator
+409,Longest Palindrome,Hash Table,52.3%,Easy,1.56622,https://leetcode.com/problems/longest-palindrome
+412,Fizz Buzz,,63.8%,Easy,0.425495,https://leetcode.com/problems/fizz-buzz
+415,Add Strings,String,48.6%,Easy,0.83634,https://leetcode.com/problems/add-strings
+443,String Compression,String,44.3%,Medium,1.69583,https://leetcode.com/problems/string-compression
+718,Maximum Length of Repeated Subarray,"Array, Hash Table, Binary Search, Dynamic Programming",50.6%,Medium,2.94351,https://leetcode.com/problems/maximum-length-of-repeated-subarray
+759,Employee Free Time,"Heap, Greedy",68.6%,Hard,21.0764,https://leetcode.com/problems/employee-free-time
+811,Subdomain Visit Count,Hash Table,71.8%,Easy,70.3459,https://leetcode.com/problems/subdomain-visit-count
+840,Magic Squares In Grid,Array,37.9%,Medium,100.0,https://leetcode.com/problems/magic-squares-in-grid
+1189,Maximum Number of Balloons,"Hash Table, String",62.2%,Easy,6.5609,https://leetcode.com/problems/maximum-number-of-balloons
+1204,Last Person to Fit in the Elevator,,72.3%,Medium,40.6919,https://leetcode.com/problems/last-person-to-fit-in-the-elevator
+1212,Team Scores in Football Tournament,,56.7%,Medium,5.15648,https://leetcode.com/problems/team-scores-in-football-tournament
+1604,Alert Using Same Key-Card Three or More Times in a One Hour Period,"String, Ordered Map",43.1%,Medium,11.249,https://leetcode.com/problems/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period

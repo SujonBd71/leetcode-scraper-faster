@@ -1,0 +1,22 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+1,Two Sum,"Array, Hash Table",46.8%,Easy,1.06352,https://leetcode.com/problems/two-sum
+3,Longest Substring Without Repeating Characters,"Hash Table, Two Pointers, String, Sliding Window",31.6%,Medium,1.23009,https://leetcode.com/problems/longest-substring-without-repeating-characters
+5,Longest Palindromic Substring,"String, Dynamic Programming",30.7%,Medium,1.97203,https://leetcode.com/problems/longest-palindromic-substring
+15,3Sum,"Array, Two Pointers",28.3%,Medium,0.914557,https://leetcode.com/problems/3sum
+17,Letter Combinations of a Phone Number,"String, Backtracking, Depth-first Search, Recursion",50.0%,Medium,0.803477,https://leetcode.com/problems/letter-combinations-of-a-phone-number
+21,Merge Two Sorted Lists,"Linked List, Recursion",56.5%,Easy,0.865904,https://leetcode.com/problems/merge-two-sorted-lists
+22,Generate Parentheses,"String, Backtracking",65.9%,Medium,1.91946,https://leetcode.com/problems/generate-parentheses
+33,Search in Rotated Sorted Array,"Array, Binary Search",36.2%,Medium,1.27877,https://leetcode.com/problems/search-in-rotated-sorted-array
+70,Climbing Stairs,Dynamic Programming,48.8%,Easy,1.16868,https://leetcode.com/problems/climbing-stairs
+73,Set Matrix Zeroes,Array,44.7%,Medium,2.98633,https://leetcode.com/problems/set-matrix-zeroes
+85,Maximal Rectangle,"Array, Hash Table, Dynamic Programming, Stack",39.8%,Hard,7.09378,https://leetcode.com/problems/maximal-rectangle
+103,Binary Tree Zigzag Level Order Traversal,"Stack, Tree, Breadth-first Search",50.6%,Medium,2.36333,https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal
+118,Pascal's Triangle,Array,55.7%,Easy,2.81492,https://leetcode.com/problems/pascals-triangle
+121,Best Time to Buy and Sell Stock,"Array, Dynamic Programming",51.9%,Easy,2.97281,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+190,Reverse Bits,Bit Manipulation,42.8%,Easy,5.08241,https://leetcode.com/problems/reverse-bits
+200,Number of Islands,"Depth-first Search, Breadth-first Search, Union Find",49.7%,Medium,2.5093,https://leetcode.com/problems/number-of-islands
+312,Burst Balloons,"Divide and Conquer, Dynamic Programming",54.0%,Hard,100.0,https://leetcode.com/problems/burst-balloons
+530,Minimum Absolute Difference in BST,Tree,55.1%,Easy,12.2675,https://leetcode.com/problems/minimum-absolute-difference-in-bst
+669,Trim a Binary Search Tree,"Tree, Recursion",64.3%,Medium,12.8157,https://leetcode.com/problems/trim-a-binary-search-tree
+799,Champagne Tower,Dynamic Programming,44.1%,Medium,56.4079,https://leetcode.com/problems/champagne-tower
+994,Rotting Oranges,Breadth-first Search,49.7%,Medium,5.45174,https://leetcode.com/problems/rotting-oranges

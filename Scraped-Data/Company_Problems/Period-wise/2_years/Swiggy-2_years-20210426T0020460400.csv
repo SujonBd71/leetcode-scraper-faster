@@ -1,0 +1,8 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+453,Minimum Moves to Equal Array Elements,Math,51.0%,Easy,17.0118,https://leetcode.com/problems/minimum-moves-to-equal-array-elements
+741,Cherry Pickup,Dynamic Programming,35.2%,Hard,67.5965,https://leetcode.com/problems/cherry-pickup
+1220,Count Vowels Permutation,Dynamic Programming,54.1%,Hard,49.4153,https://leetcode.com/problems/count-vowels-permutation
+1235,Maximum Profit in Job Scheduling,"Binary Search, Dynamic Programming, Sort",47.8%,Hard,12.2651,https://leetcode.com/problems/maximum-profit-in-job-scheduling
+1335,Minimum Difficulty of a Job Schedule,Dynamic Programming,56.5%,Hard,10.2905,https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule
+1465,Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts,Array,34.1%,Medium,7.92957,https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts
+1611,Minimum One Bit Operations to Make Integers Zero,"Dynamic Programming, Bit Manipulation",58.0%,Hard,100.0,https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero

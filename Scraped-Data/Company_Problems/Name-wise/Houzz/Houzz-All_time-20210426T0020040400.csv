@@ -1,0 +1,15 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+43,Multiply Strings,"Math, String",35.2%,Medium,67.209,https://leetcode.com/problems/multiply-strings
+56,Merge Intervals,"Array, Sort",41.5%,Medium,1.60612,https://leetcode.com/problems/merge-intervals
+79,Word Search,"Array, Backtracking",37.3%,Medium,7.2843,https://leetcode.com/problems/word-search
+121,Best Time to Buy and Sell Stock,"Array, Dynamic Programming",51.9%,Easy,2.49953,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+200,Number of Islands,"Depth-first Search, Breadth-first Search, Union Find",49.7%,Medium,33.1354,https://leetcode.com/problems/number-of-islands
+227,Basic Calculator II,"String, Stack",38.9%,Medium,99.4394,https://leetcode.com/problems/basic-calculator-ii
+238,Product of Array Except Self,Array,61.4%,Medium,2.03539,https://leetcode.com/problems/product-of-array-except-self
+301,Remove Invalid Parentheses,"Depth-first Search, Breadth-first Search",45.0%,Hard,9.51039,https://leetcode.com/problems/remove-invalid-parentheses
+304,Range Sum Query 2D - Immutable,Dynamic Programming,41.4%,Medium,100.0,https://leetcode.com/problems/range-sum-query-2d-immutable
+660,Remove 9,Math,54.3%,Hard,0.0,https://leetcode.com/problems/remove-9
+698,Partition to K Equal Sum Subsets,"Dynamic Programming, Recursion",45.5%,Medium,11.7257,https://leetcode.com/problems/partition-to-k-equal-sum-subsets
+721,Accounts Merge,"Depth-first Search, Union Find",52.5%,Medium,65.3658,https://leetcode.com/problems/accounts-merge
+772,Basic Calculator III,"String, Stack",44.3%,Hard,0.0,https://leetcode.com/problems/basic-calculator-iii
+1631,Path With Minimum Effort,"Binary Search, Depth-first Search, Union Find, Graph",50.0%,Medium,11.9663,https://leetcode.com/problems/path-with-minimum-effort

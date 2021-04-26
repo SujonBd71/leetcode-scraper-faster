@@ -1,0 +1,9 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+3,Longest Substring Without Repeating Characters,"Hash Table, Two Pointers, String, Sliding Window",31.6%,Medium,1.27887,https://leetcode.com/problems/longest-substring-without-repeating-characters
+20,Valid Parentheses,"String, Stack",40.0%,Easy,16.0021,https://leetcode.com/problems/valid-parentheses
+66,Plus One,Array,42.2%,Easy,7.2754,https://leetcode.com/problems/plus-one
+215,Kth Largest Element in an Array,"Divide and Conquer, Heap",59.1%,Medium,3.76809,https://leetcode.com/problems/kth-largest-element-in-an-array
+346,Moving Average from Data Stream,"Design, Queue",73.8%,Easy,62.7466,https://leetcode.com/problems/moving-average-from-data-stream
+383,Ransom Note,String,53.5%,Easy,69.7907,https://leetcode.com/problems/ransom-note
+480,Sliding Window Median,Sliding Window,39.0%,Hard,100.0,https://leetcode.com/problems/sliding-window-median
+1152,Analyze User Website Visit Pattern,"Array, Hash Table, Sort",43.1%,Medium,32.5373,https://leetcode.com/problems/analyze-user-website-visit-pattern

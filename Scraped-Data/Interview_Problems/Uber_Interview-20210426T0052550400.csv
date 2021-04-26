@@ -1,0 +1,53 @@
+ChapterSerial,Chapter,ProblemSerial,Problem,Id,Acceptance,Difficulty,Frequency,Link
+1,Arrays and Strings,1,Two Sum,1,46.8%,Easy,100.0,https://leetcode.com/problems/two-sum
+1,Arrays and Strings,2,Find First and Last Position of Element in Sorted Array,34,37.6%,Medium,57.7047,https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array
+1,Arrays and Strings,3,Group Anagrams,49,59.9%,Medium,82.0205,https://leetcode.com/problems/group-anagrams
+1,Arrays and Strings,4,Text Justification,68,30.4%,Hard,95.7075,https://leetcode.com/problems/text-justification
+1,Arrays and Strings,5,Minimum Window Substring,76,36.3%,Hard,68.6909,https://leetcode.com/problems/minimum-window-substring
+1,Arrays and Strings,6,Validate IP Address,468,25.1%,Medium,39.5648,https://leetcode.com/problems/validate-ip-address
+2,Linked Lists,1,Merge Two Sorted Lists,21,56.5%,Easy,70.8243,https://leetcode.com/problems/merge-two-sorted-lists
+2,Linked Lists,2,Merge k Sorted Lists,23,43.2%,Hard,85.7455,https://leetcode.com/problems/merge-k-sorted-lists
+3,Trees and Graphs,1,Reconstruct Itinerary,332,38.3%,Medium,69.1008,https://leetcode.com/problems/reconstruct-itinerary
+3,Trees and Graphs,2,Evaluate Division,399,54.7%,Medium,50.6384,https://leetcode.com/problems/evaluate-division
+3,Trees and Graphs,3,Find Duplicate Subtrees,652,53.2%,Medium,37.2129,https://leetcode.com/problems/find-duplicate-subtrees
+3,Trees and Graphs,4,Print Binary Tree,655,56.4%,Medium,22.6085,https://leetcode.com/problems/print-binary-tree
+3,Trees and Graphs,5,Serialize and Deserialize N-ary Tree,428,61.9%,Hard,46.5156,https://leetcode.com/problems/serialize-and-deserialize-n-ary-tree
+4,"Heaps, Queues, and, Stacks",1,Trapping Rain Water,42,51.8%,Hard,96.5452,https://leetcode.com/problems/trapping-rain-water
+4,"Heaps, Queues, and, Stacks",2,Basic Calculator,224,38.3%,Hard,89.8663,https://leetcode.com/problems/basic-calculator
+4,"Heaps, Queues, and, Stacks",3,Meeting Rooms II,253,47.2%,Medium,88.1098,https://leetcode.com/problems/meeting-rooms-ii
+4,"Heaps, Queues, and, Stacks",4,Task Scheduler,621,52.4%,Medium,67.8455,https://leetcode.com/problems/task-scheduler
+4,"Heaps, Queues, and, Stacks",5,Exclusive Time of Functions,636,55.2%,Medium,60.8986,https://leetcode.com/problems/exclusive-time-of-functions
+4,"Heaps, Queues, and, Stacks",6,Employee Free Time,759,68.6%,Hard,78.537,https://leetcode.com/problems/employee-free-time
+5,Recursion and Backtracking,1,Letter Combinations of a Phone Number,17,50.0%,Medium,60.975,https://leetcode.com/problems/letter-combinations-of-a-phone-number
+5,Recursion and Backtracking,2,Subsets,78,65.8%,Medium,48.7885,https://leetcode.com/problems/subsets
+6,Sorting and Searching,1,Merge Intervals,56,41.5%,Medium,97.3828,https://leetcode.com/problems/merge-intervals
+6,Sorting and Searching,2,Word Ladder II,126,23.9%,Hard,50.3501,https://leetcode.com/problems/word-ladder-ii
+6,Sorting and Searching,3,Number of Islands,200,49.7%,Medium,97.487,https://leetcode.com/problems/number-of-islands
+6,Sorting and Searching,4,Walls and Gates,286,57.1%,Medium,49.7488,https://leetcode.com/problems/walls-and-gates
+6,Sorting and Searching,5,Remove Invalid Parentheses,301,45.0%,Hard,65.7782,https://leetcode.com/problems/remove-invalid-parentheses
+6,Sorting and Searching,6,24 Game,679,47.3%,Hard,40.2267,https://leetcode.com/problems/24-game
+6,Sorting and Searching,7,Max Area of Island,695,65.3%,Medium,80.9843,https://leetcode.com/problems/max-area-of-island
+6,Sorting and Searching,8,Bus Routes,815,43.6%,Hard,40.7538,https://leetcode.com/problems/bus-routes
+6,Sorting and Searching,9,Shortest Bridge,934,50.0%,Medium,51.0757,https://leetcode.com/problems/shortest-bridge
+7,Dynamic Programming,1,Word Break,139,42.0%,Medium,82.3162,https://leetcode.com/problems/word-break
+7,Dynamic Programming,2,Perfect Squares,279,49.3%,Medium,42.3568,https://leetcode.com/problems/perfect-squares
+7,Dynamic Programming,3,Russian Doll Envelopes,354,37.8%,Hard,20.1773,https://leetcode.com/problems/russian-doll-envelopes
+7,Dynamic Programming,4,Maximum Vacation Days,568,41.8%,Hard,0.0,https://leetcode.com/problems/maximum-vacation-days
+7,Dynamic Programming,5,Cherry Pickup,741,35.2%,Hard,42.969,https://leetcode.com/problems/cherry-pickup
+8,Design,1,LRU Cache,146,36.4%,Medium,98.3247,https://leetcode.com/problems/lru-cache
+8,Design,2,Serialize and Deserialize Binary Tree,297,50.4%,Hard,76.6441,https://leetcode.com/problems/serialize-and-deserialize-binary-tree
+8,Design,3,Moving Average from Data Stream,346,73.8%,Easy,49.7129,https://leetcode.com/problems/moving-average-from-data-stream
+8,Design,4,Design Snake Game,353,36.3%,Medium,38.9835,https://leetcode.com/problems/design-snake-game
+8,Design,5,Logger Rate Limiter,359,72.7%,Easy,50.6957,https://leetcode.com/problems/logger-rate-limiter
+8,Design,6,Design Hit Counter,362,65.6%,Medium,68.4291,https://leetcode.com/problems/design-hit-counter
+8,Design,7,Insert Delete GetRandom O(1) - Duplicates allowed,381,35.0%,Hard,46.1276,https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed
+8,Design,8,Design Search Autocomplete System,642,46.6%,Hard,61.8525,https://leetcode.com/problems/design-search-autocomplete-system
+9,Others,1,Valid Sudoku,36,51.0%,Medium,43.3195,https://leetcode.com/problems/valid-sudoku
+9,Others,2,Candy,135,33.4%,Hard,44.6849,https://leetcode.com/problems/candy
+9,Others,3,Fraction to Recurring Decimal,166,22.5%,Medium,25.3761,https://leetcode.com/problems/fraction-to-recurring-decimal
+9,Others,4,Number of Islands II,305,39.6%,Hard,14.6663,https://leetcode.com/problems/number-of-islands-ii
+9,Others,5,Random Pick Index,398,58.6%,Medium,27.0168,https://leetcode.com/problems/random-pick-index
+9,Others,6,Encode and Decode TinyURL,535,82.4%,Medium,62.6087,https://leetcode.com/problems/encode-and-decode-tinyurl
+9,Others,7,Solve the Equation,640,42.8%,Medium,22.1749,https://leetcode.com/problems/solve-the-equation
+9,Others,8,Construct Quad Tree,427,62.8%,Medium,16.2135,https://leetcode.com/problems/construct-quad-tree
+9,Others,9,Random Pick with Weight,528,44.8%,Medium,81.8219,https://leetcode.com/problems/random-pick-with-weight

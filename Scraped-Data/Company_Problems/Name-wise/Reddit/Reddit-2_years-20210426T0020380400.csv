@@ -1,0 +1,10 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+4,Median of Two Sorted Arrays,"Array, Binary Search, Divide and Conquer",31.5%,Hard,0.240259,https://leetcode.com/problems/median-of-two-sorted-arrays
+68,Text Justification,String,30.4%,Hard,17.749,https://leetcode.com/problems/text-justification
+139,Word Break,Dynamic Programming,42.0%,Medium,0.383232,https://leetcode.com/problems/word-break
+227,Basic Calculator II,"String, Stack",38.9%,Medium,0.943,https://leetcode.com/problems/basic-calculator-ii
+289,Game of Life,Array,59.0%,Medium,58.8745,https://leetcode.com/problems/game-of-life
+314,Binary Tree Vertical Order Traversal,"Depth-first Search, Breadth-first Search",47.4%,Medium,10.8052,https://leetcode.com/problems/binary-tree-vertical-order-traversal
+706,Design HashMap,"Hash Table, Design",64.0%,Easy,2.55643,https://leetcode.com/problems/design-hashmap
+987,Vertical Order Traversal of a Binary Tree,"Hash Table, Tree, Depth-first Search, Breadth-first Search",39.1%,Hard,1.2682,https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree
+1515,Best Position for a Service Centre,Geometry,38.5%,Hard,100.0,https://leetcode.com/problems/best-position-for-a-service-centre

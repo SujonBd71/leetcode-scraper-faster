@@ -1,0 +1,8 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+124,Binary Tree Maximum Path Sum,"Tree, Depth-first Search, Recursion",35.7%,Hard,11.0695,https://leetcode.com/problems/binary-tree-maximum-path-sum
+221,Maximal Square,Dynamic Programming,39.7%,Medium,44.9744,https://leetcode.com/problems/maximal-square
+239,Sliding Window Maximum,"Heap, Sliding Window, Dequeue",44.8%,Hard,14.9212,https://leetcode.com/problems/sliding-window-maximum
+346,Moving Average from Data Stream,"Design, Queue",73.8%,Easy,73.0431,https://leetcode.com/problems/moving-average-from-data-stream
+380,Insert Delete GetRandom O(1),"Array, Hash Table, Design",49.2%,Medium,18.1236,https://leetcode.com/problems/insert-delete-getrandom-o1
+419,Battleships in a Board,,71.3%,Medium,71.9314,https://leetcode.com/problems/battleships-in-a-board
+1283,Find the Smallest Divisor Given a Threshold,Binary Search,50.0%,Medium,100.0,https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold

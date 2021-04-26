@@ -1,0 +1,6 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+36,Valid Sudoku,Hash Table,51.0%,Medium,3.47788,https://leetcode.com/problems/valid-sudoku
+227,Basic Calculator II,"String, Stack",38.9%,Medium,5.19835,https://leetcode.com/problems/basic-calculator-ii
+301,Remove Invalid Parentheses,"Depth-first Search, Breadth-first Search",45.0%,Hard,7.18523,https://leetcode.com/problems/remove-invalid-parentheses
+1190,Reverse Substrings Between Each Pair of Parentheses,Stack,64.3%,Medium,100.0,https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses
+1324,Print Words Vertically,String,59.0%,Medium,53.5926,https://leetcode.com/problems/print-words-vertically

@@ -1,0 +1,8 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+124,Binary Tree Maximum Path Sum,"Tree, Depth-first Search, Recursion",35.7%,Hard,7.71289,https://leetcode.com/problems/binary-tree-maximum-path-sum
+133,Clone Graph,"Depth-first Search, Breadth-first Search, Graph",40.1%,Medium,10.6466,https://leetcode.com/problems/clone-graph
+146,LRU Cache,Design,36.4%,Medium,5.97412,https://leetcode.com/problems/lru-cache
+348,Design Tic-Tac-Toe,Design,55.8%,Medium,33.3494,https://leetcode.com/problems/design-tic-tac-toe
+460,LFU Cache,Design,36.6%,Hard,31.0855,https://leetcode.com/problems/lfu-cache
+1239,Maximum Length of a Concatenated String with Unique Characters,"Backtracking, Bit Manipulation",50.1%,Medium,100.0,https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters
+1293,Shortest Path in a Grid with Obstacles Elimination,Breadth-first Search,43.0%,Hard,66.6747,https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination

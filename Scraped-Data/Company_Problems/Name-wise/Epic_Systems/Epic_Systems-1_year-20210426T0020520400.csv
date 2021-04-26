@@ -1,0 +1,4 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+17,Letter Combinations of a Phone Number,"String, Backtracking, Depth-first Search, Recursion",50.0%,Medium,11.1882,https://leetcode.com/problems/letter-combinations-of-a-phone-number
+38,Count and Say,String,46.3%,Medium,55.5941,https://leetcode.com/problems/count-and-say
+306,Additive Number,Backtracking,29.8%,Medium,100.0,https://leetcode.com/problems/additive-number

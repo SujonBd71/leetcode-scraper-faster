@@ -1,0 +1,9 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+3,Longest Substring Without Repeating Characters,"Hash Table, Two Pointers, String, Sliding Window",31.6%,Medium,8.89097,https://leetcode.com/problems/longest-substring-without-repeating-characters
+53,Maximum Subarray,"Array, Divide and Conquer, Dynamic Programming",47.9%,Easy,29.7389,https://leetcode.com/problems/maximum-subarray
+56,Merge Intervals,"Array, Sort",41.5%,Medium,69.7373,https://leetcode.com/problems/merge-intervals
+143,Reorder List,Linked List,41.3%,Medium,100.0,https://leetcode.com/problems/reorder-list
+169,Majority Element,"Array, Divide and Conquer, Bit Manipulation",60.3%,Easy,68.0038,https://leetcode.com/problems/majority-element
+198,House Robber,Dynamic Programming,43.2%,Medium,33.4891,https://leetcode.com/problems/house-robber
+200,Number of Islands,"Depth-first Search, Breadth-first Search, Union Find",49.7%,Medium,72.3794,https://leetcode.com/problems/number-of-islands
+416,Partition Equal Subset Sum,Dynamic Programming,45.0%,Medium,61.1098,https://leetcode.com/problems/partition-equal-subset-sum

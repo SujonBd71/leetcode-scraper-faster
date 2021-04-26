@@ -1,0 +1,17 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+1,Two Sum,"Array, Hash Table",46.8%,Easy,0.102757,https://leetcode.com/problems/two-sum
+39,Combination Sum,"Array, Backtracking",59.9%,Medium,20.0857,https://leetcode.com/problems/combination-sum
+251,Flatten 2D Vector,Design,46.5%,Medium,100.0,https://leetcode.com/problems/flatten-2d-vector
+269,Alien Dictionary,"Graph, Topological Sort",33.8%,Hard,13.7423,https://leetcode.com/problems/alien-dictionary
+322,Coin Change,Dynamic Programming,37.8%,Medium,1.39893,https://leetcode.com/problems/coin-change
+336,Palindrome Pairs,"Hash Table, String, Trie",35.0%,Hard,90.7109,https://leetcode.com/problems/palindrome-pairs
+341,Flatten Nested List Iterator,"Stack, Design",56.0%,Medium,2.52303,https://leetcode.com/problems/flatten-nested-list-iterator
+588,Design In-Memory File System,Design,46.8%,Hard,7.69008,https://leetcode.com/problems/design-in-memory-file-system
+751,IP to CIDR,Bit Manipulation,59.0%,Medium,62.481,https://leetcode.com/problems/ip-to-cidr
+755,Pour Water,Array,44.3%,Medium,91.8599,https://leetcode.com/problems/pour-water
+773,Sliding Puzzle,Breadth-first Search,61.2%,Hard,28.3581,https://leetcode.com/problems/sliding-puzzle
+787,Cheapest Flights Within K Stops,"Dynamic Programming, Heap, Breadth-first Search",39.7%,Medium,3.14769,https://leetcode.com/problems/cheapest-flights-within-k-stops
+864,Shortest Path to Get All Keys,"Heap, Breadth-first Search",42.4%,Hard,34.2511,https://leetcode.com/problems/shortest-path-to-get-all-keys
+1058,Minimize Rounding Error to Meet Target,"Math, Dynamic Programming, Greedy",44.1%,Medium,31.5308,https://leetcode.com/problems/minimize-rounding-error-to-meet-target
+1235,Maximum Profit in Job Scheduling,"Binary Search, Dynamic Programming, Sort",47.8%,Hard,3.95063,https://leetcode.com/problems/maximum-profit-in-job-scheduling
+1257,Smallest Common Region,Tree,61.2%,Medium,31.082,https://leetcode.com/problems/smallest-common-region

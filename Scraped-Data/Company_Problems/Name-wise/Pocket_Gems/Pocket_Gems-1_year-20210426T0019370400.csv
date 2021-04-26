@@ -1,0 +1,5 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+347,Top K Frequent Elements,"Hash Table, Heap",62.7%,Medium,2.7615,https://leetcode.com/problems/top-k-frequent-elements
+366,Find Leaves of Binary Tree,"Tree, Depth-first Search",72.3%,Medium,54.3483,https://leetcode.com/problems/find-leaves-of-binary-tree
+1428,Leftmost Column with at Least a One,Array,49.6%,Medium,8.6967,https://leetcode.com/problems/leftmost-column-with-at-least-a-one
+1761,Minimum Degree of a Connected Trio in a Graph,Graph,37.5%,Hard,100.0,https://leetcode.com/problems/minimum-degree-of-a-connected-trio-in-a-graph

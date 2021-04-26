@@ -1,0 +1,25 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+3,Longest Substring Without Repeating Characters,"Hash Table, Two Pointers, String, Sliding Window",31.6%,Medium,3.76131,https://leetcode.com/problems/longest-substring-without-repeating-characters
+20,Valid Parentheses,"String, Stack",40.0%,Easy,34.038,https://leetcode.com/problems/valid-parentheses
+22,Generate Parentheses,"String, Backtracking",65.9%,Medium,9.98851,https://leetcode.com/problems/generate-parentheses
+66,Plus One,Array,42.2%,Easy,11.8649,https://leetcode.com/problems/plus-one
+75,Sort Colors,"Array, Two Pointers, Sort",50.0%,Medium,0.90881,https://leetcode.com/problems/sort-colors
+79,Word Search,"Array, Backtracking",37.3%,Medium,0.940806,https://leetcode.com/problems/word-search
+108,Convert Sorted Array to Binary Search Tree,"Tree, Depth-first Search",61.1%,Easy,6.56216,https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree
+127,Word Ladder,Breadth-first Search,32.3%,Hard,3.02729,https://leetcode.com/problems/word-ladder
+128,Longest Consecutive Sequence,"Array, Union Find",46.6%,Hard,52.3837,https://leetcode.com/problems/longest-consecutive-sequence
+146,LRU Cache,Design,36.4%,Medium,11.4438,https://leetcode.com/problems/lru-cache
+200,Number of Islands,"Depth-first Search, Breadth-first Search, Union Find",49.7%,Medium,4.31592,https://leetcode.com/problems/number-of-islands
+204,Count Primes,"Hash Table, Math",32.4%,Easy,5.03067,https://leetcode.com/problems/count-primes
+206,Reverse Linked List,Linked List,65.9%,Easy,1.40055,https://leetcode.com/problems/reverse-linked-list
+215,Kth Largest Element in an Array,"Divide and Conquer, Heap",59.1%,Medium,23.9433,https://leetcode.com/problems/kth-largest-element-in-an-array
+286,Walls and Gates,Breadth-first Search,57.1%,Medium,27.1367,https://leetcode.com/problems/walls-and-gates
+346,Moving Average from Data Stream,"Design, Queue",73.8%,Easy,70.7294,https://leetcode.com/problems/moving-average-from-data-stream
+347,Top K Frequent Elements,"Hash Table, Heap",62.7%,Medium,2.09472,https://leetcode.com/problems/top-k-frequent-elements
+383,Ransom Note,String,53.5%,Easy,88.075,https://leetcode.com/problems/ransom-note
+414,Third Maximum Number,Array,30.8%,Easy,3.60969,https://leetcode.com/problems/third-maximum-number
+443,String Compression,String,44.3%,Medium,8.21602,https://leetcode.com/problems/string-compression
+480,Sliding Window Median,Sliding Window,39.0%,Hard,100.0,https://leetcode.com/problems/sliding-window-median
+784,Letter Case Permutation,"Backtracking, Bit Manipulation",68.9%,Medium,12.3023,https://leetcode.com/problems/letter-case-permutation
+973,K Closest Points to Origin,"Divide and Conquer, Heap, Sort",64.7%,Medium,2.18235,https://leetcode.com/problems/k-closest-points-to-origin
+1152,Analyze User Website Visit Pattern,"Array, Hash Table, Sort",43.1%,Medium,13.3521,https://leetcode.com/problems/analyze-user-website-visit-pattern

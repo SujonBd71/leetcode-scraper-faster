@@ -1,0 +1,16 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+23,Merge k Sorted Lists,"Linked List, Divide and Conquer, Heap",43.2%,Hard,0.87177,https://leetcode.com/problems/merge-k-sorted-lists
+42,Trapping Rain Water,"Array, Two Pointers, Dynamic Programming, Stack",51.8%,Hard,0.718721,https://leetcode.com/problems/trapping-rain-water
+48,Rotate Image,Array,61.1%,Medium,0.998417,https://leetcode.com/problems/rotate-image
+56,Merge Intervals,"Array, Sort",41.5%,Medium,28.9046,https://leetcode.com/problems/merge-intervals
+72,Edit Distance,"String, Dynamic Programming",47.2%,Hard,5.01327,https://leetcode.com/problems/edit-distance
+200,Number of Islands,"Depth-first Search, Breadth-first Search, Union Find",49.7%,Medium,6.79583,https://leetcode.com/problems/number-of-islands
+236,Lowest Common Ancestor of a Binary Tree,Tree,49.6%,Medium,1.918,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree
+273,Integer to English Words,"Math, String",28.4%,Hard,16.9814,https://leetcode.com/problems/integer-to-english-words
+277,Find the Celebrity,Array,44.2%,Medium,16.7169,https://leetcode.com/problems/find-the-celebrity
+393,UTF-8 Validation,Bit Manipulation,38.2%,Medium,79.6735,https://leetcode.com/problems/utf-8-validation
+539,Minimum Time Difference,String,52.5%,Medium,100.0,https://leetcode.com/problems/minimum-time-difference
+681,Next Closest Time,String,46.0%,Medium,13.7978,https://leetcode.com/problems/next-closest-time
+694,Number of Distinct Islands,"Hash Table, Depth-first Search, Breadth-first Search",58.2%,Medium,16.5681,https://leetcode.com/problems/number-of-distinct-islands
+695,Max Area of Island,"Array, Depth-first Search",65.3%,Medium,14.0476,https://leetcode.com/problems/max-area-of-island
+733,Flood Fill,Depth-first Search,56.0%,Easy,54.2891,https://leetcode.com/problems/flood-fill

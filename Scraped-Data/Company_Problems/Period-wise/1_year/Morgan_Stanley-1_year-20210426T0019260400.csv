@@ -1,0 +1,19 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+3,Longest Substring Without Repeating Characters,"Hash Table, Two Pointers, String, Sliding Window",31.6%,Medium,2.08862,https://leetcode.com/problems/longest-substring-without-repeating-characters
+5,Longest Palindromic Substring,"String, Dynamic Programming",30.7%,Medium,1.48961,https://leetcode.com/problems/longest-palindromic-substring
+17,Letter Combinations of a Phone Number,"String, Backtracking, Depth-first Search, Recursion",50.0%,Medium,5.44544,https://leetcode.com/problems/letter-combinations-of-a-phone-number
+31,Next Permutation,Array,33.9%,Medium,8.42344,https://leetcode.com/problems/next-permutation
+53,Maximum Subarray,"Array, Divide and Conquer, Dynamic Programming",47.9%,Easy,1.38204,https://leetcode.com/problems/maximum-subarray
+56,Merge Intervals,"Array, Sort",41.5%,Medium,1.82654,https://leetcode.com/problems/merge-intervals
+70,Climbing Stairs,Dynamic Programming,48.8%,Easy,1.98435,https://leetcode.com/problems/climbing-stairs
+91,Decode Ways,"String, Dynamic Programming",27.0%,Medium,8.94116,https://leetcode.com/problems/decode-ways
+121,Best Time to Buy and Sell Stock,"Array, Dynamic Programming",51.9%,Easy,7.87535,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+122,Best Time to Buy and Sell Stock II,"Array, Greedy",58.9%,Easy,10.5675,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii
+146,LRU Cache,Design,36.4%,Medium,2.86794,https://leetcode.com/problems/lru-cache
+160,Intersection of Two Linked Lists,Linked List,44.7%,Easy,3.26188,https://leetcode.com/problems/intersection-of-two-linked-lists
+232,Implement Queue using Stacks,"Stack, Design",52.9%,Easy,19.0748,https://leetcode.com/problems/implement-queue-using-stacks
+702,Search in a Sorted Array of Unknown Size,Binary Search,69.1%,Medium,47.3871,https://leetcode.com/problems/search-in-a-sorted-array-of-unknown-size
+706,Design HashMap,"Hash Table, Design",64.0%,Easy,9.43838,https://leetcode.com/problems/design-hashmap
+871,Minimum Number of Refueling Stops,"Dynamic Programming, Heap",32.5%,Hard,100.0,https://leetcode.com/problems/minimum-number-of-refueling-stops
+1143,Longest Common Subsequence,Dynamic Programming,58.7%,Medium,14.5455,https://leetcode.com/problems/longest-common-subsequence
+1326,Minimum Number of Taps to Open to Water a Garden,"Dynamic Programming, Greedy",47.5%,Hard,71.6877,https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden

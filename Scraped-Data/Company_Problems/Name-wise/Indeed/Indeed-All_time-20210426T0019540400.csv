@@ -1,0 +1,18 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+23,Merge k Sorted Lists,"Linked List, Divide and Conquer, Heap",43.2%,Hard,21.6784,https://leetcode.com/problems/merge-k-sorted-lists
+68,Text Justification,String,30.4%,Hard,52.0753,https://leetcode.com/problems/text-justification
+85,Maximal Rectangle,"Array, Hash Table, Dynamic Programming, Stack",39.8%,Hard,8.45593,https://leetcode.com/problems/maximal-rectangle
+224,Basic Calculator,"Math, Stack",38.3%,Hard,76.0377,https://leetcode.com/problems/basic-calculator
+227,Basic Calculator II,"String, Stack",38.9%,Medium,2.28122,https://leetcode.com/problems/basic-calculator-ii
+295,Find Median from Data Stream,"Heap, Design",47.6%,Hard,0.246077,https://leetcode.com/problems/find-median-from-data-stream
+346,Moving Average from Data Stream,"Design, Queue",73.8%,Easy,11.575,https://leetcode.com/problems/moving-average-from-data-stream
+362,Design Hit Counter,Design,65.6%,Medium,25.1112,https://leetcode.com/problems/design-hit-counter
+453,Minimum Moves to Equal Array Elements,Math,51.0%,Easy,0.0,https://leetcode.com/problems/minimum-moves-to-equal-array-elements
+480,Sliding Window Median,Sliding Window,39.0%,Hard,2.56925,https://leetcode.com/problems/sliding-window-median
+563,Binary Tree Tilt,"Tree, Depth-first Search, Recursion",53.4%,Easy,15.0813,https://leetcode.com/problems/binary-tree-tilt
+718,Maximum Length of Repeated Subarray,"Array, Hash Table, Binary Search, Dynamic Programming",50.6%,Medium,39.2152,https://leetcode.com/problems/maximum-length-of-repeated-subarray
+770,Basic Calculator IV,"Hash Table, String, Stack",54.4%,Hard,49.8197,https://leetcode.com/problems/basic-calculator-iv
+811,Subdomain Visit Count,Hash Table,71.8%,Easy,100.0,https://leetcode.com/problems/subdomain-visit-count
+985,Sum of Even Numbers After Queries,Array,60.6%,Easy,0.0,https://leetcode.com/problems/sum-of-even-numbers-after-queries
+1143,Longest Common Subsequence,Dynamic Programming,58.7%,Medium,0.69622,https://leetcode.com/problems/longest-common-subsequence
+1197,Minimum Knight Moves,Breadth-first Search,37.6%,Medium,17.7153,https://leetcode.com/problems/minimum-knight-moves

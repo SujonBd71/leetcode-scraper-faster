@@ -1,0 +1,30 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+1,Two Sum,"Array, Hash Table",46.8%,Easy,3.84678,https://leetcode.com/problems/two-sum
+3,Longest Substring Without Repeating Characters,"Hash Table, Two Pointers, String, Sliding Window",31.6%,Medium,6.09949,https://leetcode.com/problems/longest-substring-without-repeating-characters
+14,Longest Common Prefix,String,36.3%,Easy,5.15949,https://leetcode.com/problems/longest-common-prefix
+49,Group Anagrams,"Hash Table, String",59.9%,Medium,15.6489,https://leetcode.com/problems/group-anagrams
+56,Merge Intervals,"Array, Sort",41.5%,Medium,30.5444,https://leetcode.com/problems/merge-intervals
+126,Word Ladder II,"Array, String, Backtracking, Breadth-first Search",23.9%,Hard,5.06825,https://leetcode.com/problems/word-ladder-ii
+127,Word Ladder,Breadth-first Search,32.3%,Hard,12.6646,https://leetcode.com/problems/word-ladder
+151,Reverse Words in a String,String,24.3%,Medium,0.576232,https://leetcode.com/problems/reverse-words-in-a-string
+206,Reverse Linked List,Linked List,65.9%,Easy,0.599664,https://leetcode.com/problems/reverse-linked-list
+207,Course Schedule,"Depth-first Search, Breadth-first Search, Graph, Topological Sort",44.3%,Medium,4.14951,https://leetcode.com/problems/course-schedule
+218,The Skyline Problem,"Divide and Conquer, Heap, Binary Indexed Tree, Segment Tree, Line Sweep",36.7%,Hard,11.477,https://leetcode.com/problems/the-skyline-problem
+242,Valid Anagram,"Hash Table, Sort",59.0%,Easy,0.281061,https://leetcode.com/problems/valid-anagram
+253,Meeting Rooms II,"Heap, Greedy, Sort",47.2%,Medium,7.83103,https://leetcode.com/problems/meeting-rooms-ii
+332,Reconstruct Itinerary,"Depth-first Search, Graph",38.3%,Medium,41.8964,https://leetcode.com/problems/reconstruct-itinerary
+347,Top K Frequent Elements,"Hash Table, Heap",62.7%,Medium,44.7858,https://leetcode.com/problems/top-k-frequent-elements
+355,Design Twitter,"Hash Table, Heap, Design",31.7%,Medium,56.1086,https://leetcode.com/problems/design-twitter
+380,Insert Delete GetRandom O(1),"Array, Hash Table, Design",49.2%,Medium,2.59146,https://leetcode.com/problems/insert-delete-getrandom-o1
+381,Insert Delete GetRandom O(1) - Duplicates allowed,"Array, Hash Table, Design",35.0%,Hard,0.0,https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed
+394,Decode String,"Stack, Depth-first Search",53.1%,Medium,0.281507,https://leetcode.com/problems/decode-string
+443,String Compression,String,44.3%,Medium,0.0,https://leetcode.com/problems/string-compression
+528,Random Pick with Weight,"Binary Search, Random",44.8%,Medium,16.2209,https://leetcode.com/problems/random-pick-with-weight
+564,Find the Closest Palindrome,String,20.4%,Hard,74.2122,https://leetcode.com/problems/find-the-closest-palindrome
+599,Minimum Index Sum of Two Lists,Hash Table,52.0%,Easy,100.0,https://leetcode.com/problems/minimum-index-sum-of-two-lists
+692,Top K Frequent Words,"Hash Table, Heap, Trie",53.3%,Medium,20.4998,https://leetcode.com/problems/top-k-frequent-words
+784,Letter Case Permutation,"Backtracking, Bit Manipulation",68.9%,Medium,4.09853,https://leetcode.com/problems/letter-case-permutation
+1126,Active Businesses,,68.5%,Medium,21.7461,https://leetcode.com/problems/active-businesses
+1333,"Filter Restaurants by Vegan-Friendly, Price and Distance","Array, Sort",57.5%,Medium,81.8964,https://leetcode.com/problems/filter-restaurants-by-vegan-friendly-price-and-distance
+1436,Destination City,String,77.3%,Easy,20.6413,https://leetcode.com/problems/destination-city
+1455,Check If a Word Occurs As a Prefix of Any Word in a Sentence,String,65.4%,Easy,0.0,https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence

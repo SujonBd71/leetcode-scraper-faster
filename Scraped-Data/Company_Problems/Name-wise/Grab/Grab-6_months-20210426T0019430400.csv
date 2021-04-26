@@ -1,0 +1,6 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+146,LRU Cache,Design,36.4%,Medium,0.734121,https://leetcode.com/problems/lru-cache
+984,String Without AAA or BBB,Greedy,38.8%,Medium,21.9956,https://leetcode.com/problems/string-without-aaa-or-bbb
+1017,Convert to Base -2,Math,59.3%,Medium,68.1907,https://leetcode.com/problems/convert-to-base-2
+1073,Adding Two Negabinary Numbers,Math,34.8%,Medium,100.0,https://leetcode.com/problems/adding-two-negabinary-numbers
+1405,Longest Happy String,"Dynamic Programming, Greedy",52.8%,Medium,53.805,https://leetcode.com/problems/longest-happy-string

@@ -1,0 +1,39 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+1,Two Sum,"Array, Hash Table",46.8%,Easy,3.1371,https://leetcode.com/problems/two-sum
+22,Generate Parentheses,"String, Backtracking",65.9%,Medium,14.4289,https://leetcode.com/problems/generate-parentheses
+23,Merge k Sorted Lists,"Linked List, Divide and Conquer, Heap",43.2%,Hard,3.2781,https://leetcode.com/problems/merge-k-sorted-lists
+33,Search in Rotated Sorted Array,"Array, Binary Search",36.2%,Medium,21.5445,https://leetcode.com/problems/search-in-rotated-sorted-array
+48,Rotate Image,Array,61.1%,Medium,14.9389,https://leetcode.com/problems/rotate-image
+64,Minimum Path Sum,"Array, Dynamic Programming",56.6%,Medium,5.47819,https://leetcode.com/problems/minimum-path-sum
+70,Climbing Stairs,Dynamic Programming,48.8%,Easy,4.96034,https://leetcode.com/problems/climbing-stairs
+74,Search a 2D Matrix,"Array, Binary Search",38.3%,Medium,5.96039,https://leetcode.com/problems/search-a-2d-matrix
+75,Sort Colors,"Array, Two Pointers, Sort",50.0%,Medium,8.90259,https://leetcode.com/problems/sort-colors
+114,Flatten Binary Tree to Linked List,"Tree, Depth-first Search",52.6%,Medium,7.60812,https://leetcode.com/problems/flatten-binary-tree-to-linked-list
+146,LRU Cache,Design,36.4%,Medium,12.7048,https://leetcode.com/problems/lru-cache
+151,Reverse Words in a String,String,24.3%,Medium,5.87207,https://leetcode.com/problems/reverse-words-in-a-string
+179,Largest Number,Sort,30.9%,Medium,13.0,https://leetcode.com/problems/largest-number
+199,Binary Tree Right Side View,"Tree, Depth-first Search, Breadth-first Search, Recursion, Queue",56.7%,Medium,4.18989,https://leetcode.com/problems/binary-tree-right-side-view
+200,Number of Islands,"Depth-first Search, Breadth-first Search, Union Find",49.7%,Medium,2.10909,https://leetcode.com/problems/number-of-islands
+206,Reverse Linked List,Linked List,65.9%,Easy,9.53424,https://leetcode.com/problems/reverse-linked-list
+231,Power of Two,"Math, Bit Manipulation",43.8%,Easy,37.7425,https://leetcode.com/problems/power-of-two
+238,Product of Array Except Self,Array,61.4%,Medium,2.57494,https://leetcode.com/problems/product-of-array-except-self
+240,Search a 2D Matrix II,"Binary Search, Divide and Conquer",45.5%,Medium,6.6319,https://leetcode.com/problems/search-a-2d-matrix-ii
+268,Missing Number,"Array, Math, Bit Manipulation",55.4%,Easy,3.47113,https://leetcode.com/problems/missing-number
+274,H-Index,"Hash Table, Sort",36.5%,Medium,63.2422,https://leetcode.com/problems/h-index
+277,Find the Celebrity,Array,44.2%,Medium,16.0647,https://leetcode.com/problems/find-the-celebrity
+295,Find Median from Data Stream,"Heap, Design",47.6%,Hard,22.695,https://leetcode.com/problems/find-median-from-data-stream
+311,Sparse Matrix Multiplication,Hash Table,64.2%,Medium,32.7961,https://leetcode.com/problems/sparse-matrix-multiplication
+380,Insert Delete GetRandom O(1),"Array, Hash Table, Design",49.2%,Medium,26.7235,https://leetcode.com/problems/insert-delete-getrandom-o1
+388,Longest Absolute File Path,,43.3%,Medium,35.3714,https://leetcode.com/problems/longest-absolute-file-path
+415,Add Strings,String,48.6%,Easy,4.46438,https://leetcode.com/problems/add-strings
+443,String Compression,String,44.3%,Medium,9.07651,https://leetcode.com/problems/string-compression
+531,Lonely Pixel I,"Array, Depth-first Search",59.8%,Medium,100.0,https://leetcode.com/problems/lonely-pixel-i
+532,K-diff Pairs in an Array,"Array, Two Pointers",35.6%,Medium,18.9198,https://leetcode.com/problems/k-diff-pairs-in-an-array
+622,Design Circular Queue,"Design, Queue",47.7%,Medium,2.67355,https://leetcode.com/problems/design-circular-queue
+696,Count Binary Substrings,String,61.2%,Easy,3.44986,https://leetcode.com/problems/count-binary-substrings
+739,Daily Temperatures,"Hash Table, Stack",64.9%,Medium,7.43755,https://leetcode.com/problems/daily-temperatures
+746,Min Cost Climbing Stairs,"Array, Dynamic Programming",51.2%,Easy,8.20942,https://leetcode.com/problems/min-cost-climbing-stairs
+829,Consecutive Numbers Sum,Math,39.2%,Hard,74.5002,https://leetcode.com/problems/consecutive-numbers-sum
+867,Transpose Matrix,Array,61.9%,Easy,22.4186,https://leetcode.com/problems/transpose-matrix
+939,Minimum Area Rectangle,Hash Table,52.3%,Medium,31.1262,https://leetcode.com/problems/minimum-area-rectangle
+1047,Remove All Adjacent Duplicates In String,Stack,71.5%,Easy,7.41436,https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string

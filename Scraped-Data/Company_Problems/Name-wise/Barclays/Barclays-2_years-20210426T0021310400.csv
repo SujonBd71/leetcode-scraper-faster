@@ -1,0 +1,4 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+20,Valid Parentheses,"String, Stack",40.0%,Easy,48.9801,https://leetcode.com/problems/valid-parentheses
+202,Happy Number,"Hash Table, Math",51.4%,Easy,51.0199,https://leetcode.com/problems/happy-number
+509,Fibonacci Number,Array,67.9%,Easy,100.0,https://leetcode.com/problems/fibonacci-number

@@ -1,0 +1,6 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+76,Minimum Window Substring,"Hash Table, Two Pointers, String, Sliding Window",36.3%,Hard,100.0,https://leetcode.com/problems/minimum-window-substring
+155,Min Stack,"Stack, Design",46.9%,Easy,39.8338,https://leetcode.com/problems/min-stack
+206,Reverse Linked List,Linked List,65.9%,Easy,61.478,https://leetcode.com/problems/reverse-linked-list
+543,Diameter of Binary Tree,Tree,49.7%,Easy,38.522,https://leetcode.com/problems/diameter-of-binary-tree
+1827,Minimum Operations to Make the Array Increasing,"Array, Greedy",79.2%,Easy,0.0,https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing

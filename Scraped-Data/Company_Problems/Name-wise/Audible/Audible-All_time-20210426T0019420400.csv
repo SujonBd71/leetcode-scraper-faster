@@ -1,0 +1,21 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+1,Two Sum,"Array, Hash Table",46.8%,Easy,3.37007,https://leetcode.com/problems/two-sum
+20,Valid Parentheses,"String, Stack",40.0%,Easy,1.36562,https://leetcode.com/problems/valid-parentheses
+42,Trapping Rain Water,"Array, Two Pointers, Dynamic Programming, Stack",51.8%,Hard,2.55353,https://leetcode.com/problems/trapping-rain-water
+73,Set Matrix Zeroes,Array,44.7%,Medium,9.41552,https://leetcode.com/problems/set-matrix-zeroes
+98,Validate Binary Search Tree,"Tree, Depth-first Search, Recursion",29.0%,Medium,1.99817,https://leetcode.com/problems/validate-binary-search-tree
+101,Symmetric Tree,"Tree, Depth-first Search, Breadth-first Search",48.6%,Easy,4.49288,https://leetcode.com/problems/symmetric-tree
+121,Best Time to Buy and Sell Stock,"Array, Dynamic Programming",51.9%,Easy,3.68469,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+139,Word Break,Dynamic Programming,42.0%,Medium,9.17399,https://leetcode.com/problems/word-break
+140,Word Break II,"Dynamic Programming, Backtracking",35.6%,Hard,44.6982,https://leetcode.com/problems/word-break-ii
+200,Number of Islands,"Depth-first Search, Breadth-first Search, Union Find",49.7%,Medium,13.9874,https://leetcode.com/problems/number-of-islands
+208,Implement Trie (Prefix Tree),"Design, Trie",52.8%,Medium,6.59494,https://leetcode.com/problems/implement-trie-prefix-tree
+244,Shortest Word Distance II,"Hash Table, Design",54.7%,Medium,46.4615,https://leetcode.com/problems/shortest-word-distance-ii
+472,Concatenated Words,"Dynamic Programming, Depth-first Search, Trie",43.6%,Hard,9.38974,https://leetcode.com/problems/concatenated-words
+545,Boundary of Binary Tree,Tree,40.5%,Medium,73.2308,https://leetcode.com/problems/boundary-of-binary-tree
+547,Number of Provinces,"Depth-first Search, Union Find",60.9%,Medium,2.88131,https://leetcode.com/problems/number-of-provinces
+849,Maximize Distance to Closest Person,Array,44.6%,Medium,100.0,https://leetcode.com/problems/maximize-distance-to-closest-person
+937,Reorder Data in Log Files,String,54.9%,Easy,24.377,https://leetcode.com/problems/reorder-data-in-log-files
+1200,Minimum Absolute Difference,Array,67.1%,Easy,9.61547,https://leetcode.com/problems/minimum-absolute-difference
+1228,Missing Number In Arithmetic Progression,Math,51.5%,Easy,5.96413,https://leetcode.com/problems/missing-number-in-arithmetic-progression
+1747,Leetflex Banned Accounts,,68.8%,Medium,0.0,https://leetcode.com/problems/leetflex-banned-accounts

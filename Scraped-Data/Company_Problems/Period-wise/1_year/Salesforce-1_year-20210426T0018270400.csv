@@ -1,0 +1,34 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+3,Longest Substring Without Repeating Characters,"Hash Table, Two Pointers, String, Sliding Window",31.6%,Medium,0.13317,https://leetcode.com/problems/longest-substring-without-repeating-characters
+11,Container With Most Water,"Array, Two Pointers",52.9%,Medium,0.291385,https://leetcode.com/problems/container-with-most-water
+31,Next Permutation,Array,33.9%,Medium,0.538058,https://leetcode.com/problems/next-permutation
+37,Sudoku Solver,"Hash Table, Backtracking",47.3%,Hard,1.58725,https://leetcode.com/problems/sudoku-solver
+41,First Missing Positive,Array,34.1%,Hard,0.613735,https://leetcode.com/problems/first-missing-positive
+56,Merge Intervals,"Array, Sort",41.5%,Medium,1.04453,https://leetcode.com/problems/merge-intervals
+62,Unique Paths,"Array, Dynamic Programming",56.4%,Medium,0.493304,https://leetcode.com/problems/unique-paths
+121,Best Time to Buy and Sell Stock,"Array, Dynamic Programming",51.9%,Easy,0.18128,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+127,Word Ladder,Breadth-first Search,32.3%,Hard,0.759312,https://leetcode.com/problems/word-ladder
+139,Word Break,Dynamic Programming,42.0%,Medium,0.453663,https://leetcode.com/problems/word-break
+146,LRU Cache,Design,36.4%,Medium,2.55002,https://leetcode.com/problems/lru-cache
+151,Reverse Words in a String,String,24.3%,Medium,0.756811,https://leetcode.com/problems/reverse-words-in-a-string
+215,Kth Largest Element in an Array,"Divide and Conquer, Heap",59.1%,Medium,0.881281,https://leetcode.com/problems/kth-largest-element-in-an-array
+278,First Bad Version,Binary Search,37.9%,Easy,0.526452,https://leetcode.com/problems/first-bad-version
+295,Find Median from Data Stream,"Heap, Design",47.6%,Hard,4.54346,https://leetcode.com/problems/find-median-from-data-stream
+403,Frog Jump,Dynamic Programming,41.8%,Hard,6.6484,https://leetcode.com/problems/frog-jump
+460,LFU Cache,Design,36.6%,Hard,2.13954,https://leetcode.com/problems/lfu-cache
+488,Zuma Game,Depth-first Search,38.1%,Hard,100.0,https://leetcode.com/problems/zuma-game
+495,Teemo Attacking,Array,56.1%,Medium,8.32172,https://leetcode.com/problems/teemo-attacking
+532,K-diff Pairs in an Array,"Array, Two Pointers",35.6%,Medium,2.43845,https://leetcode.com/problems/k-diff-pairs-in-an-array
+545,Boundary of Binary Tree,Tree,40.5%,Medium,2.68148,https://leetcode.com/problems/boundary-of-binary-tree
+588,Design In-Memory File System,Design,46.8%,Hard,4.84727,https://leetcode.com/problems/design-in-memory-file-system
+678,Valid Parenthesis String,String,31.8%,Medium,17.3022,https://leetcode.com/problems/valid-parenthesis-string
+696,Count Binary Substrings,String,61.2%,Easy,0.44463,https://leetcode.com/problems/count-binary-substrings
+739,Daily Temperatures,"Hash Table, Stack",64.9%,Medium,0.958577,https://leetcode.com/problems/daily-temperatures
+776,Split BST,"Tree, Recursion",56.7%,Medium,13.87,https://leetcode.com/problems/split-bst
+920,Number of Music Playlists,Dynamic Programming,48.2%,Hard,64.5516,https://leetcode.com/problems/number-of-music-playlists
+973,K Closest Points to Origin,"Divide and Conquer, Heap, Sort",64.7%,Medium,0.546861,https://leetcode.com/problems/k-closest-points-to-origin
+1110,Delete Nodes And Return Forest,"Tree, Depth-first Search",67.9%,Medium,1.93195,https://leetcode.com/problems/delete-nodes-and-return-forest
+1163,Last Substring in Lexicographical Order,"String, Suffix Array",36.2%,Hard,18.0638,https://leetcode.com/problems/last-substring-in-lexicographical-order
+1283,Find the Smallest Divisor Given a Threshold,Binary Search,50.0%,Medium,4.98755,https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold
+1465,Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts,Array,34.1%,Medium,1.60995,https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts
+1718,Construct the Lexicographically Largest Valid Sequence,"Backtracking, Recursion",47.0%,Medium,29.1033,https://leetcode.com/problems/construct-the-lexicographically-largest-valid-sequence

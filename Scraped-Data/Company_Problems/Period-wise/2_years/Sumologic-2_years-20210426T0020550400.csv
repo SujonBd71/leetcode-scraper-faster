@@ -1,0 +1,7 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+56,Merge Intervals,"Array, Sort",41.5%,Medium,0.262869,https://leetcode.com/problems/merge-intervals
+236,Lowest Common Ancestor of a Binary Tree,Tree,49.6%,Medium,0.41547,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree
+558,Logical OR of Two Binary Grids Represented as Quad-Trees,,45.7%,Medium,100.0,https://leetcode.com/problems/logical-or-of-two-binary-grids-represented-as-quad-trees
+632,Smallest Range Covering Elements from K Lists,"Hash Table, Two Pointers, String",54.7%,Hard,8.94745,https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists
+850,Rectangle Area II,"Segment Tree, Line Sweep",48.5%,Hard,60.1106,https://leetcode.com/problems/rectangle-area-ii
+981,Time Based Key-Value Store,"Hash Table, Binary Search",54.3%,Medium,20.2212,https://leetcode.com/problems/time-based-key-value-store

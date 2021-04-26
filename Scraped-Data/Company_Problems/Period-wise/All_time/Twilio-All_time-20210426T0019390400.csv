@@ -1,0 +1,23 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+1,Two Sum,"Array, Hash Table",46.8%,Easy,0.306364,https://leetcode.com/problems/two-sum
+14,Longest Common Prefix,String,36.3%,Easy,0.110444,https://leetcode.com/problems/longest-common-prefix
+17,Letter Combinations of a Phone Number,"String, Backtracking, Depth-first Search, Recursion",50.0%,Medium,6.43495,https://leetcode.com/problems/letter-combinations-of-a-phone-number
+49,Group Anagrams,"Hash Table, String",59.9%,Medium,2.89904,https://leetcode.com/problems/group-anagrams
+68,Text Justification,String,30.4%,Hard,76.9647,https://leetcode.com/problems/text-justification
+146,LRU Cache,Design,36.4%,Medium,54.8227,https://leetcode.com/problems/lru-cache
+210,Course Schedule II,"Depth-first Search, Breadth-first Search, Graph, Topological Sort",43.1%,Medium,0.255329,https://leetcode.com/problems/course-schedule-ii
+221,Maximal Square,Dynamic Programming,39.7%,Medium,1.47552,https://leetcode.com/problems/maximal-square
+225,Implement Stack using Queues,"Stack, Design",48.0%,Easy,6.04981,https://leetcode.com/problems/implement-stack-using-queues
+232,Implement Queue using Stacks,"Stack, Design",52.9%,Easy,1.05875,https://leetcode.com/problems/implement-queue-using-stacks
+239,Sliding Window Maximum,"Heap, Sliding Window, Dequeue",44.8%,Hard,0.6213,https://leetcode.com/problems/sliding-window-maximum
+295,Find Median from Data Stream,"Heap, Design",47.6%,Hard,1.13239,https://leetcode.com/problems/find-median-from-data-stream
+332,Reconstruct Itinerary,"Depth-first Search, Graph",38.3%,Medium,31.7874,https://leetcode.com/problems/reconstruct-itinerary
+380,Insert Delete GetRandom O(1),"Array, Hash Table, Design",49.2%,Medium,0.336483,https://leetcode.com/problems/insert-delete-getrandom-o1
+532,K-diff Pairs in an Array,"Array, Two Pointers",35.6%,Medium,0.944019,https://leetcode.com/problems/k-diff-pairs-in-an-array
+560,Subarray Sum Equals K,"Array, Hash Table",43.7%,Medium,2.59388,https://leetcode.com/problems/subarray-sum-equals-k
+707,Design Linked List,"Linked List, Design",26.1%,Medium,0.489306,https://leetcode.com/problems/design-linked-list
+935,Knight Dialer,Dynamic Programming,46.8%,Medium,24.0764,https://leetcode.com/problems/knight-dialer
+965,Univalued Binary Tree,Tree,68.0%,Easy,0.0,https://leetcode.com/problems/univalued-binary-tree
+974,Subarray Sums Divisible by K,"Array, Hash Table",51.1%,Medium,100.0,https://leetcode.com/problems/subarray-sums-divisible-by-k
+1507,Reformat Date,String,60.2%,Easy,0.0,https://leetcode.com/problems/reformat-date
+1636,Sort Array by Increasing Frequency,"Array, Sort",67.0%,Easy,2.47953,https://leetcode.com/problems/sort-array-by-increasing-frequency

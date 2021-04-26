@@ -1,0 +1,29 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+15,3Sum,"Array, Two Pointers",28.3%,Medium,0.742304,https://leetcode.com/problems/3sum
+36,Valid Sudoku,Hash Table,51.0%,Medium,1.7904,https://leetcode.com/problems/valid-sudoku
+37,Sudoku Solver,"Hash Table, Backtracking",47.3%,Hard,18.9926,https://leetcode.com/problems/sudoku-solver
+56,Merge Intervals,"Array, Sort",41.5%,Medium,1.75827,https://leetcode.com/problems/merge-intervals
+121,Best Time to Buy and Sell Stock,"Array, Dynamic Programming",51.9%,Easy,9.24756,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+146,LRU Cache,Design,36.4%,Medium,0.70033,https://leetcode.com/problems/lru-cache
+163,Missing Ranges,Array,27.6%,Easy,0.63118,https://leetcode.com/problems/missing-ranges
+200,Number of Islands,"Depth-first Search, Breadth-first Search, Union Find",49.7%,Medium,3.03251,https://leetcode.com/problems/number-of-islands
+207,Course Schedule,"Depth-first Search, Breadth-first Search, Graph, Topological Sort",44.3%,Medium,0.557382,https://leetcode.com/problems/course-schedule
+210,Course Schedule II,"Depth-first Search, Breadth-first Search, Graph, Topological Sort",43.1%,Medium,30.3272,https://leetcode.com/problems/course-schedule-ii
+227,Basic Calculator II,"String, Stack",38.9%,Medium,3.5947,https://leetcode.com/problems/basic-calculator-ii
+329,Longest Increasing Path in a Matrix,"Depth-first Search, Topological Sort, Memoization",46.4%,Hard,0.834684,https://leetcode.com/problems/longest-increasing-path-in-a-matrix
+355,Design Twitter,"Hash Table, Heap, Design",31.7%,Medium,17.2906,https://leetcode.com/problems/design-twitter
+695,Max Area of Island,"Array, Depth-first Search",65.3%,Medium,65.7075,https://leetcode.com/problems/max-area-of-island
+759,Employee Free Time,"Heap, Greedy",68.6%,Hard,78.7395,https://leetcode.com/problems/employee-free-time
+772,Basic Calculator III,"String, Stack",44.3%,Hard,0.0,https://leetcode.com/problems/basic-calculator-iii
+795,Number of Subarrays with Bounded Maximum,Array,48.0%,Medium,2.13108,https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum
+973,K Closest Points to Origin,"Divide and Conquer, Heap, Sort",64.7%,Medium,2.93095,https://leetcode.com/problems/k-closest-points-to-origin
+986,Interval List Intersections,Two Pointers,68.6%,Medium,0.784085,https://leetcode.com/problems/interval-list-intersections
+1152,Analyze User Website Visit Pattern,"Array, Hash Table, Sort",43.1%,Medium,10.0732,https://leetcode.com/problems/analyze-user-website-visit-pattern
+1173,Immediate Food Delivery I,,82.8%,Easy,14.8566,https://leetcode.com/problems/immediate-food-delivery-i
+1174,Immediate Food Delivery II,,62.3%,Medium,22.4396,https://leetcode.com/problems/immediate-food-delivery-ii
+1197,Minimum Knight Moves,Breadth-first Search,37.6%,Medium,10.347,https://leetcode.com/problems/minimum-knight-moves
+1229,Meeting Scheduler,"Two Pointers, Sort, Line Sweep",54.4%,Medium,44.447,https://leetcode.com/problems/meeting-scheduler
+1235,Maximum Profit in Job Scheduling,"Binary Search, Dynamic Programming, Sort",47.8%,Hard,5.75132,https://leetcode.com/problems/maximum-profit-in-job-scheduling
+1359,Count All Valid Pickup and Delivery Options,"Math, Dynamic Programming",55.9%,Hard,100.0,https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options
+1383,Maximum Performance of a Team,"Greedy, Sort",36.1%,Hard,71.1334,https://leetcode.com/problems/maximum-performance-of-a-team
+1472,Design Browser History,Design,72.2%,Medium,20.5998,https://leetcode.com/problems/design-browser-history

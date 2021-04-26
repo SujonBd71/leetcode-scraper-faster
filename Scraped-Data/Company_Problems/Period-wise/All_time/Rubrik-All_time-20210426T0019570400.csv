@@ -1,0 +1,17 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+15,3Sum,"Array, Two Pointers",28.3%,Medium,3.31327,https://leetcode.com/problems/3sum
+31,Next Permutation,Array,33.9%,Medium,31.2034,https://leetcode.com/problems/next-permutation
+48,Rotate Image,Array,61.1%,Medium,11.1761,https://leetcode.com/problems/rotate-image
+49,Group Anagrams,"Hash Table, String",59.9%,Medium,5.6381,https://leetcode.com/problems/group-anagrams
+51,N-Queens,Backtracking,50.4%,Hard,67.3285,https://leetcode.com/problems/n-queens
+157,Read N Characters Given Read4,String,37.8%,Easy,40.9782,https://leetcode.com/problems/read-n-characters-given-read4
+166,Fraction to Recurring Decimal,"Hash Table, Math",22.5%,Medium,100.0,https://leetcode.com/problems/fraction-to-recurring-decimal
+169,Majority Element,"Array, Divide and Conquer, Bit Manipulation",60.3%,Easy,10.4835,https://leetcode.com/problems/majority-element
+528,Random Pick with Weight,"Binary Search, Random",44.8%,Medium,4.32699,https://leetcode.com/problems/random-pick-with-weight
+621,Task Scheduler,"Array, Greedy, Queue",52.4%,Medium,72.1358,https://leetcode.com/problems/task-scheduler
+622,Design Circular Queue,"Design, Queue",47.7%,Medium,5.1212,https://leetcode.com/problems/design-circular-queue
+652,Find Duplicate Subtrees,Tree,53.2%,Medium,17.9272,https://leetcode.com/problems/find-duplicate-subtrees
+721,Accounts Merge,"Depth-first Search, Union Find",52.5%,Medium,10.2287,https://leetcode.com/problems/accounts-merge
+723,Candy Crush,"Array, Two Pointers",73.2%,Medium,0.0,https://leetcode.com/problems/candy-crush
+1146,Snapshot Array,Array,36.9%,Medium,73.6497,https://leetcode.com/problems/snapshot-array
+1188,Design Bounded Blocking Queue,,73.1%,Medium,23.4327,https://leetcode.com/problems/design-bounded-blocking-queue

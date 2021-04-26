@@ -1,0 +1,13 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+1,Two Sum,"Array, Hash Table",46.8%,Easy,18.7117,https://leetcode.com/problems/two-sum
+3,Longest Substring Without Repeating Characters,"Hash Table, Two Pointers, String, Sliding Window",31.6%,Medium,5.42582,https://leetcode.com/problems/longest-substring-without-repeating-characters
+5,Longest Palindromic Substring,"String, Dynamic Programming",30.7%,Medium,15.4429,https://leetcode.com/problems/longest-palindromic-substring
+15,3Sum,"Array, Two Pointers",28.3%,Medium,4.03402,https://leetcode.com/problems/3sum
+38,Count and Say,String,46.3%,Medium,17.6104,https://leetcode.com/problems/count-and-say
+53,Maximum Subarray,"Array, Divide and Conquer, Dynamic Programming",47.9%,Easy,8.07086,https://leetcode.com/problems/maximum-subarray
+146,LRU Cache,Design,36.4%,Medium,16.7321,https://leetcode.com/problems/lru-cache
+177,Nth Highest Salary,,33.7%,Medium,20.7171,https://leetcode.com/problems/nth-highest-salary
+347,Top K Frequent Elements,"Hash Table, Heap",62.7%,Medium,9.50983,https://leetcode.com/problems/top-k-frequent-elements
+410,Split Array Largest Sum,"Binary Search, Dynamic Programming",46.8%,Hard,46.3336,https://leetcode.com/problems/split-array-largest-sum
+1175,Prime Arrangements,Math,51.8%,Easy,100.0,https://leetcode.com/problems/prime-arrangements
+1353,Maximum Number of Events That Can Be Attended,"Greedy, Sort, Segment Tree",30.6%,Medium,73.1668,https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended

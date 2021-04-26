@@ -1,0 +1,27 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+1,Two Sum,"Array, Hash Table",46.8%,Easy,5.07257,https://leetcode.com/problems/two-sum
+3,Longest Substring Without Repeating Characters,"Hash Table, Two Pointers, String, Sliding Window",31.6%,Medium,2.61271,https://leetcode.com/problems/longest-substring-without-repeating-characters
+14,Longest Common Prefix,String,36.3%,Easy,1.40129,https://leetcode.com/problems/longest-common-prefix
+15,3Sum,"Array, Two Pointers",28.3%,Medium,2.45809,https://leetcode.com/problems/3sum
+20,Valid Parentheses,"String, Stack",40.0%,Easy,0.914329,https://leetcode.com/problems/valid-parentheses
+53,Maximum Subarray,"Array, Divide and Conquer, Dynamic Programming",47.9%,Easy,8.70966,https://leetcode.com/problems/maximum-subarray
+56,Merge Intervals,"Array, Sort",41.5%,Medium,25.5834,https://leetcode.com/problems/merge-intervals
+93,Restore IP Addresses,"String, Backtracking",38.0%,Medium,28.2778,https://leetcode.com/problems/restore-ip-addresses
+130,Surrounded Regions,"Depth-first Search, Breadth-first Search, Union Find",29.9%,Medium,100.0,https://leetcode.com/problems/surrounded-regions
+133,Clone Graph,"Depth-first Search, Breadth-first Search, Graph",40.1%,Medium,31.7259,https://leetcode.com/problems/clone-graph
+143,Reorder List,Linked List,41.3%,Medium,68.4595,https://leetcode.com/problems/reorder-list
+146,LRU Cache,Design,36.4%,Medium,12.5255,https://leetcode.com/problems/lru-cache
+169,Majority Element,"Array, Divide and Conquer, Bit Manipulation",60.3%,Easy,5.00315,https://leetcode.com/problems/majority-element
+198,House Robber,Dynamic Programming,43.2%,Medium,2.46385,https://leetcode.com/problems/house-robber
+200,Number of Islands,"Depth-first Search, Breadth-first Search, Union Find",49.7%,Medium,39.2689,https://leetcode.com/problems/number-of-islands
+236,Lowest Common Ancestor of a Binary Tree,Tree,49.6%,Medium,4.56582,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree
+238,Product of Array Except Self,Array,61.4%,Medium,6.49705,https://leetcode.com/problems/product-of-array-except-self
+273,Integer to English Words,"Math, String",28.4%,Hard,26.148,https://leetcode.com/problems/integer-to-english-words
+283,Move Zeroes,"Array, Two Pointers",58.7%,Easy,5.77761,https://leetcode.com/problems/move-zeroes
+378,Kth Smallest Element in a Sorted Matrix,"Binary Search, Heap",56.6%,Medium,14.6223,https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix
+394,Decode String,"Stack, Depth-first Search",53.1%,Medium,16.1441,https://leetcode.com/problems/decode-string
+416,Partition Equal Subset Sum,Dynamic Programming,45.0%,Medium,4.49595,https://leetcode.com/problems/partition-equal-subset-sum
+498,Diagonal Traverse,,50.6%,Medium,78.9566,https://leetcode.com/problems/diagonal-traverse
+622,Design Circular Queue,"Design, Queue",47.7%,Medium,6.74493,https://leetcode.com/problems/design-circular-queue
+708,Insert into a Sorted Circular Linked List,Linked List,32.7%,Medium,60.3123,https://leetcode.com/problems/insert-into-a-sorted-circular-linked-list
+977,Squares of a Sorted Array,"Array, Two Pointers",71.8%,Easy,6.95577,https://leetcode.com/problems/squares-of-a-sorted-array

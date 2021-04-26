@@ -1,0 +1,8 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+41,First Missing Positive,Array,34.1%,Hard,27.361,https://leetcode.com/problems/first-missing-positive
+49,Group Anagrams,"Hash Table, String",59.9%,Medium,16.9184,https://leetcode.com/problems/group-anagrams
+221,Maximal Square,Dynamic Programming,39.7%,Medium,42.9209,https://leetcode.com/problems/maximal-square
+253,Meeting Rooms II,"Heap, Greedy, Sort",47.2%,Medium,26.4316,https://leetcode.com/problems/meeting-rooms-ii
+289,Game of Life,Array,59.0%,Medium,71.4604,https://leetcode.com/problems/game-of-life
+347,Top K Frequent Elements,"Hash Table, Heap",62.7%,Medium,23.3983,https://leetcode.com/problems/top-k-frequent-elements
+362,Design Hit Counter,Design,65.6%,Medium,100.0,https://leetcode.com/problems/design-hit-counter

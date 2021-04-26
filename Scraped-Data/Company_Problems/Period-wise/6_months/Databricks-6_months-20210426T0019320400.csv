@@ -1,0 +1,8 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+23,Merge k Sorted Lists,"Linked List, Divide and Conquer, Heap",43.2%,Hard,5.89312,https://leetcode.com/problems/merge-k-sorted-lists
+42,Trapping Rain Water,"Array, Two Pointers, Dynamic Programming, Stack",51.8%,Hard,4.86014,https://leetcode.com/problems/trapping-rain-water
+68,Text Justification,String,30.4%,Hard,11.4311,https://leetcode.com/problems/text-justification
+380,Insert Delete GetRandom O(1),"Array, Hash Table, Design",49.2%,Medium,5.39846,https://leetcode.com/problems/insert-delete-getrandom-o1
+742,Closest Leaf in a Binary Tree,Tree,44.6%,Medium,67.208,https://leetcode.com/problems/closest-leaf-in-a-binary-tree
+1235,Maximum Profit in Job Scheduling,"Binary Search, Dynamic Programming, Sort",47.8%,Hard,34.4161,https://leetcode.com/problems/maximum-profit-in-job-scheduling
+1242,Web Crawler Multithreaded,"Depth-first Search, Breadth-first Search",47.8%,Medium,100.0,https://leetcode.com/problems/web-crawler-multithreaded

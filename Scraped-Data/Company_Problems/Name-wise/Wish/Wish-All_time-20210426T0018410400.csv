@@ -1,0 +1,54 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+4,Median of Two Sorted Arrays,"Array, Binary Search, Divide and Conquer",31.5%,Hard,1.30287,https://leetcode.com/problems/median-of-two-sorted-arrays
+6,ZigZag Conversion,String,38.4%,Medium,3.59879,https://leetcode.com/problems/zigzag-conversion
+21,Merge Two Sorted Lists,"Linked List, Recursion",56.5%,Easy,1.71496,https://leetcode.com/problems/merge-two-sorted-lists
+22,Generate Parentheses,"String, Backtracking",65.9%,Medium,3.79105,https://leetcode.com/problems/generate-parentheses
+23,Merge k Sorted Lists,"Linked List, Divide and Conquer, Heap",43.2%,Hard,50.405,https://leetcode.com/problems/merge-k-sorted-lists
+37,Sudoku Solver,"Hash Table, Backtracking",47.3%,Hard,7.22873,https://leetcode.com/problems/sudoku-solver
+41,First Missing Positive,Array,34.1%,Hard,11.0648,https://leetcode.com/problems/first-missing-positive
+42,Trapping Rain Water,"Array, Two Pointers, Dynamic Programming, Stack",51.8%,Hard,20.724,https://leetcode.com/problems/trapping-rain-water
+49,Group Anagrams,"Hash Table, String",59.9%,Medium,6.88728,https://leetcode.com/problems/group-anagrams
+56,Merge Intervals,"Array, Sort",41.5%,Medium,10.6178,https://leetcode.com/problems/merge-intervals
+64,Minimum Path Sum,"Array, Dynamic Programming",56.6%,Medium,5.71365,https://leetcode.com/problems/minimum-path-sum
+88,Merge Sorted Array,"Array, Two Pointers",40.9%,Easy,1.33098,https://leetcode.com/problems/merge-sorted-array
+96,Unique Binary Search Trees,"Dynamic Programming, Tree",54.8%,Medium,17.6718,https://leetcode.com/problems/unique-binary-search-trees
+112,Path Sum,"Tree, Depth-first Search",42.7%,Easy,6.8498,https://leetcode.com/problems/path-sum
+125,Valid Palindrome,"Two Pointers, String",38.6%,Easy,1.51574,https://leetcode.com/problems/valid-palindrome
+128,Longest Consecutive Sequence,"Array, Union Find",46.6%,Hard,4.33882,https://leetcode.com/problems/longest-consecutive-sequence
+146,LRU Cache,Design,36.4%,Medium,16.5054,https://leetcode.com/problems/lru-cache
+153,Find Minimum in Rotated Sorted Array,"Array, Binary Search",46.5%,Medium,4.94475,https://leetcode.com/problems/find-minimum-in-rotated-sorted-array
+154,Find Minimum in Rotated Sorted Array II,"Array, Binary Search",42.2%,Hard,3.6097,https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii
+155,Min Stack,"Stack, Design",46.9%,Easy,6.44048,https://leetcode.com/problems/min-stack
+172,Factorial Trailing Zeroes,Math,38.8%,Easy,2.94504,https://leetcode.com/problems/factorial-trailing-zeroes
+200,Number of Islands,"Depth-first Search, Breadth-first Search, Union Find",49.7%,Medium,16.2976,https://leetcode.com/problems/number-of-islands
+207,Course Schedule,"Depth-first Search, Breadth-first Search, Graph, Topological Sort",44.3%,Medium,4.13735,https://leetcode.com/problems/course-schedule
+209,Minimum Size Subarray Sum,"Array, Two Pointers, Binary Search",39.9%,Medium,11.1192,https://leetcode.com/problems/minimum-size-subarray-sum
+224,Basic Calculator,"Math, Stack",38.3%,Hard,2.94736,https://leetcode.com/problems/basic-calculator
+239,Sliding Window Maximum,"Heap, Sliding Window, Dequeue",44.8%,Hard,5.79015,https://leetcode.com/problems/sliding-window-maximum
+253,Meeting Rooms II,"Heap, Greedy, Sort",47.2%,Medium,7.4702,https://leetcode.com/problems/meeting-rooms-ii
+282,Expression Add Operators,Divide and Conquer,37.0%,Hard,6.67732,https://leetcode.com/problems/expression-add-operators
+287,Find the Duplicate Number,"Array, Two Pointers, Binary Search",58.0%,Medium,3.62542,https://leetcode.com/problems/find-the-duplicate-number
+311,Sparse Matrix Multiplication,Hash Table,64.2%,Medium,69.427,https://leetcode.com/problems/sparse-matrix-multiplication
+314,Binary Tree Vertical Order Traversal,"Depth-first Search, Breadth-first Search",47.4%,Medium,16.9645,https://leetcode.com/problems/binary-tree-vertical-order-traversal
+340,Longest Substring with At Most K Distinct Characters,"Hash Table, Two Pointers, String, Sliding Window",45.8%,Medium,11.0575,https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters
+377,Combination Sum IV,Dynamic Programming,47.1%,Medium,0.803263,https://leetcode.com/problems/combination-sum-iv
+381,Insert Delete GetRandom O(1) - Duplicates allowed,"Array, Hash Table, Design",35.0%,Hard,7.869,https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed
+388,Longest Absolute File Path,,43.3%,Medium,35.4614,https://leetcode.com/problems/longest-absolute-file-path
+403,Frog Jump,Dynamic Programming,41.8%,Hard,13.5533,https://leetcode.com/problems/frog-jump
+424,Longest Repeating Character Replacement,"Two Pointers, Sliding Window",48.5%,Medium,7.65761,https://leetcode.com/problems/longest-repeating-character-replacement
+528,Random Pick with Weight,"Binary Search, Random",44.8%,Medium,35.6443,https://leetcode.com/problems/random-pick-with-weight
+560,Subarray Sum Equals K,"Array, Hash Table",43.7%,Medium,1.96134,https://leetcode.com/problems/subarray-sum-equals-k
+616,Add Bold Tag in String,String,45.0%,Medium,13.2933,https://leetcode.com/problems/add-bold-tag-in-string
+680,Valid Palindrome II,String,37.2%,Easy,1.36111,https://leetcode.com/problems/valid-palindrome-ii
+695,Max Area of Island,"Array, Depth-first Search",65.3%,Medium,9.7102,https://leetcode.com/problems/max-area-of-island
+729,My Calendar I,Array,53.7%,Medium,4.30816,https://leetcode.com/problems/my-calendar-i
+767,Reorganize String,"String, Heap, Greedy, Sort",50.3%,Medium,45.6456,https://leetcode.com/problems/reorganize-string
+781,Rabbits in Forest,"Hash Table, Math",55.8%,Medium,0.0,https://leetcode.com/problems/rabbits-in-forest
+845,Longest Mountain in Array,Two Pointers,38.7%,Medium,88.449,https://leetcode.com/problems/longest-mountain-in-array
+900,RLE Iterator,Array,55.8%,Medium,25.2153,https://leetcode.com/problems/rle-iterator
+1129,Shortest Path with Alternating Colors,"Breadth-first Search, Graph",40.5%,Medium,100.0,https://leetcode.com/problems/shortest-path-with-alternating-colors
+1152,Analyze User Website Visit Pattern,"Array, Hash Table, Sort",43.1%,Medium,15.3088,https://leetcode.com/problems/analyze-user-website-visit-pattern
+1193,Monthly Transactions I,,69.0%,Medium,0.0,https://leetcode.com/problems/monthly-transactions-i
+1205,Monthly Transactions II,,45.7%,Medium,0.0,https://leetcode.com/problems/monthly-transactions-ii
+1472,Design Browser History,Design,72.2%,Medium,6.6379,https://leetcode.com/problems/design-browser-history
+1606,Find Servers That Handled Most Number of Requests,Ordered Map,37.6%,Hard,0.0,https://leetcode.com/problems/find-servers-that-handled-most-number-of-requests

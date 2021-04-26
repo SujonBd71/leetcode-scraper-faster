@@ -1,0 +1,13 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+1,Two Sum,"Array, Hash Table",46.8%,Easy,20.344,https://leetcode.com/problems/two-sum
+20,Valid Parentheses,"String, Stack",40.0%,Easy,27.5021,https://leetcode.com/problems/valid-parentheses
+76,Minimum Window Substring,"Hash Table, Two Pointers, String, Sliding Window",36.3%,Hard,2.99081,https://leetcode.com/problems/minimum-window-substring
+139,Word Break,Dynamic Programming,42.0%,Medium,8.99261,https://leetcode.com/problems/word-break
+146,LRU Cache,Design,36.4%,Medium,59.3907,https://leetcode.com/problems/lru-cache
+169,Majority Element,"Array, Divide and Conquer, Bit Manipulation",60.3%,Easy,2.25903,https://leetcode.com/problems/majority-element
+253,Meeting Rooms II,"Heap, Greedy, Sort",47.2%,Medium,18.2485,https://leetcode.com/problems/meeting-rooms-ii
+290,Word Pattern,Hash Table,38.5%,Easy,37.5077,https://leetcode.com/problems/word-pattern
+441,Arranging Coins,"Math, Binary Search",42.7%,Easy,100.0,https://leetcode.com/problems/arranging-coins
+443,String Compression,String,44.3%,Medium,0.0,https://leetcode.com/problems/string-compression
+724,Find Pivot Index,Array,46.3%,Easy,25.214,https://leetcode.com/problems/find-pivot-index
+1236,Web Crawler,"Depth-first Search, Breadth-first Search",64.8%,Medium,78.1169,https://leetcode.com/problems/web-crawler

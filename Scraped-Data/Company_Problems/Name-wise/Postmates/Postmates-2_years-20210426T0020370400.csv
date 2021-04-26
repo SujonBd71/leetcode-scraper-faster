@@ -1,0 +1,9 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+15,3Sum,"Array, Two Pointers",28.3%,Medium,1.16187,https://leetcode.com/problems/3sum
+36,Valid Sudoku,Hash Table,51.0%,Medium,3.87905,https://leetcode.com/problems/valid-sudoku
+56,Merge Intervals,"Array, Sort",41.5%,Medium,8.4637,https://leetcode.com/problems/merge-intervals
+227,Basic Calculator II,"String, Stack",38.9%,Medium,5.79798,https://leetcode.com/problems/basic-calculator-ii
+253,Meeting Rooms II,"Heap, Greedy, Sort",47.2%,Medium,3.07208,https://leetcode.com/problems/meeting-rooms-ii
+301,Remove Invalid Parentheses,"Depth-first Search, Breadth-first Search",45.0%,Hard,48.6892,https://leetcode.com/problems/remove-invalid-parentheses
+1190,Reverse Substrings Between Each Pair of Parentheses,Stack,64.3%,Medium,100.0,https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses
+1324,Print Words Vertically,String,59.0%,Medium,59.7745,https://leetcode.com/problems/print-words-vertically

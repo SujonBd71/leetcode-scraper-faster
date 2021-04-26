@@ -1,0 +1,15 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+44,Wildcard Matching,"String, Dynamic Programming, Backtracking, Greedy",25.6%,Hard,32.1273,https://leetcode.com/problems/wildcard-matching
+105,Construct Binary Tree from Preorder and Inorder Traversal,"Array, Tree, Depth-first Search",52.6%,Medium,7.31628,https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal
+121,Best Time to Buy and Sell Stock,"Array, Dynamic Programming",51.9%,Easy,2.04512,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+127,Word Ladder,Breadth-first Search,32.3%,Hard,8.56622,https://leetcode.com/problems/word-ladder
+200,Number of Islands,"Depth-first Search, Breadth-first Search, Union Find",49.7%,Medium,27.3844,https://leetcode.com/problems/number-of-islands
+239,Sliding Window Maximum,"Heap, Sliding Window, Dequeue",44.8%,Hard,32.0428,https://leetcode.com/problems/sliding-window-maximum
+259,3Sum Smaller,"Array, Two Pointers",49.3%,Medium,50.1857,https://leetcode.com/problems/3sum-smaller
+282,Expression Add Operators,Divide and Conquer,37.0%,Hard,81.9416,https://leetcode.com/problems/expression-add-operators
+460,LFU Cache,Design,36.6%,Hard,24.1374,https://leetcode.com/problems/lfu-cache
+588,Design In-Memory File System,Design,46.8%,Hard,54.6848,https://leetcode.com/problems/design-in-memory-file-system
+752,Open the Lock,Breadth-first Search,53.0%,Medium,74.3272,https://leetcode.com/problems/open-the-lock
+829,Consecutive Numbers Sum,Math,39.2%,Hard,100.0,https://leetcode.com/problems/consecutive-numbers-sum
+1248,Count Number of Nice Subarrays,Two Pointers,56.2%,Medium,64.291,https://leetcode.com/problems/count-number-of-nice-subarrays
+1395,Count Number of Teams,Array,74.6%,Medium,30.9895,https://leetcode.com/problems/count-number-of-teams

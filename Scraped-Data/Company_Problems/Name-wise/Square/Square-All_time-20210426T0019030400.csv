@@ -1,0 +1,32 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+15,3Sum,"Array, Two Pointers",28.3%,Medium,1.65074,https://leetcode.com/problems/3sum
+17,Letter Combinations of a Phone Number,"String, Backtracking, Depth-first Search, Recursion",50.0%,Medium,4.65543,https://leetcode.com/problems/letter-combinations-of-a-phone-number
+39,Combination Sum,"Array, Backtracking",59.9%,Medium,1.41562,https://leetcode.com/problems/combination-sum
+43,Multiply Strings,"Math, String",35.2%,Medium,16.8526,https://leetcode.com/problems/multiply-strings
+53,Maximum Subarray,"Array, Divide and Conquer, Dynamic Programming",47.9%,Easy,0.23606,https://leetcode.com/problems/maximum-subarray
+56,Merge Intervals,"Array, Sort",41.5%,Medium,4.92198,https://leetcode.com/problems/merge-intervals
+68,Text Justification,String,30.4%,Hard,47.5757,https://leetcode.com/problems/text-justification
+72,Edit Distance,"String, Dynamic Programming",47.2%,Hard,86.3143,https://leetcode.com/problems/edit-distance
+91,Decode Ways,"String, Dynamic Programming",27.0%,Medium,47.6163,https://leetcode.com/problems/decode-ways
+105,Construct Binary Tree from Preorder and Inorder Traversal,"Array, Tree, Depth-first Search",52.6%,Medium,9.22284,https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal
+122,Best Time to Buy and Sell Stock II,"Array, Greedy",58.9%,Easy,0.453108,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii
+139,Word Break,Dynamic Programming,42.0%,Medium,1.21355,https://leetcode.com/problems/word-break
+165,Compare Version Numbers,String,30.7%,Medium,17.6657,https://leetcode.com/problems/compare-version-numbers
+200,Number of Islands,"Depth-first Search, Breadth-first Search, Union Find",49.7%,Medium,2.8918,https://leetcode.com/problems/number-of-islands
+208,Implement Trie (Prefix Tree),"Design, Trie",52.8%,Medium,9.42557,https://leetcode.com/problems/implement-trie-prefix-tree
+271,Encode and Decode Strings,String,33.2%,Medium,71.988,https://leetcode.com/problems/encode-and-decode-strings
+273,Integer to English Words,"Math, String",28.4%,Hard,42.8041,https://leetcode.com/problems/integer-to-english-words
+289,Game of Life,Array,59.0%,Medium,28.1724,https://leetcode.com/problems/game-of-life
+297,Serialize and Deserialize Binary Tree,"Tree, Design",50.4%,Hard,3.3746,https://leetcode.com/problems/serialize-and-deserialize-binary-tree
+332,Reconstruct Itinerary,"Depth-first Search, Graph",38.3%,Medium,6.4731,https://leetcode.com/problems/reconstruct-itinerary
+336,Palindrome Pairs,"Hash Table, String, Trie",35.0%,Hard,57.6616,https://leetcode.com/problems/palindrome-pairs
+359,Logger Rate Limiter,"Hash Table, Design",72.7%,Easy,4.2208,https://leetcode.com/problems/logger-rate-limiter
+388,Longest Absolute File Path,,43.3%,Medium,31.3254,https://leetcode.com/problems/longest-absolute-file-path
+415,Add Strings,String,48.6%,Easy,13.3522,https://leetcode.com/problems/add-strings
+573,Squirrel Simulation,Math,54.2%,Medium,0.0,https://leetcode.com/problems/squirrel-simulation
+699,Falling Squares,"Segment Tree, Ordered Map",43.4%,Hard,0.0,https://leetcode.com/problems/falling-squares
+815,Bus Routes,Breadth-first Search,43.6%,Hard,16.0482,https://leetcode.com/problems/bus-routes
+969,Pancake Sorting,"Array, Sort",68.8%,Medium,100.0,https://leetcode.com/problems/pancake-sorting
+999,Available Captures for Rook,Array,67.7%,Easy,52.9276,https://leetcode.com/problems/available-captures-for-rook
+1336,Number of Transactions per Visit,,49.4%,Hard,18.6346,https://leetcode.com/problems/number-of-transactions-per-visit
+1814,Count Nice Pairs in an Array,"Array, Hash Table",38.4%,Medium,0.0,https://leetcode.com/problems/count-nice-pairs-in-an-array

@@ -1,0 +1,36 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+1,Two Sum,"Array, Hash Table",46.8%,Easy,0.0726958,https://leetcode.com/problems/two-sum
+5,Longest Palindromic Substring,"String, Dynamic Programming",30.7%,Medium,0.0599672,https://leetcode.com/problems/longest-palindromic-substring
+34,Find First and Last Position of Element in Sorted Array,"Array, Binary Search",37.6%,Medium,0.12163,https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array
+39,Combination Sum,"Array, Backtracking",59.9%,Medium,20.5682,https://leetcode.com/problems/combination-sum
+42,Trapping Rain Water,"Array, Two Pointers, Dynamic Programming, Stack",51.8%,Hard,0.219711,https://leetcode.com/problems/trapping-rain-water
+68,Text Justification,String,30.4%,Hard,3.12208,https://leetcode.com/problems/text-justification
+125,Valid Palindrome,"Two Pointers, String",38.6%,Easy,0.0929265,https://leetcode.com/problems/valid-palindrome
+160,Intersection of Two Linked Lists,Linked List,44.7%,Easy,0.131314,https://leetcode.com/problems/intersection-of-two-linked-lists
+166,Fraction to Recurring Decimal,"Hash Table, Math",22.5%,Medium,46.5797,https://leetcode.com/problems/fraction-to-recurring-decimal
+212,Word Search II,"Backtracking, Trie",37.6%,Hard,0.29421,https://leetcode.com/problems/word-search-ii
+236,Lowest Common Ancestor of a Binary Tree,Tree,49.6%,Medium,0.261,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree
+251,Flatten 2D Vector,Design,46.5%,Medium,72.9209,https://leetcode.com/problems/flatten-2d-vector
+269,Alien Dictionary,"Graph, Topological Sort",33.8%,Hard,29.5231,https://leetcode.com/problems/alien-dictionary
+280,Wiggle Sort,"Array, Sort",64.9%,Medium,2.01438,https://leetcode.com/problems/wiggle-sort
+322,Coin Change,Dynamic Programming,37.8%,Medium,1.72719,https://leetcode.com/problems/coin-change
+324,Wiggle Sort II,Sort,30.9%,Medium,4.10912,https://leetcode.com/problems/wiggle-sort-ii
+336,Palindrome Pairs,"Hash Table, String, Trie",35.0%,Hard,100.0,https://leetcode.com/problems/palindrome-pairs
+341,Flatten Nested List Iterator,"Stack, Design",56.0%,Medium,1.35159,https://leetcode.com/problems/flatten-nested-list-iterator
+588,Design In-Memory File System,Design,46.8%,Hard,2.99771,https://leetcode.com/problems/design-in-memory-file-system
+591,Tag Validator,"String, Stack",35.0%,Hard,7.36197,https://leetcode.com/problems/tag-validator
+622,Design Circular Queue,"Design, Queue",47.7%,Medium,0.0967522,https://leetcode.com/problems/design-circular-queue
+751,IP to CIDR,Bit Manipulation,59.0%,Medium,32.6222,https://leetcode.com/problems/ip-to-cidr
+755,Pour Water,Array,44.3%,Medium,99.262,https://leetcode.com/problems/pour-water
+756,Pyramid Transition Matrix,"Bit Manipulation, Depth-first Search",55.7%,Medium,5.92264,https://leetcode.com/problems/pyramid-transition-matrix
+759,Employee Free Time,"Heap, Greedy",68.6%,Hard,6.91511,https://leetcode.com/problems/employee-free-time
+773,Sliding Puzzle,Breadth-first Search,61.2%,Hard,38.392,https://leetcode.com/problems/sliding-puzzle
+787,Cheapest Flights Within K Stops,"Dynamic Programming, Heap, Breadth-first Search",39.7%,Medium,27.7384,https://leetcode.com/problems/cheapest-flights-within-k-stops
+829,Consecutive Numbers Sum,Math,39.2%,Hard,1.22148,https://leetcode.com/problems/consecutive-numbers-sum
+864,Shortest Path to Get All Keys,"Heap, Breadth-first Search",42.4%,Hard,25.3128,https://leetcode.com/problems/shortest-path-to-get-all-keys
+875,Koko Eating Bananas,Binary Search,53.5%,Medium,24.4457,https://leetcode.com/problems/koko-eating-bananas
+953,Verifying an Alien Dictionary,Hash Table,52.5%,Easy,0.0773428,https://leetcode.com/problems/verifying-an-alien-dictionary
+1058,Minimize Rounding Error to Meet Target,"Math, Dynamic Programming, Greedy",44.1%,Medium,11.586,https://leetcode.com/problems/minimize-rounding-error-to-meet-target
+1166,Design File System,"Hash Table, Design",58.6%,Medium,38.0754,https://leetcode.com/problems/design-file-system
+1235,Maximum Profit in Job Scheduling,"Binary Search, Dynamic Programming, Sort",47.8%,Hard,5.88008,https://leetcode.com/problems/maximum-profit-in-job-scheduling
+1257,Smallest Common Region,Tree,61.2%,Medium,18.4553,https://leetcode.com/problems/smallest-common-region

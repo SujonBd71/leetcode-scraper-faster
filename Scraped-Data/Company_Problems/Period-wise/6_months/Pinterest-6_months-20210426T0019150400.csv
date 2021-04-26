@@ -1,0 +1,10 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+37,Sudoku Solver,"Hash Table, Backtracking",47.3%,Hard,20.1141,https://leetcode.com/problems/sudoku-solver
+79,Word Search,"Array, Backtracking",37.3%,Medium,6.70526,https://leetcode.com/problems/word-search
+208,Implement Trie (Prefix Tree),"Design, Trie",52.8%,Medium,45.2717,https://leetcode.com/problems/implement-trie-prefix-tree
+210,Course Schedule II,"Depth-first Search, Breadth-first Search, Graph, Topological Sort",43.1%,Medium,8.35773,https://leetcode.com/problems/course-schedule-ii
+269,Alien Dictionary,"Graph, Topological Sort",33.8%,Hard,71.0419,https://leetcode.com/problems/alien-dictionary
+621,Task Scheduler,"Array, Greedy, Queue",52.4%,Medium,28.995,https://leetcode.com/problems/task-scheduler
+726,Number of Atoms,"Hash Table, Stack, Recursion",51.0%,Hard,83.7233,https://leetcode.com/problems/number-of-atoms
+759,Employee Free Time,"Heap, Greedy",68.6%,Hard,100.0,https://leetcode.com/problems/employee-free-time
+811,Subdomain Visit Count,Hash Table,71.8%,Easy,57.2132,https://leetcode.com/problems/subdomain-visit-count

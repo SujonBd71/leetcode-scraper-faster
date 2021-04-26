@@ -1,0 +1,10 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+1,Two Sum,"Array, Hash Table",46.8%,Easy,1.7217,https://leetcode.com/problems/two-sum
+42,Trapping Rain Water,"Array, Two Pointers, Dynamic Programming, Stack",51.8%,Hard,9.25878,https://leetcode.com/problems/trapping-rain-water
+51,N-Queens,Backtracking,50.4%,Hard,41.6163,https://leetcode.com/problems/n-queens
+88,Merge Sorted Array,"Array, Two Pointers",40.9%,Easy,7.72337,https://leetcode.com/problems/merge-sorted-array
+200,Number of Islands,"Depth-first Search, Breadth-first Search, Union Find",49.7%,Medium,28.817,https://leetcode.com/problems/number-of-islands
+218,The Skyline Problem,"Divide and Conquer, Heap, Binary Indexed Tree, Segment Tree, Line Sweep",36.7%,Hard,63.0879,https://leetcode.com/problems/the-skyline-problem
+238,Product of Array Except Self,Array,61.4%,Medium,100.0,https://leetcode.com/problems/product-of-array-except-self
+460,LFU Cache,Design,36.6%,Hard,56.8719,https://leetcode.com/problems/lfu-cache
+706,Design HashMap,"Hash Table, Design",64.0%,Easy,80.4418,https://leetcode.com/problems/design-hashmap

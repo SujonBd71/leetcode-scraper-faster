@@ -1,0 +1,34 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+5,Longest Palindromic Substring,"String, Dynamic Programming",30.7%,Medium,0.320741,https://leetcode.com/problems/longest-palindromic-substring
+17,Letter Combinations of a Phone Number,"String, Backtracking, Depth-first Search, Recursion",50.0%,Medium,0.521619,https://leetcode.com/problems/letter-combinations-of-a-phone-number
+22,Generate Parentheses,"String, Backtracking",65.9%,Medium,0.312191,https://leetcode.com/problems/generate-parentheses
+23,Merge k Sorted Lists,"Linked List, Divide and Conquer, Heap",43.2%,Hard,0.282275,https://leetcode.com/problems/merge-k-sorted-lists
+33,Search in Rotated Sorted Array,"Array, Binary Search",36.2%,Medium,0.46731,https://leetcode.com/problems/search-in-rotated-sorted-array
+40,Combination Sum II,"Array, Backtracking",50.5%,Medium,0.652579,https://leetcode.com/problems/combination-sum-ii
+45,Jump Game II,"Array, Greedy",31.8%,Medium,23.0815,https://leetcode.com/problems/jump-game-ii
+49,Group Anagrams,"Hash Table, String",59.9%,Medium,0.25355,https://leetcode.com/problems/group-anagrams
+55,Jump Game,"Array, Greedy",35.3%,Medium,1.45257,https://leetcode.com/problems/jump-game
+56,Merge Intervals,"Array, Sort",41.5%,Medium,0.174964,https://leetcode.com/problems/merge-intervals
+74,Search a 2D Matrix,"Array, Binary Search",38.3%,Medium,0.513246,https://leetcode.com/problems/search-a-2d-matrix
+128,Longest Consecutive Sequence,"Array, Union Find",46.6%,Hard,0.634707,https://leetcode.com/problems/longest-consecutive-sequence
+138,Copy List with Random Pointer,"Hash Table, Linked List",41.7%,Medium,0.434462,https://leetcode.com/problems/copy-list-with-random-pointer
+146,LRU Cache,Design,36.4%,Medium,2.44348,https://leetcode.com/problems/lru-cache
+200,Number of Islands,"Depth-first Search, Breadth-first Search, Union Find",49.7%,Medium,0.181612,https://leetcode.com/problems/number-of-islands
+207,Course Schedule,"Depth-first Search, Breadth-first Search, Graph, Topological Sort",44.3%,Medium,0.340866,https://leetcode.com/problems/course-schedule
+234,Palindrome Linked List,"Linked List, Two Pointers",42.2%,Easy,0.410025,https://leetcode.com/problems/palindrome-linked-list
+238,Product of Array Except Self,Array,61.4%,Medium,0.883723,https://leetcode.com/problems/product-of-array-except-self
+253,Meeting Rooms II,"Heap, Greedy, Sort",47.2%,Medium,1.57436,https://leetcode.com/problems/meeting-rooms-ii
+273,Integer to English Words,"Math, String",28.4%,Hard,3.55663,https://leetcode.com/problems/integer-to-english-words
+283,Move Zeroes,"Array, Two Pointers",58.7%,Easy,0.197096,https://leetcode.com/problems/move-zeroes
+287,Find the Duplicate Number,"Array, Two Pointers, Binary Search",58.0%,Medium,0.298485,https://leetcode.com/problems/find-the-duplicate-number
+336,Palindrome Pairs,"Hash Table, String, Trie",35.0%,Hard,2.38995,https://leetcode.com/problems/palindrome-pairs
+350,Intersection of Two Arrays II,"Hash Table, Two Pointers, Binary Search, Sort",52.2%,Easy,0.753705,https://leetcode.com/problems/intersection-of-two-arrays-ii
+403,Frog Jump,Dynamic Programming,41.8%,Hard,11.8457,https://leetcode.com/problems/frog-jump
+460,LFU Cache,Design,36.6%,Hard,1.42947,https://leetcode.com/problems/lfu-cache
+564,Find the Closest Palindrome,String,20.4%,Hard,6.1441,https://leetcode.com/problems/find-the-closest-palindrome
+703,Kth Largest Element in a Stream,"Heap, Design",51.0%,Easy,2.50513,https://leetcode.com/problems/kth-largest-element-in-a-stream
+763,Partition Labels,"Two Pointers, Greedy",78.1%,Medium,1.76947,https://leetcode.com/problems/partition-labels
+853,Car Fleet,Sort,44.6%,Medium,21.2419,https://leetcode.com/problems/car-fleet
+977,Squares of a Sorted Array,"Array, Two Pointers",71.8%,Easy,0.533386,https://leetcode.com/problems/squares-of-a-sorted-array
+991,Broken Calculator,"Math, Greedy",49.7%,Medium,100.0,https://leetcode.com/problems/broken-calculator
+1052,Grumpy Bookstore Owner,"Array, Sliding Window",56.0%,Medium,61.5408,https://leetcode.com/problems/grumpy-bookstore-owner

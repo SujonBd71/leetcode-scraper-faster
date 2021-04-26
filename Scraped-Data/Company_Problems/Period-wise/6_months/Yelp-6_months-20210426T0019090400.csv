@@ -1,0 +1,5 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+347,Top K Frequent Elements,"Hash Table, Heap",62.7%,Medium,3.16406,https://leetcode.com/problems/top-k-frequent-elements
+355,Design Twitter,"Hash Table, Heap, Design",31.7%,Medium,7.42536,https://leetcode.com/problems/design-twitter
+1333,"Filter Restaurants by Vegan-Friendly, Price and Distance","Array, Sort",57.5%,Medium,100.0,https://leetcode.com/problems/filter-restaurants-by-vegan-friendly-price-and-distance
+1436,Destination City,String,77.3%,Easy,53.7127,https://leetcode.com/problems/destination-city

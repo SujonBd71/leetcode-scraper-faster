@@ -1,0 +1,14 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+1,Two Sum,"Array, Hash Table",46.8%,Easy,29.493,https://leetcode.com/problems/two-sum
+3,Longest Substring Without Repeating Characters,"Hash Table, Two Pointers, String, Sliding Window",31.6%,Medium,4.34851,https://leetcode.com/problems/longest-substring-without-repeating-characters
+31,Next Permutation,Array,33.9%,Medium,4.3927,https://leetcode.com/problems/next-permutation
+168,Excel Sheet Column Title,Math,32.0%,Easy,100.0,https://leetcode.com/problems/excel-sheet-column-title
+171,Excel Sheet Column Number,Math,57.2%,Easy,58.7724,https://leetcode.com/problems/excel-sheet-column-number
+221,Maximal Square,Dynamic Programming,39.7%,Medium,17.6878,https://leetcode.com/problems/maximal-square
+316,Remove Duplicate Letters,"String, Stack, Greedy",39.5%,Medium,0.0,https://leetcode.com/problems/remove-duplicate-letters
+453,Minimum Moves to Equal Array Elements,Math,51.0%,Easy,72.5227,https://leetcode.com/problems/minimum-moves-to-equal-array-elements
+881,Boats to Save People,"Two Pointers, Greedy",49.1%,Medium,81.5165,https://leetcode.com/problems/boats-to-save-people
+968,Binary Tree Cameras,"Dynamic Programming, Tree, Depth-first Search",39.0%,Hard,40.2888,https://leetcode.com/problems/binary-tree-cameras
+1010,Pairs of Songs With Total Durations Divisible by 60,Array,50.8%,Medium,11.1638,https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60
+1081,Smallest Subsequence of Distinct Characters,"String, Stack, Greedy",53.6%,Medium,0.0,https://leetcode.com/problems/smallest-subsequence-of-distinct-characters
+1209,Remove All Adjacent Duplicates in String II,Stack,57.8%,Medium,0.0,https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii

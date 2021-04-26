@@ -1,0 +1,10 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+68,Text Justification,String,30.4%,Hard,44.3243,https://leetcode.com/problems/text-justification
+85,Maximal Rectangle,"Array, Hash Table, Dynamic Programming, Stack",39.8%,Hard,3.94566,https://leetcode.com/problems/maximal-rectangle
+200,Number of Islands,"Depth-first Search, Breadth-first Search, Union Find",49.7%,Medium,0.916121,https://leetcode.com/problems/number-of-islands
+207,Course Schedule,"Depth-first Search, Breadth-first Search, Graph, Topological Sort",44.3%,Medium,2.99848,https://leetcode.com/problems/course-schedule
+210,Course Schedule II,"Depth-first Search, Breadth-first Search, Graph, Topological Sort",43.1%,Medium,3.84648,https://leetcode.com/problems/course-schedule-ii
+224,Basic Calculator,"Math, Stack",38.3%,Hard,50.6572,https://leetcode.com/problems/basic-calculator
+252,Meeting Rooms,Sort,55.6%,Easy,2.25142,https://leetcode.com/problems/meeting-rooms
+718,Maximum Length of Repeated Subarray,"Array, Hash Table, Binary Search, Dynamic Programming",50.6%,Medium,59.6214,https://leetcode.com/problems/maximum-length-of-repeated-subarray
+811,Subdomain Visit Count,Hash Table,71.8%,Easy,100.0,https://leetcode.com/problems/subdomain-visit-count

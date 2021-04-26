@@ -1,0 +1,16 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+72,Edit Distance,"String, Dynamic Programming",47.2%,Hard,5.24521,https://leetcode.com/problems/edit-distance
+116,Populating Next Right Pointers in Each Node,"Tree, Depth-first Search, Breadth-first Search",49.8%,Medium,3.78766,https://leetcode.com/problems/populating-next-right-pointers-in-each-node
+124,Binary Tree Maximum Path Sum,"Tree, Depth-first Search, Recursion",35.7%,Hard,2.56606,https://leetcode.com/problems/binary-tree-maximum-path-sum
+133,Clone Graph,"Depth-first Search, Breadth-first Search, Graph",40.1%,Medium,3.5421,https://leetcode.com/problems/clone-graph
+146,LRU Cache,Design,36.4%,Medium,1.98757,https://leetcode.com/problems/lru-cache
+297,Serialize and Deserialize Binary Tree,"Tree, Design",50.4%,Hard,3.44952,https://leetcode.com/problems/serialize-and-deserialize-binary-tree
+348,Design Tic-Tac-Toe,Design,55.8%,Medium,11.0953,https://leetcode.com/problems/design-tic-tac-toe
+364,Nested List Weight Sum II,Depth-first Search,64.1%,Medium,100.0,https://leetcode.com/problems/nested-list-weight-sum-ii
+402,Remove K Digits,"Stack, Greedy",28.7%,Medium,23.8831,https://leetcode.com/problems/remove-k-digits
+460,LFU Cache,Design,36.6%,Hard,10.3421,https://leetcode.com/problems/lfu-cache
+815,Bus Routes,Breadth-first Search,43.6%,Hard,29.7277,https://leetcode.com/problems/bus-routes
+863,All Nodes Distance K in Binary Tree,"Tree, Depth-first Search, Breadth-first Search",58.2%,Medium,14.6568,https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree
+1239,Maximum Length of a Concatenated String with Unique Characters,"Backtracking, Bit Manipulation",50.1%,Medium,65.373,https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters
+1293,Shortest Path in a Grid with Obstacles Elimination,Breadth-first Search,43.0%,Hard,68.8546,https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination
+1374,Generate a String With Characters That Have Odd Counts,String,76.9%,Easy,34.2277,https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts

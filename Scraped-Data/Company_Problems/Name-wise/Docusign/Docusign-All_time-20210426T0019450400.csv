@@ -1,0 +1,20 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+2,Add Two Numbers,"Linked List, Math, Recursion",35.8%,Medium,7.88003,https://leetcode.com/problems/add-two-numbers
+20,Valid Parentheses,"String, Stack",40.0%,Easy,3.3698,https://leetcode.com/problems/valid-parentheses
+41,First Missing Positive,Array,34.1%,Hard,4.9422,https://leetcode.com/problems/first-missing-positive
+49,Group Anagrams,"Hash Table, String",59.9%,Medium,73.9841,https://leetcode.com/problems/group-anagrams
+71,Simplify Path,"String, Stack",35.0%,Medium,29.2823,https://leetcode.com/problems/simplify-path
+73,Set Matrix Zeroes,Array,44.7%,Medium,23.2337,https://leetcode.com/problems/set-matrix-zeroes
+79,Word Search,"Array, Backtracking",37.3%,Medium,9.56411,https://leetcode.com/problems/word-search
+92,Reverse Linked List II,Linked List,40.9%,Medium,47.9682,https://leetcode.com/problems/reverse-linked-list-ii
+121,Best Time to Buy and Sell Stock,"Array, Dynamic Programming",51.9%,Easy,5.82767,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+133,Clone Graph,"Depth-first Search, Breadth-first Search, Graph",40.1%,Medium,5.90083,https://leetcode.com/problems/clone-graph
+146,LRU Cache,Design,36.4%,Medium,29.4506,https://leetcode.com/problems/lru-cache
+200,Number of Islands,"Depth-first Search, Breadth-first Search, Union Find",49.7%,Medium,4.91903,https://leetcode.com/problems/number-of-islands
+204,Count Primes,"Hash Table, Math",32.4%,Easy,12.8734,https://leetcode.com/problems/count-primes
+206,Reverse Linked List,Linked List,65.9%,Easy,3.57242,https://leetcode.com/problems/reverse-linked-list
+242,Valid Anagram,"Hash Table, Sort",59.0%,Easy,2.96736,https://leetcode.com/problems/valid-anagram
+412,Fizz Buzz,,63.8%,Easy,5.29008,https://leetcode.com/problems/fizz-buzz
+442,Find All Duplicates in an Array,Array,69.2%,Medium,24.3338,https://leetcode.com/problems/find-all-duplicates-in-an-array
+647,Palindromic Substrings,"String, Dynamic Programming",62.8%,Medium,6.19253,https://leetcode.com/problems/palindromic-substrings
+1326,Minimum Number of Taps to Open to Water a Garden,"Dynamic Programming, Greedy",47.5%,Hard,100.0,https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden

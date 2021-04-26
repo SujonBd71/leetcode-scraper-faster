@@ -1,0 +1,35 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+1,Two Sum,"Array, Hash Table",46.8%,Easy,7.26159,https://leetcode.com/problems/two-sum
+3,Longest Substring Without Repeating Characters,"Hash Table, Two Pointers, String, Sliding Window",31.6%,Medium,1.47641,https://leetcode.com/problems/longest-substring-without-repeating-characters
+5,Longest Palindromic Substring,"String, Dynamic Programming",30.7%,Medium,4.28406,https://leetcode.com/problems/longest-palindromic-substring
+8,String to Integer (atoi),"Math, String",15.8%,Medium,1.81708,https://leetcode.com/problems/string-to-integer-atoi
+9,Palindrome Number,Math,50.2%,Easy,0.566276,https://leetcode.com/problems/palindrome-number
+20,Valid Parentheses,"String, Stack",40.0%,Easy,2.84444,https://leetcode.com/problems/valid-parentheses
+23,Merge k Sorted Lists,"Linked List, Divide and Conquer, Heap",43.2%,Hard,0.973575,https://leetcode.com/problems/merge-k-sorted-lists
+24,Swap Nodes in Pairs,"Linked List, Recursion",53.7%,Medium,0.506847,https://leetcode.com/problems/swap-nodes-in-pairs
+56,Merge Intervals,"Array, Sort",41.5%,Medium,1.1797,https://leetcode.com/problems/merge-intervals
+94,Binary Tree Inorder Traversal,"Hash Table, Stack, Tree",66.4%,Medium,0.782945,https://leetcode.com/problems/binary-tree-inorder-traversal
+102,Binary Tree Level Order Traversal,"Tree, Breadth-first Search",57.1%,Medium,0.517035,https://leetcode.com/problems/binary-tree-level-order-traversal
+112,Path Sum,"Tree, Depth-first Search",42.7%,Easy,0.453075,https://leetcode.com/problems/path-sum
+121,Best Time to Buy and Sell Stock,"Array, Dynamic Programming",51.9%,Easy,2.37131,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+151,Reverse Words in a String,String,24.3%,Medium,1.11594,https://leetcode.com/problems/reverse-words-in-a-string
+200,Number of Islands,"Depth-first Search, Breadth-first Search, Union Find",49.7%,Medium,0.628163,https://leetcode.com/problems/number-of-islands
+209,Minimum Size Subarray Sum,"Array, Two Pointers, Binary Search",39.9%,Medium,1.30657,https://leetcode.com/problems/minimum-size-subarray-sum
+238,Product of Array Except Self,Array,61.4%,Medium,0.123339,https://leetcode.com/problems/product-of-array-except-self
+240,Search a 2D Matrix II,"Binary Search, Divide and Conquer",45.5%,Medium,1.95386,https://leetcode.com/problems/search-a-2d-matrix-ii
+283,Move Zeroes,"Array, Two Pointers",58.7%,Easy,3.80627,https://leetcode.com/problems/move-zeroes
+322,Coin Change,Dynamic Programming,37.8%,Medium,0.9052,https://leetcode.com/problems/coin-change
+412,Fizz Buzz,,63.8%,Easy,6.91498,https://leetcode.com/problems/fizz-buzz
+509,Fibonacci Number,Array,67.9%,Easy,0.747696,https://leetcode.com/problems/fibonacci-number
+696,Count Binary Substrings,String,61.2%,Easy,0.165248,https://leetcode.com/problems/count-binary-substrings
+706,Design HashMap,"Hash Table, Design",64.0%,Easy,0.502923,https://leetcode.com/problems/design-hashmap
+738,Monotone Increasing Digits,Greedy,45.8%,Medium,100.0,https://leetcode.com/problems/monotone-increasing-digits
+1048,Longest String Chain,"Hash Table, Dynamic Programming",55.7%,Medium,1.79066,https://leetcode.com/problems/longest-string-chain
+1177,Can Make Palindrome from Substring,"Array, String",36.0%,Medium,63.9056,https://leetcode.com/problems/can-make-palindrome-from-substring
+1200,Minimum Absolute Difference,Array,67.1%,Easy,1.09507,https://leetcode.com/problems/minimum-absolute-difference
+1209,Remove All Adjacent Duplicates in String II,Stack,57.8%,Medium,0.282442,https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii
+1283,Find the Smallest Divisor Given a Threshold,Binary Search,50.0%,Medium,61.1241,https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold
+1312,Minimum Insertion Steps to Make a String Palindrome,Dynamic Programming,60.2%,Hard,4.34561,https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome
+1335,Minimum Difficulty of a Job Schedule,Dynamic Programming,56.5%,Hard,0.776491,https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule
+1341,Movie Rating,,59.0%,Medium,25.0298,https://leetcode.com/problems/movie-rating
+1349,Maximum Students Taking Exam,Dynamic Programming,44.4%,Hard,61.294,https://leetcode.com/problems/maximum-students-taking-exam

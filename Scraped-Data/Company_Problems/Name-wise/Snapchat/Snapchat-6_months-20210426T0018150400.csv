@@ -1,0 +1,15 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+79,Word Search,"Array, Backtracking",37.3%,Medium,79.6108,https://leetcode.com/problems/word-search
+121,Best Time to Buy and Sell Stock,"Array, Dynamic Programming",51.9%,Easy,3.07675,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+127,Word Ladder,Breadth-first Search,32.3%,Hard,12.8873,https://leetcode.com/problems/word-ladder
+146,LRU Cache,Design,36.4%,Medium,100.0,https://leetcode.com/problems/lru-cache
+161,One Edit Distance,String,33.2%,Medium,56.2607,https://leetcode.com/problems/one-edit-distance
+200,Number of Islands,"Depth-first Search, Breadth-first Search, Union Find",49.7%,Medium,10.3677,https://leetcode.com/problems/number-of-islands
+210,Course Schedule II,"Depth-first Search, Breadth-first Search, Graph, Topological Sort",43.1%,Medium,69.0984,https://leetcode.com/problems/course-schedule-ii
+277,Find the Celebrity,Array,44.2%,Medium,35.1408,https://leetcode.com/problems/find-the-celebrity
+380,Insert Delete GetRandom O(1),"Array, Hash Table, Design",49.2%,Medium,14.7516,https://leetcode.com/problems/insert-delete-getrandom-o1
+394,Decode String,"Stack, Depth-first Search",53.1%,Medium,14.0709,https://leetcode.com/problems/decode-string
+438,Find All Anagrams in a String,Hash Table,45.3%,Medium,41.3254,https://leetcode.com/problems/find-all-anagrams-in-a-string
+642,Design Search Autocomplete System,"Design, Trie",46.6%,Hard,59.7056,https://leetcode.com/problems/design-search-autocomplete-system
+934,Shortest Bridge,"Depth-first Search, Breadth-first Search",50.0%,Medium,57.8961,https://leetcode.com/problems/shortest-bridge
+939,Minimum Area Rectangle,Hash Table,52.3%,Medium,68.0872,https://leetcode.com/problems/minimum-area-rectangle

@@ -1,0 +1,8 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+17,Letter Combinations of a Phone Number,"String, Backtracking, Depth-first Search, Recursion",50.0%,Medium,3.07006,https://leetcode.com/problems/letter-combinations-of-a-phone-number
+49,Group Anagrams,"Hash Table, String",59.9%,Medium,1.10087,https://leetcode.com/problems/group-anagrams
+68,Text Justification,String,30.4%,Hard,100.0,https://leetcode.com/problems/text-justification
+146,LRU Cache,Design,36.4%,Medium,0.531039,https://leetcode.com/problems/lru-cache
+332,Reconstruct Itinerary,"Depth-first Search, Graph",38.3%,Medium,10.8463,https://leetcode.com/problems/reconstruct-itinerary
+974,Subarray Sums Divisible by K,"Array, Hash Table",51.1%,Medium,55.4231,https://leetcode.com/problems/subarray-sums-divisible-by-k
+1636,Sort Array by Increasing Frequency,"Array, Sort",67.0%,Easy,8.27164,https://leetcode.com/problems/sort-array-by-increasing-frequency

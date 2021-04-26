@@ -1,0 +1,51 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+1,Two Sum,"Array, Hash Table",46.8%,Easy,4.48482,https://leetcode.com/problems/two-sum
+3,Longest Substring Without Repeating Characters,"Hash Table, Two Pointers, String, Sliding Window",31.6%,Medium,0.373374,https://leetcode.com/problems/longest-substring-without-repeating-characters
+20,Valid Parentheses,"String, Stack",40.0%,Easy,6.88587,https://leetcode.com/problems/valid-parentheses
+21,Merge Two Sorted Lists,"Linked List, Recursion",56.5%,Easy,0.26283,https://leetcode.com/problems/merge-two-sorted-lists
+33,Search in Rotated Sorted Array,"Array, Binary Search",36.2%,Medium,9.45013,https://leetcode.com/problems/search-in-rotated-sorted-array
+42,Trapping Rain Water,"Array, Two Pointers, Dynamic Programming, Stack",51.8%,Hard,0.975647,https://leetcode.com/problems/trapping-rain-water
+49,Group Anagrams,"Hash Table, String",59.9%,Medium,1.06283,https://leetcode.com/problems/group-anagrams
+53,Maximum Subarray,"Array, Divide and Conquer, Dynamic Programming",47.9%,Easy,0.55539,https://leetcode.com/problems/maximum-subarray
+54,Spiral Matrix,Array,36.7%,Medium,2.86796,https://leetcode.com/problems/spiral-matrix
+63,Unique Paths II,"Array, Dynamic Programming",35.4%,Medium,1.25406,https://leetcode.com/problems/unique-paths-ii
+70,Climbing Stairs,Dynamic Programming,48.8%,Easy,7.04445,https://leetcode.com/problems/climbing-stairs
+73,Set Matrix Zeroes,Array,44.7%,Medium,2.03283,https://leetcode.com/problems/set-matrix-zeroes
+75,Sort Colors,"Array, Two Pointers, Sort",50.0%,Medium,0.63731,https://leetcode.com/problems/sort-colors
+79,Word Search,"Array, Backtracking",37.3%,Medium,0.659748,https://leetcode.com/problems/word-search
+91,Decode Ways,"String, Dynamic Programming",27.0%,Medium,0.712222,https://leetcode.com/problems/decode-ways
+114,Flatten Binary Tree to Linked List,"Tree, Depth-first Search",52.6%,Medium,1.22262,https://leetcode.com/problems/flatten-binary-tree-to-linked-list
+121,Best Time to Buy and Sell Stock,"Array, Dynamic Programming",51.9%,Easy,2.02366,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+134,Gas Station,Greedy,41.7%,Medium,1.95377,https://leetcode.com/problems/gas-station
+146,LRU Cache,Design,36.4%,Medium,4.56008,https://leetcode.com/problems/lru-cache
+151,Reverse Words in a String,String,24.3%,Medium,0.943637,https://leetcode.com/problems/reverse-words-in-a-string
+198,House Robber,Dynamic Programming,43.2%,Medium,3.87212,https://leetcode.com/problems/house-robber
+200,Number of Islands,"Depth-first Search, Breadth-first Search, Union Find",49.7%,Medium,9.96809,https://leetcode.com/problems/number-of-islands
+206,Reverse Linked List,Linked List,65.9%,Easy,0.246063,https://leetcode.com/problems/reverse-linked-list
+215,Kth Largest Element in an Array,"Divide and Conquer, Heap",59.1%,Medium,0.489238,https://leetcode.com/problems/kth-largest-element-in-an-array
+238,Product of Array Except Self,Array,61.4%,Medium,0.413791,https://leetcode.com/problems/product-of-array-except-self
+239,Sliding Window Maximum,"Heap, Sliding Window, Dequeue",44.8%,Hard,0.892219,https://leetcode.com/problems/sliding-window-maximum
+253,Meeting Rooms II,"Heap, Greedy, Sort",47.2%,Medium,1.65886,https://leetcode.com/problems/meeting-rooms-ii
+276,Paint Fence,Dynamic Programming,39.3%,Medium,12.982,https://leetcode.com/problems/paint-fence
+297,Serialize and Deserialize Binary Tree,"Tree, Design",50.4%,Hard,3.53188,https://leetcode.com/problems/serialize-and-deserialize-binary-tree
+332,Reconstruct Itinerary,"Depth-first Search, Graph",38.3%,Medium,3.84361,https://leetcode.com/problems/reconstruct-itinerary
+423,Reconstruct Original Digits from English,Math,50.9%,Medium,0.619179,https://leetcode.com/problems/reconstruct-original-digits-from-english
+426,Convert Binary Search Tree to Sorted Doubly Linked List,"Linked List, Divide and Conquer, Tree",61.7%,Medium,1.91461,https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list
+443,String Compression,String,44.3%,Medium,21.9711,https://leetcode.com/problems/string-compression
+528,Random Pick with Weight,"Binary Search, Random",44.8%,Medium,5.71487,https://leetcode.com/problems/random-pick-with-weight
+532,K-diff Pairs in an Array,"Array, Two Pointers",35.6%,Medium,3.0404,https://leetcode.com/problems/k-diff-pairs-in-an-array
+647,Palindromic Substrings,"String, Dynamic Programming",62.8%,Medium,0.95884,https://leetcode.com/problems/palindromic-substrings
+692,Top K Frequent Words,"Hash Table, Heap, Trie",53.3%,Medium,4.60195,https://leetcode.com/problems/top-k-frequent-words
+706,Design HashMap,"Hash Table, Design",64.0%,Easy,3.77331,https://leetcode.com/problems/design-hashmap
+724,Find Pivot Index,Array,46.3%,Easy,6.31297,https://leetcode.com/problems/find-pivot-index
+739,Daily Temperatures,"Hash Table, Stack",64.9%,Medium,1.19521,https://leetcode.com/problems/daily-temperatures
+787,Cheapest Flights Within K Stops,"Dynamic Programming, Heap, Breadth-first Search",39.7%,Medium,9.68877,https://leetcode.com/problems/cheapest-flights-within-k-stops
+973,K Closest Points to Origin,"Divide and Conquer, Heap, Sort",64.7%,Medium,4.21791,https://leetcode.com/problems/k-closest-points-to-origin
+974,Subarray Sums Divisible by K,"Array, Hash Table",51.1%,Medium,32.1131,https://leetcode.com/problems/subarray-sums-divisible-by-k
+1041,Robot Bounded In Circle,Math,55.1%,Medium,1.032,https://leetcode.com/problems/robot-bounded-in-circle
+1197,Minimum Knight Moves,Breadth-first Search,37.6%,Medium,56.357,https://leetcode.com/problems/minimum-knight-moves
+1283,Find the Smallest Divisor Given a Threshold,Binary Search,50.0%,Medium,23.6296,https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold
+1465,Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts,Array,34.1%,Medium,23.1095,https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts
+1481,Least Number of Unique Integers after K Removals,"Array, Sort",55.9%,Medium,5.95489,https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals
+1492,The kth Factor of n,Math,63.1%,Medium,75.7561,https://leetcode.com/problems/the-kth-factor-of-n
+1507,Reformat Date,String,60.2%,Easy,100.0,https://leetcode.com/problems/reformat-date

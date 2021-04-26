@@ -1,0 +1,6 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+46,Permutations,Backtracking,67.3%,Medium,63.393,https://leetcode.com/problems/permutations
+48,Rotate Image,Array,61.1%,Medium,18.4508,https://leetcode.com/problems/rotate-image
+146,LRU Cache,Design,36.4%,Medium,26.7861,https://leetcode.com/problems/lru-cache
+504,Base 7,,46.5%,Easy,100.0,https://leetcode.com/problems/base-7
+810,Chalkboard XOR Game,Math,50.3%,Hard,0.0,https://leetcode.com/problems/chalkboard-xor-game

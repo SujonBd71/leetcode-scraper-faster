@@ -1,0 +1,24 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+1,Two Sum,"Array, Hash Table",46.8%,Easy,0.948529,https://leetcode.com/problems/two-sum
+20,Valid Parentheses,"String, Stack",40.0%,Easy,3.68937,https://leetcode.com/problems/valid-parentheses
+21,Merge Two Sorted Lists,"Linked List, Recursion",56.5%,Easy,0.343638,https://leetcode.com/problems/merge-two-sorted-lists
+33,Search in Rotated Sorted Array,"Array, Binary Search",36.2%,Medium,1.14023,https://leetcode.com/problems/search-in-rotated-sorted-array
+49,Group Anagrams,"Hash Table, String",59.9%,Medium,0.618661,https://leetcode.com/problems/group-anagrams
+54,Spiral Matrix,Array,36.7%,Medium,0.94331,https://leetcode.com/problems/spiral-matrix
+70,Climbing Stairs,Dynamic Programming,48.8%,Easy,7.3083,https://leetcode.com/problems/climbing-stairs
+79,Word Search,"Array, Backtracking",37.3%,Medium,0.862589,https://leetcode.com/problems/word-search
+121,Best Time to Buy and Sell Stock,"Array, Dynamic Programming",51.9%,Easy,0.664384,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+200,Number of Islands,"Depth-first Search, Breadth-first Search, Union Find",49.7%,Medium,2.75536,https://leetcode.com/problems/number-of-islands
+253,Meeting Rooms II,"Heap, Greedy, Sort",47.2%,Medium,0.966531,https://leetcode.com/problems/meeting-rooms-ii
+332,Reconstruct Itinerary,"Depth-first Search, Graph",38.3%,Medium,5.02533,https://leetcode.com/problems/reconstruct-itinerary
+426,Convert Binary Search Tree to Sorted Doubly Linked List,"Linked List, Divide and Conquer, Tree",61.7%,Medium,2.50326,https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list
+528,Random Pick with Weight,"Binary Search, Random",44.8%,Medium,7.47191,https://leetcode.com/problems/random-pick-with-weight
+532,K-diff Pairs in an Array,"Array, Two Pointers",35.6%,Medium,3.97518,https://leetcode.com/problems/k-diff-pairs-in-an-array
+647,Palindromic Substrings,"String, Dynamic Programming",62.8%,Medium,0.558035,https://leetcode.com/problems/palindromic-substrings
+787,Cheapest Flights Within K Stops,"Dynamic Programming, Heap, Breadth-first Search",39.7%,Medium,12.6676,https://leetcode.com/problems/cheapest-flights-within-k-stops
+1041,Robot Bounded In Circle,Math,55.1%,Medium,1.34929,https://leetcode.com/problems/robot-bounded-in-circle
+1197,Minimum Knight Moves,Breadth-first Search,37.6%,Medium,55.5779,https://leetcode.com/problems/minimum-knight-moves
+1465,Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts,Array,34.1%,Medium,30.2145,https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts
+1481,Least Number of Unique Integers after K Removals,"Array, Sort",55.9%,Medium,7.78573,https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals
+1492,The kth Factor of n,Math,63.1%,Medium,80.9413,https://leetcode.com/problems/the-kth-factor-of-n
+1507,Reformat Date,String,60.2%,Easy,100.0,https://leetcode.com/problems/reformat-date

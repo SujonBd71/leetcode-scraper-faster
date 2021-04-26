@@ -1,0 +1,20 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+1,Two Sum,"Array, Hash Table",46.8%,Easy,100.0,https://leetcode.com/problems/two-sum
+5,Longest Palindromic Substring,"String, Dynamic Programming",30.7%,Medium,78.7133,https://leetcode.com/problems/longest-palindromic-substring
+15,3Sum,"Array, Two Pointers",28.3%,Medium,5.42807,https://leetcode.com/problems/3sum
+21,Merge Two Sorted Lists,"Linked List, Recursion",56.5%,Easy,39.1824,https://leetcode.com/problems/merge-two-sorted-lists
+25,Reverse Nodes in k-Group,Linked List,45.6%,Hard,17.8956,https://leetcode.com/problems/reverse-nodes-in-k-group
+33,Search in Rotated Sorted Array,"Array, Binary Search",36.2%,Medium,11.6883,https://leetcode.com/problems/search-in-rotated-sorted-array
+41,First Missing Positive,Array,34.1%,Hard,0.94648,https://leetcode.com/problems/first-missing-positive
+72,Edit Distance,"String, Dynamic Programming",47.2%,Hard,10.2492,https://leetcode.com/problems/edit-distance
+121,Best Time to Buy and Sell Stock,"Array, Dynamic Programming",51.9%,Easy,5.59074,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+136,Single Number,"Hash Table, Bit Manipulation",66.8%,Easy,14.5526,https://leetcode.com/problems/single-number
+143,Reorder List,Linked List,41.3%,Medium,7.25993,https://leetcode.com/problems/reorder-list
+190,Reverse Bits,Bit Manipulation,42.8%,Easy,1.90804,https://leetcode.com/problems/reverse-bits
+206,Reverse Linked List,Linked List,65.9%,Easy,59.3999,https://leetcode.com/problems/reverse-linked-list
+256,Paint House,Dynamic Programming,54.1%,Medium,6.03303,https://leetcode.com/problems/paint-house
+394,Decode String,"Stack, Depth-first Search",53.1%,Medium,5.06861,https://leetcode.com/problems/decode-string
+543,Diameter of Binary Tree,Tree,49.7%,Easy,4.71318,https://leetcode.com/problems/diameter-of-binary-tree
+546,Remove Boxes,"Dynamic Programming, Depth-first Search",44.1%,Hard,0.0,https://leetcode.com/problems/remove-boxes
+625,Minimum Factorization,"Math, Recursion",33.0%,Medium,0.0,https://leetcode.com/problems/minimum-factorization
+1143,Longest Common Subsequence,Dynamic Programming,58.7%,Medium,3.21608,https://leetcode.com/problems/longest-common-subsequence

@@ -1,0 +1,38 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+20,Valid Parentheses,"String, Stack",40.0%,Easy,1.28488,https://leetcode.com/problems/valid-parentheses
+39,Combination Sum,"Array, Backtracking",59.9%,Medium,3.65413,https://leetcode.com/problems/combination-sum
+42,Trapping Rain Water,"Array, Two Pointers, Dynamic Programming, Stack",51.8%,Hard,2.40431,https://leetcode.com/problems/trapping-rain-water
+44,Wildcard Matching,"String, Dynamic Programming, Backtracking, Greedy",25.6%,Hard,19.6571,https://leetcode.com/problems/wildcard-matching
+49,Group Anagrams,"Hash Table, String",59.9%,Medium,2.61953,https://leetcode.com/problems/group-anagrams
+85,Maximal Rectangle,"Array, Hash Table, Dynamic Programming, Stack",39.8%,Hard,11.9201,https://leetcode.com/problems/maximal-rectangle
+98,Validate Binary Search Tree,"Tree, Depth-first Search, Recursion",29.0%,Medium,1.88076,https://leetcode.com/problems/validate-binary-search-tree
+105,Construct Binary Tree from Preorder and Inorder Traversal,"Array, Tree, Depth-first Search",52.6%,Medium,27.6386,https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal
+121,Best Time to Buy and Sell Stock,"Array, Dynamic Programming",51.9%,Easy,1.25131,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+127,Word Ladder,Breadth-first Search,32.3%,Hard,11.7525,https://leetcode.com/problems/word-ladder
+146,LRU Cache,Design,36.4%,Medium,6.37421,https://leetcode.com/problems/lru-cache
+188,Best Time to Buy and Sell Stock IV,Dynamic Programming,30.2%,Hard,15.1024,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv
+200,Number of Islands,"Depth-first Search, Breadth-first Search, Union Find",49.7%,Medium,29.586,https://leetcode.com/problems/number-of-islands
+208,Implement Trie (Prefix Tree),"Design, Trie",52.8%,Medium,6.22505,https://leetcode.com/problems/implement-trie-prefix-tree
+221,Maximal Square,Dynamic Programming,39.7%,Medium,14.8878,https://leetcode.com/problems/maximal-square
+232,Implement Queue using Stacks,"Stack, Design",52.9%,Easy,8.43619,https://leetcode.com/problems/implement-queue-using-stacks
+238,Product of Array Except Self,Array,61.4%,Medium,2.29075,https://leetcode.com/problems/product-of-array-except-self
+239,Sliding Window Maximum,"Heap, Sliding Window, Dequeue",44.8%,Hard,58.8093,https://leetcode.com/problems/sliding-window-maximum
+241,Different Ways to Add Parentheses,Divide and Conquer,57.7%,Medium,30.9307,https://leetcode.com/problems/different-ways-to-add-parentheses
+259,3Sum Smaller,"Array, Two Pointers",49.3%,Medium,30.7061,https://leetcode.com/problems/3sum-smaller
+282,Expression Add Operators,Divide and Conquer,37.0%,Hard,50.136,https://leetcode.com/problems/expression-add-operators
+285,Inorder Successor in BST,Tree,43.9%,Medium,23.3334,https://leetcode.com/problems/inorder-successor-in-bst
+297,Serialize and Deserialize Binary Tree,"Tree, Design",50.4%,Hard,11.0477,https://leetcode.com/problems/serialize-and-deserialize-binary-tree
+301,Remove Invalid Parentheses,"Depth-first Search, Breadth-first Search",45.0%,Hard,10.7036,https://leetcode.com/problems/remove-invalid-parentheses
+359,Logger Rate Limiter,"Hash Table, Design",72.7%,Easy,10.9467,https://leetcode.com/problems/logger-rate-limiter
+362,Design Hit Counter,Design,65.6%,Medium,18.9893,https://leetcode.com/problems/design-hit-counter
+380,Insert Delete GetRandom O(1),"Array, Hash Table, Design",49.2%,Medium,5.99944,https://leetcode.com/problems/insert-delete-getrandom-o1
+460,LFU Cache,Design,36.6%,Hard,32.9125,https://leetcode.com/problems/lfu-cache
+588,Design In-Memory File System,Design,46.8%,Hard,33.4589,https://leetcode.com/problems/design-in-memory-file-system
+628,Maximum Product of Three Numbers,"Array, Math",46.8%,Easy,29.5718,https://leetcode.com/problems/maximum-product-of-three-numbers
+724,Find Pivot Index,Array,46.3%,Easy,19.8163,https://leetcode.com/problems/find-pivot-index
+752,Open the Lock,Breadth-first Search,53.0%,Medium,79.4046,https://leetcode.com/problems/open-the-lock
+829,Consecutive Numbers Sum,Math,39.2%,Hard,100.0,https://leetcode.com/problems/consecutive-numbers-sum
+867,Transpose Matrix,Array,61.9%,Easy,19.9443,https://leetcode.com/problems/transpose-matrix
+1048,Longest String Chain,"Hash Table, Dynamic Programming",55.7%,Medium,33.2575,https://leetcode.com/problems/longest-string-chain
+1248,Count Number of Nice Subarrays,Two Pointers,56.2%,Medium,39.3365,https://leetcode.com/problems/count-number-of-nice-subarrays
+1395,Count Number of Teams,Array,74.6%,Medium,18.9609,https://leetcode.com/problems/count-number-of-teams

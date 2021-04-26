@@ -1,0 +1,12 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+5,Longest Palindromic Substring,"String, Dynamic Programming",30.7%,Medium,7.01113,https://leetcode.com/problems/longest-palindromic-substring
+125,Valid Palindrome,"Two Pointers, String",38.6%,Easy,6.12347,https://leetcode.com/problems/valid-palindrome
+210,Course Schedule II,"Depth-first Search, Breadth-first Search, Graph, Topological Sort",43.1%,Medium,1.36886,https://leetcode.com/problems/course-schedule-ii
+224,Basic Calculator,"Math, Stack",38.3%,Hard,3.00074,https://leetcode.com/problems/basic-calculator
+409,Longest Palindrome,Hash Table,52.3%,Easy,5.01886,https://leetcode.com/problems/longest-palindrome
+415,Add Strings,String,48.6%,Easy,2.68001,https://leetcode.com/problems/add-strings
+718,Maximum Length of Repeated Subarray,"Array, Hash Table, Binary Search, Dynamic Programming",50.6%,Medium,4.23058,https://leetcode.com/problems/maximum-length-of-repeated-subarray
+759,Employee Free Time,"Heap, Greedy",68.6%,Hard,23.8508,https://leetcode.com/problems/employee-free-time
+811,Subdomain Visit Count,Hash Table,71.8%,Easy,100.0,https://leetcode.com/problems/subdomain-visit-count
+1204,Last Person to Fit in the Elevator,,72.3%,Medium,68.0234,https://leetcode.com/problems/last-person-to-fit-in-the-elevator
+1604,Alert Using Same Key-Card Three or More Times in a One Hour Period,"String, Ordered Map",43.1%,Medium,36.0467,https://leetcode.com/problems/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period
